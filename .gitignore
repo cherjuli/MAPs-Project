@@ -19,3 +19,7 @@ treat.egg-info/
 .Rhistory
 .quarto
 /.vscode
+data/raw/
+*.env
+models/
+data/proprietary/

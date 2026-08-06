@@ -40,6 +40,23 @@ RESULTS := $(shell yq -r '.results_r' $(CONFIG))
 
 .phony: all clean very-clean dist-clean
 
+.PHONY: data measure validate analyze paper
+
+# MAP-style pipeline aliases (scaffold)
+data: $(GENERATED_DATA)
+
+measure: data
+	@echo "MAP measurement step scaffolded. Add scripts under code/02_map_measurement/."
+
+validate: measure
+	@echo "Validation step scaffolded. Add scripts under code/03_validation/."
+
+analyze: validate
+	@echo "Analysis step scaffolded. Add scripts under code/05_regression/."
+
+paper: $(PAPER)
+
+
 all: $(TARGETS)
 
 clean:
