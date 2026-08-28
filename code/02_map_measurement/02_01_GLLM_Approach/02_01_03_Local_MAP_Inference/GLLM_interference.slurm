@@ -9,7 +9,7 @@
 #SBATCH --time=48:00:00
 #SBATCH --mem=25gb
 #SBATCH --array=0-3
-#SBATCH --mail-user=julian.wenzel@uni-tuebingen.de
+#SBATCH --mail-user=example@mail.com
 #SBATCH --mail-type=ALL
 #SBATCH --output=slurm-%x-%j.out
 #SBATCH --error=slurm-%x-%j.err
@@ -18,7 +18,7 @@ module load devel/cuda/12.1
 module load devel/miniforge
 
 source $MINIFORGE_HOME/etc/profile.d/conda.sh
-conda activate map-gllm-env
+conda activate !!!INSERTE PYTHON ENV HERE!!!
 
 echo "============================================"
 echo " SLURM Job ID: $SLURM_JOB_ID"
