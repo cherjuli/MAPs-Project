@@ -1,0 +1,12 @@
+# Generated W2V corpora, models, scores, validation merges, and analysis
+# outputs remain local unless they are explicitly reviewed and allowlisted here.
+*
+!.gitignore
+!README.md
+!Dictionary_creation/
+Dictionary_creation/*
+!Dictionary_creation/MAP_Dictionary_W2V_v1_final.csv
+!Dictionary_creation/MAP_Dictionary_W2V_v2_final.csv
+!Dictionary_creation/MAP_Seed_Words_Dictionary_final.csv
+!Dictionary_creation/MAP_Seed_Words_Selection_v1.csv
+!Dictionary_creation/MAP_Seed_Words_Selection_v2.csv

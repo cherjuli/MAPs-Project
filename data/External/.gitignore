@@ -1,0 +1,7 @@
+# External source data may be proprietary, licensed, or too large to publish.
+# Ignore everything by default and explicitly allow only reviewed documentation
+# and the committed variable-request list.
+*
+!.gitignore
+!README.md
+!LSEG_variables_list_final.csv

@@ -1,0 +1,609 @@
+Dimension;US_Ranked;Seed_Word;Synonym;Synonyms_adjusted;Similarity_Score
+Budgeting/Planning;1;forecasts;industry_reports;industry reports;0.453491628
+Budgeting/Planning;4;resource_allocation;allocate_resources;allocate resources;0.496927023
+Budgeting/Planning;4;resource_allocation;allocating_resources;allocating resources;0.567703545
+Budgeting/Planning;1;forecasts;long_term_projections;long term projections;0.481167942
+Budgeting/Planning;4;resource_allocation;allocation_of_resources;allocation of resources;0.607423186
+Budgeting/Planning;1;forecasts;operating_forecasts;operating forecasts;0.451276988
+Budgeting/Planning;1;forecasts;anticipated_market_conditions;anticipated market conditions;0.487122655
+Budgeting/Planning;5;business_planning;budgeting;budgeting;0.433210045
+Budgeting/Planning;2;budgeting;budgeting_process;budgeting process;0.465778679
+Budgeting/Planning;2;budgeting;budgets;budgets;0.406591803
+Budgeting/Planning;5;business_planning;business_decisions;business decisions;0.445988148
+Budgeting/Planning;2;budgeting;business_planning;business planning;0.433209956
+Budgeting/Planning;1;forecasts;cash_flow_forecasts;cash flow forecasts;0.577299416
+Budgeting/Planning;1;forecasts;cash_flow_projections;cash flow projections;0.469102949
+Budgeting/Planning;1;forecasts;current_expectations;current expectations;0.553588331
+Budgeting/Planning;5;business_planning;decision_making;decision making;0.414365381
+Budgeting/Planning;2;budgeting;demand_forecasting;demand forecasting;0.432609975
+Budgeting/Planning;1;forecasts;expectations;expectations;0.516027689
+Budgeting/Planning;1;forecasts;expectations_of_future;expectations of future;0.486421108
+Budgeting/Planning;1;forecasts;external_forecasts;external forecasts;0.489195734
+Budgeting/Planning;1;forecasts;financial_forecasts;financial forecasts;0.487131685
+Budgeting/Planning;1;forecasts;financial_projections;financial projections;0.591226101
+Budgeting/Planning;1;forecasts;forecast;forecast;0.55030179
+Budgeting/Planning;1;forecasts;forecasted;forecasted;0.461279333
+Budgeting/Planning;2;budgeting;forecasting;forecasting;0.484227568
+Budgeting/Planning;2;budgeting;forecasting_future_periods;forecasting future periods;0.517300189
+Budgeting/Planning;2;budgeting;forecasting_process;forecasting process;0.476451933
+Budgeting/Planning;2;budgeting;forecasting_purposes;forecasting purposes;0.486889273
+Budgeting/Planning;1;forecasts;forecasts_of_future;forecasts of future;0.455386013
+Budgeting/Planning;1;forecasts;future_economic_conditions;future economic conditions;0.464599729
+Budgeting/Planning;4;resource_allocation;goal_setting;goal setting;0.512519956
+Budgeting/Planning;2;budgeting;internal_budgeting;internal budgeting;0.416866153
+Budgeting/Planning;1;forecasts;internal_estimates;internal estimates;0.492913753
+Budgeting/Planning;1;forecasts;internal_forecasts;internal forecasts;0.597026348
+Budgeting/Planning;1;forecasts;internal_projections;internal projections;0.511131763
+Budgeting/Planning;1;forecasts;market_expectations;market expectations;0.470270216
+Budgeting/Planning;1;forecasts;operational_budgets;operational budgets;0.47968626
+Budgeting/Planning;1;forecasts;projections;projections;0.728096962
+Budgeting/Planning;1;forecasts;projections_of_future;projections of future;0.517927349
+Budgeting/Planning;4;resource_allocation;resource_allocation_decisions;resource allocation decisions;0.432050943
+Budgeting/Planning;5;business_planning;succession_planning;succession planning;0.433629781
+Budgeting/Planning;5;scorecard;economic_scenarios;economic scenarios;0.386976779
+Budgeting/Planning;1;forecasts;forecasts;forecasts;1
+Budgeting/Planning;3;planning;planning;planning;1
+Budgeting/Planning;4;resource_allocation;resource_allocation;resource allocation;1
+Cost;1;allocation_of_costs;allocation_of_costs;allocation of costs;1
+Cost;1;allocation_of_costs;allocation_of_expenses;allocation of expenses;0.362313718
+Cost;1;allocation_of_costs;cost_allocations;cost allocations;0.326299399
+Cost;3;cost_structure;expense_base;expense base;0.529793978
+Cost;5;historical_cost_accounting;use_historical_cost_accounting;use historical cost accounting;0.356285661
+Cost;1;allocation_of_costs;cost_allocation;cost allocation;0.35890305
+Cost;2;cost_management;cost_containment;cost containment;0.531213641
+Cost;4;cost_control;cost_control;cost control;1
+Cost;2;cost_management;cost_controls;cost controls;0.563551426
+Cost;2;cost_management;cost_discipline;cost discipline;0.522106111
+Cost;2;cost_management;cost_management;cost management;1
+Cost;3;cost_structure;cost_position;cost position;0.516149819
+Cost;3;cost_structure;cost_reduction;cost reduction;0.447710991
+Cost;3;cost_structure;cost_reduction_efforts;cost reduction efforts;0.453675598
+Cost;3;cost_structure;cost_reductions;cost reductions;0.463533133
+Cost;3;cost_structure;cost_structure;cost structure;1
+Cost;2;cost_management;disciplined_cost_management;disciplined cost management;0.513583481
+Cost;2;cost_management;disciplined_expense_management;disciplined expense management;0.493830532
+Cost;2;cost_management;expense_control;expense control;0.501736879
+Cost;2;cost_management;expense_management;expense management;0.57626605
+Cost;3;cost_structure;fixed_cost_structure;fixed cost structure;0.527813315
+Cost;5;historical_cost_accounting;historical_cost_accounting;historical cost accounting;1
+Cost;5;historical_cost_accounting;historical_cost_depreciation;historical cost depreciation;0.385879606
+Cost;4;cost_control;improving_margins;improving margins;0.505931616
+Cost;3;cost_structure;cost_base;cost base;0.674560249
+Cost;3;cost_structure;cost_reduction_initiatives;cost reduction initiatives;0.44294703
+Cost;2;cost_management;drive_margin_expansion;drive margin expansion;0.493504316
+Cost;3;cost_structure;expense_structure;expense structure;0.444541991
+Cost;2;cost_management;margin_expansion;margin expansion;0.509024322
+Cost;2;cost_management;margin_management;margin management;0.538648844
+Cost;3;cost_structure;operating_cost_structure;operating cost structure;0.55394733
+Cost;3;cost_structure;overall_cost_structure;overall cost structure;0.615355909
+Cost;1;allocation_of_costs;recovery_of_costs;recovery of costs;0.325672388
+Cost;3;cost_structure;reduce_costs;reduce costs;0.493676722
+Cost;4;cost_control;reducing_costs;reducing costs;0.502207637
+Cost;4;cost_control;working_capital_management;working capital management;0.510103583
+Cost;3;operating_cycle;accelerated_method_of_amortization;accelerated method of amortization;0.316191554
+Cost;1;continuous_improvement;cost_improvement;cost improvement;0.499000639
+Cost;2;product_pricing;cost_trends;cost trends;0.402776659
+Cost;2;product_pricing;raw_material_costs;raw material costs;0.376066357
+Cost;1;strategic_initiatives;cost_saving_initiatives;cost saving initiatives;0.472211182
+Financing/Investment;5;business_planning;capital_management;capital management;0.453824371
+Financing/Investment;2;budgeting;financial_management;financial management;0.419546306
+Financing/Investment;4;resource_allocation;investment_decisions;investment decisions;0.460964769
+Financing/Investment;5;business_planning;liquidity_policies;liquidity policies;0.436657727
+Financing/Investment;2;budgeting;tax_planning;tax planning;0.43475616
+Financing/Investment;1;allocation_of_costs;allocation_of_proceeds;allocation of proceeds;0.318478525
+Financing/Investment;1;allocation_of_costs;allowed_return_on_equity;allowed return on equity;0.309183985
+Financing/Investment;4;cost_control;disciplined_capital_allocation;disciplined capital allocation;0.537271857
+Financing/Investment;2;cost_management;financial_discipline;financial discipline;0.503804326
+Financing/Investment;2;cost_management;portfolio_optimization;portfolio optimization;0.538247347
+Financing/Investment;3;capital_allocation;allocate_capital;allocate capital;0.475033909
+Financing/Investment;3;capital_allocation;allocating_capital;allocating capital;0.535089493
+Financing/Investment;3;capital_allocation;allocation_of_capital;allocation of capital;0.526601553
+Financing/Investment;1;cash_flow_analysis;binomial_lattice_model;binomial lattice model;0.499033093
+Financing/Investment;3;capital_allocation;capital_allocation;capital allocation;1
+Financing/Investment;3;capital_allocation;capital_allocation_framework;capital allocation framework;0.481758833
+Financing/Investment;3;capital_allocation;capital_allocation_priorities;capital allocation priorities;0.422112584
+Financing/Investment;3;capital_allocation;capital_allocation_process;capital allocation process;0.432575077
+Financing/Investment;3;capital_allocation;capital_allocation_strategy;capital allocation strategy;0.454139531
+Financing/Investment;3;capital_allocation;capital_deployment;capital deployment;0.509396136
+Financing/Investment;2;internal_rate_of_return;capitalization_rate;capitalization rate;0.391615123
+Financing/Investment;1;cash_flow_analysis;cash_flow_analyses;cash flow analyses;0.567465067
+Financing/Investment;1;cash_flow_analysis;cash_flow_analysis;cash flow analysis;1
+Financing/Investment;1;cash_flow_analysis;cash_flow_approach;cash flow approach;0.489590526
+Financing/Investment;1;cash_flow_analysis;cash_flow_methodology;cash flow methodology;0.513284445
+Financing/Investment;1;cash_flow_analysis;cash_flow_model;cash flow model;0.577109993
+Financing/Investment;1;cash_flow_analysis;cash_flow_models;cash flow models;0.594109416
+Financing/Investment;4;financial_planning;claims_management;claims management;0.446620941
+Financing/Investment;5;cost_benefit_analysis;comprehensive_capital_plan;comprehensive capital plan;0.367444873
+Financing/Investment;2;internal_rate_of_return;approved_roe;approved roe;0.388013572
+Financing/Investment;4;financial_planning;corporate_accounting;corporate accounting;0.48968181
+Financing/Investment;4;financial_planning;corporate_finance;corporate finance;0.465290904
+Financing/Investment;5;cost_benefit_analysis;cost_benefit_analysis;cost benefit analysis;1
+Financing/Investment;2;internal_rate_of_return;cost_of_equity;cost of equity;0.380506128
+Financing/Investment;2;internal_rate_of_return;cap_rate;cap rate;0.37581268
+Financing/Investment;3;capital_allocation;capital_allocation_strategies;capital allocation strategies;0.427666485
+Financing/Investment;2;internal_rate_of_return;capital_asset_pricing;capital asset pricing;0.372088462
+Financing/Investment;2;internal_rate_of_return;discount_rate;discount rate;0.376949847
+Financing/Investment;4;financial_planning;director_of_investor_relations;director of investor relations;0.433212668
+Financing/Investment;3;capital_allocation;disciplined_investment;disciplined investment;0.468387395
+Financing/Investment;1;cash_flow_analysis;discounted_cash_flow_technique;discounted cash flow technique;0.487433851
+Financing/Investment;1;cash_flow_analysis;discounted_cash_flow_analysis;discounted cash flow analysis;0.571084261
+Financing/Investment;1;cash_flow_analysis;discounted_cash_flow_approach;discounted cash flow approach;0.537900269
+Financing/Investment;1;cash_flow_analysis;discounted_cash_flow_method;discounted cash flow method;0.514889479
+Financing/Investment;1;cash_flow_analysis;discounted_cash_flow_model;discounted cash flow model;0.529223859
+Financing/Investment;1;cash_flow_analysis;discounted_cash_flow_models;discounted cash flow models;0.499391407
+Financing/Investment;2;internal_rate_of_return;enterprise_value;enterprise value;0.431814313
+Financing/Investment;1;cash_flow_analysis;discounted_cash_flows;discounted cash flows;0.489886999
+Financing/Investment;1;cash_flow_analysis;discounted_cash_flows_analysis;discounted cash flows analysis;0.496744573
+Financing/Investment;1;cash_flow_analysis;discounted_future_cash_flow_analysis;discounted future cash flow analysis;0.489793926
+Financing/Investment;2;internal_rate_of_return;equity_value;equity value;0.375472099
+Financing/Investment;2;internal_rate_of_return;interest_rate_curve;interest rate curve;0.367723197
+Financing/Investment;2;internal_rate_of_return;market_interest_rate;market interest rate;0.380336165
+Financing/Investment;3;capital_allocation;maximize_shareholder_value;maximize shareholder value;0.443480134
+Financing/Investment;2;internal_rate_of_return;equity_risk_premium;equity risk premium;0.385486454
+Financing/Investment;1;cash_flow_analysis;estimate_of_fair_value;estimate of fair value;0.499368101
+Financing/Investment;3;capital_allocation;returning_capital;returning capital;0.490676433
+Financing/Investment;1;cash_flow_analysis;fair_value_approach;fair value approach;0.493590057
+Financing/Investment;4;financial_planning;financial_planning;financial planning;1
+Financing/Investment;3;capital_allocation;free_cash_flow_generation;free cash flow generation;0.464098871
+Financing/Investment;4;financial_planning;fund_accounting;fund accounting;0.434647381
+Financing/Investment;1;cash_flow_analysis;income_approach;income approach;0.498975247
+Financing/Investment;1;cash_flow_analysis;income_based_approach;income based approach;0.5274055
+Financing/Investment;1;cash_flow_analysis;income_method;income method;0.496985763
+Financing/Investment;2;internal_rate_of_return;internal_rate_of_return;internal rate of return;1
+Financing/Investment;4;financial_planning;investor_relations;investor relations;0.449721307
+Financing/Investment;1;cash_flow_analysis;market_valuation_approach;market valuation approach;0.492334694
+Financing/Investment;3;capital_allocation;returns_on_invested_capital;returns on invested capital;0.436780125
+Financing/Investment;2;internal_rate_of_return;weighted_average_cost_of_capital;weighted average cost of capital;0.370448649
+Financing/Investment;2;internal_rate_of_return;perpetuity_growth_rate;perpetuity growth rate;0.418314725
+Financing/Investment;3;capital_allocation;portfolio_management;portfolio management;0.431117147
+Financing/Investment;1;cash_flow_analysis;present_value_technique;present value technique;0.537896335
+Financing/Investment;1;cash_flow_analysis;probability_weighted_cash_flow_analysis;probability weighted cash flow analysis;0.544181645
+Financing/Investment;2;internal_rate_of_return;return_on_capital_employed;return on capital employed;0.376491964
+Financing/Investment;5;cost_benefit_analysis;revised_capital_plan;revised capital plan;0.334186375
+Financing/Investment;2;internal_rate_of_return;risk_adjusted_discount_rate;risk adjusted discount rate;0.408146828
+Financing/Investment;5;cost_benefit_analysis;risk_based_approach;risk based approach;0.325145006
+Financing/Investment;2;internal_rate_of_return;risk_free_rate;risk free rate;0.40379408
+Financing/Investment;4;financial_planning;senior_vice_president_finance;senior vice president finance;0.464467466
+Financing/Investment;3;capital_allocation;shareholder_returns;shareholder returns;0.453510165
+Financing/Investment;3;capital_allocation;shareholder_value_creation;shareholder value creation;0.478957504
+Financing/Investment;3;capital_allocation;sustainable_growth;sustainable growth;0.450470239
+Financing/Investment;1;cash_flow_analysis;undiscounted_cash_flow_analysis;undiscounted cash flow analysis;0.50149405
+Financing/Investment;1;cash_flow_analysis;valuation_approach;valuation approach;0.502151489
+Financing/Investment;1;cash_flow_analysis;valuation_approaches;valuation approaches;0.488514096
+Financing/Investment;4;financial_planning;vice_president_of_finance;vice president of finance;0.440669596
+Financing/Investment;4;financial_planning;vice_president_of_investor_relations;vice president of investor relations;0.457290947
+Financing/Investment;2;internal_rate_of_return;wacc;wacc;0.416580737
+Financing/Investment;3;track_performance;long_term_capital_appreciation;long term capital appreciation;0.376050413
+Financing/Investment;2;internal_reporting;irr;irr;0.436416149
+Financing/Investment;1;internal_control;chief_financial_officer;chief financial officer;0.407355905
+Financing/Investment;2;business_strategy;financial_strategy;financial strategy;0.48276934
+Operations;2;budgeting;production_planning;production planning;0.408148706
+Operations;2;budgeting;merchandise_planning;merchandise planning;0.412160099
+Operations;2;budgeting;network_planning;network planning;0.388174415
+Operations;1;forecasts;operating_plan;operating plan;0.475088388
+Operations;3;planning;operations_support;operations support;0.418093055
+Operations;3;planning;design_phase;design phase;0.48126179
+Operations;3;planning;quality_assurance;quality assurance;0.422228456
+Operations;4;resource_allocation;making_operating_decisions;making operating decisions;0.427052438
+Operations;1;forecasts;operating_plans;operating plans;0.48669973
+Operations;4;resource_allocation;operational_decisions;operational decisions;0.456956625
+Operations;3;planning;program_management;program management;0.47691521
+Operations;3;cost_structure;maximize_efficiencies;maximize efficiencies;0.474702716
+Operations;2;cost_management;global_procurement;global procurement;0.497763783
+Operations;4;cost_control;higher_productivity;higher productivity;0.502236307
+Operations;3;cost_structure;improve_efficiencies;improve efficiencies;0.518408537
+Operations;3;cost_structure;improve_productivity;improve productivity;0.442269027
+Operations;3;cost_structure;improve_profitability;improve profitability;0.461134046
+Operations;4;cost_control;improved_productivity;improved productivity;0.501870334
+Operations;4;cost_control;increased_productivity;increased productivity;0.523735225
+Operations;3;cost_structure;drive_efficiencies;drive efficiencies;0.463822812
+Operations;2;cost_management;improving_productivity;improving productivity;0.512290418
+Operations;2;cost_management;operational_excellence;operational excellence;0.553904355
+Operations;2;cost_management;process_improvement;process improvement;0.553589404
+Operations;3;cost_structure;operating_efficiencies;operating efficiencies;0.487218767
+Operations;3;cost_structure;manufacturing_footprint;manufacturing footprint;0.502367795
+Operations;2;cost_management;operational_improvement;operational improvement;0.522779584
+Operations;2;cost_management;productivity_gains;productivity gains;0.560441971
+Operations;2;cost_management;productivity_improvement;productivity improvement;0.491950601
+Operations;4;cost_control;productivity_improvements;productivity improvements;0.501480639
+Operations;3;capital_allocation;driving_operational_excellence;driving operational excellence;0.425299287
+Operations;1;continuous_improvement;best_in_class;best in class;0.486547202
+Operations;2;operations_management;business_management;business management;0.463538051
+Operations;1;continuous_improvement;commercial_excellence;commercial excellence;0.479089886
+Operations;1;continuous_improvement;continuous_improvement;continuous improvement;1
+Operations;1;continuous_improvement;continuous_innovation;continuous innovation;0.459376335
+Operations;1;continuous_improvement;continuously_improve;continuously improve;0.4584153
+Operations;4;supply_chain_management;customer_management;customer management;0.496344566
+Operations;5;inventory_management;customer_service;customer service;0.475390375
+Operations;1;continuous_improvement;drive_continuous_improvement;drive continuous improvement;0.507613599
+Operations;1;continuous_improvement;employee_development;employee development;0.494933069
+Operations;4;supply_chain_management;global_manufacturing;global manufacturing;0.517648041
+Operations;4;supply_chain_management;global_sourcing;global sourcing;0.517937124
+Operations;4;supply_chain_management;inventory_control;inventory control;0.494844973
+Operations;5;inventory_management;inventory_management;inventory management;1
+Operations;5;inventory_management;inventory_management_systems;inventory management systems;0.487706006
+Operations;5;inventory_management;inventory_planning;inventory planning;0.497730613
+Operations;4;supply_chain_management;lean_manufacturing;lean manufacturing;0.500962377
+Operations;4;supply_chain_management;logistics_management;logistics management;0.543749213
+Operations;4;supply_chain_management;materials_management;materials management;0.48391968
+Operations;4;supply_chain_management;merchandise_distribution;merchandise distribution;0.490778595
+Operations;3;operating_cycle;operating_cycle;operating cycle;1
+Operations;5;inventory_management;operational_effectiveness;operational effectiveness;0.450522691
+Operations;2;operations_management;operational_functions;operational functions;0.465796024
+Operations;2;operations_management;operations_management;operations management;1
+Operations;4;supply_chain_management;order_entry;order entry;0.513590991
+Operations;4;supply_chain_management;order_fulfillment;order fulfillment;0.571547449
+Operations;4;supply_chain_management;order_management;order management;0.503739595
+Operations;5;inventory_management;product_availability;product availability;0.477692664
+Operations;2;operations_management;product_management;product management;0.464059949
+Operations;1;continuous_improvement;quality_improvement;quality improvement;0.549002528
+Operations;1;continuous_improvement;safety_leadership;safety leadership;0.466290474
+Operations;3;operating_cycle;sales_cycle;sales cycle;0.314797074
+Operations;4;supply_chain_management;scm;scm;0.48713389
+Operations;1;continuous_improvement;service_excellence;service excellence;0.490349293
+Operations;4;supply_chain_management;store_replenishment;store replenishment;0.492735237
+Operations;4;supply_chain_management;strategic_sourcing;strategic sourcing;0.553974032
+Operations;4;supply_chain_management;supply_chain_infrastructure;supply chain infrastructure;0.501634181
+Operations;4;supply_chain_management;supply_chain_management;supply chain management;1
+Operations;4;supply_chain_management;supply_management;supply management;0.49512893
+Operations;1;continuous_improvement;talent_development;talent development;0.500993669
+Operations;1;continuous_improvement;teamwork;teamwork;0.472362638
+Operations;5;inventory_management;warehouse_management;warehouse management;0.497751117
+Operations;5;inventory_management;fulfillment_options;fulfillment options;0.428135902
+Operations;3;track_performance;efficiently_operating;efficiently operating;0.357622266
+Operations;2;product_pricing;customer_inventory_levels;customer inventory levels;0.385921389
+Operations;3;revenue_management;operations_officer;operations officer;0.43837139
+Operations;5;revenue_streams;product_categories;product categories;0.407791376
+Operations;5;revenue_streams;product_groups;product groups;0.415376157
+Operations;5;revenue_streams;product_lines;product lines;0.433203369
+Operations;5;revenue_streams;product_portfolios;product portfolios;0.431777418
+Operations;1;pricing_strategy;supply_chain_initiatives;supply chain initiatives;0.409106433
+Operations;1;strategic_initiatives;efficiency_initiatives;efficiency initiatives;0.501845241
+Operations;1;strategic_initiatives;operational_initiatives;operational initiatives;0.574988365
+Operations;4;strategic_objectives;operating_objectives;operating objectives;0.468763351
+Operations;1;strategic_initiatives;productivity_initiatives;productivity initiatives;0.521220386
+Performance/Internal Reporting;4;resource_allocation;assessing_performance;assessing performance;0.452142417
+Performance/Internal Reporting;2;budgeting;performance_management;performance management;0.446154833
+Performance/Internal Reporting;5;business_planning;reporting_functions;reporting functions;0.413502127
+Performance/Internal Reporting;4;resource_allocation;performance_evaluation;performance evaluation;0.52580303
+Performance/Internal Reporting;4;resource_allocation;segment_management;segment management;0.441143066
+Performance/Internal Reporting;4;resource_allocation;segment_performance;segment performance;0.446424484
+Performance/Internal Reporting;5;historical_cost_accounting;core_operating_earnings;core operating earnings;0.370465457
+Performance/Internal Reporting;5;historical_cost_accounting;earnings_trends;earnings trends;0.371924609
+Performance/Internal Reporting;5;historical_cost_accounting;profitability_measure;profitability measure;0.389687598
+Performance/Internal Reporting;5;historical_cost_accounting;supplemental_performance_measure;supplemental performance measure;0.415690958
+Performance/Internal Reporting;2;internal_rate_of_return;eps_target;eps target;0.406553775
+Performance/Internal Reporting;2;internal_rate_of_return;performance_result;performance result;0.385220379
+Performance/Internal Reporting;2;internal_rate_of_return;portfolio_results;portfolio results;0.368146151
+Performance/Internal Reporting;4;financial_planning;employee_benefits_administration;employee benefits administration;0.454132915
+Performance/Internal Reporting;5;cost_benefit_analysis;dashboard;dashboard;0.332140356
+Performance/Internal Reporting;4;financial_planning;performance_reporting;performance reporting;0.465477943
+Performance/Internal Reporting;3;operating_cycle;output_measure;output measure;0.316872895
+Performance/Internal Reporting;1;performance_metrics;achievement_of_performance_goals;achievement of performance goals;0.510916352
+Performance/Internal Reporting;2;internal_reporting;assess_performance;assess performance;0.433074236
+Performance/Internal Reporting;2;internal_reporting;business_segment_results;business segment results;0.424055696
+Performance/Internal Reporting;4;performance_targets;certain_performance_criteria;certain performance criteria;0.57497704
+Performance/Internal Reporting;4;performance_targets;certain_performance_targets;certain performance targets;0.539788425
+Performance/Internal Reporting;2;internal_reporting;chief_operating_decision_maker;chief operating decision maker;0.446243674
+Performance/Internal Reporting;2;internal_reporting;codm;codm;0.44328928
+Performance/Internal Reporting;1;performance_metrics;company_performance;company performance;0.496818572
+Performance/Internal Reporting;3;track_performance;duration_targets;duration targets;0.370044202
+Performance/Internal Reporting;4;performance_targets;earnings_targets;earnings targets;0.508279562
+Performance/Internal Reporting;1;performance_metrics;financial_metrics;financial metrics;0.528795004
+Performance/Internal Reporting;1;performance_metrics;financial_performance_metrics;financial performance metrics;0.545222282
+Performance/Internal Reporting;1;performance_metrics;financial_targets;financial targets;0.499604613
+Performance/Internal Reporting;2;internal_reporting;internal_financial_reporting;internal financial reporting;0.485111654
+Performance/Internal Reporting;1;performance_metrics;level_of_achievement;level of achievement;0.512177944
+Performance/Internal Reporting;1;performance_metrics;certain_performance_metrics;certain performance metrics;0.505624652
+Performance/Internal Reporting;5;scorecard;executive_compensation_program;executive compensation program;0.414162993
+Performance/Internal Reporting;1;performance_metrics;financial_performance_goals;financial performance goals;0.512379766
+Performance/Internal Reporting;2;internal_reporting;management_reporting;management reporting;0.549424052
+Performance/Internal Reporting;1;performance_metrics;individual_performance_goals;individual performance goals;0.501329482
+Performance/Internal Reporting;2;internal_reporting;internal_management_reporting;internal management reporting;0.420102209
+Performance/Internal Reporting;3;track_performance;longer_term_benefits;longer term benefits;0.37076965
+Performance/Internal Reporting;4;performance_targets;market_performance_criteria;market performance criteria;0.508732915
+Performance/Internal Reporting;5;scorecard;peer_group_of_companies;peer group of companies;0.392995179
+Performance/Internal Reporting;1;performance_metrics;performance_periods;performance periods;0.500249028
+Performance/Internal Reporting;5;scorecard;rating_system;rating system;0.401352316
+Performance/Internal Reporting;2;internal_reporting;segment_profitability;segment profitability;0.431584269
+Performance/Internal Reporting;4;performance_targets;operating_goals;operating goals;0.538274705
+Performance/Internal Reporting;4;performance_targets;specified_performance_targets;specified performance targets;0.509594381
+Performance/Internal Reporting;2;internal_reporting;performance_assessment;performance assessment;0.426071584
+Performance/Internal Reporting;1;performance_metrics;performance_based_awards;performance based awards;0.507076621
+Performance/Internal Reporting;1;performance_metrics;performance_condition;performance condition;0.501571536
+Performance/Internal Reporting;1;performance_metrics;performance_conditions;performance conditions;0.571841657
+Performance/Internal Reporting;1;performance_metrics;performance_criteria;performance criteria;0.677832365
+Performance/Internal Reporting;1;performance_metrics;performance_factors;performance factors;0.504287004
+Performance/Internal Reporting;1;performance_metrics;performance_goal;performance goal;0.53346467
+Performance/Internal Reporting;1;performance_metrics;performance_goals;performance goals;0.636426389
+Performance/Internal Reporting;1;performance_metrics;performance_measures;performance measures;0.607154667
+Performance/Internal Reporting;1;performance_metrics;performance_metric;performance metric;0.528027713
+Performance/Internal Reporting;2;internal_reporting;internal_reporting_structure;internal reporting structure;0.50401032
+Performance/Internal Reporting;4;performance_targets;performance_milestones;performance milestones;0.503997624
+Performance/Internal Reporting;1;performance_metrics;performance_objectives;performance objectives;0.567064047
+Performance/Internal Reporting;1;performance_metrics;performance_target;performance target;0.494816691
+Performance/Internal Reporting;2;internal_reporting;management_reporting_structure;management reporting structure;0.420544714
+Performance/Internal Reporting;4;performance_targets;performance_thresholds;performance thresholds;0.539960563
+Performance/Internal Reporting;1;performance_metrics;relative_total_shareholder_return;relative total shareholder return;0.544937193
+Performance/Internal Reporting;1;performance_metrics;relative_tsr;relative tsr;0.500091672
+Performance/Internal Reporting;2;internal_reporting;segment_reporting;segment reporting;0.485365033
+Performance/Internal Reporting;4;performance_targets;specified_performance_criteria;specified performance criteria;0.54032135
+Performance/Internal Reporting;4;performance_targets;specified_performance_measures;specified performance measures;0.532571733
+Performance/Internal Reporting;4;performance_targets;target_awards;target awards;0.501754105
+Performance/Internal Reporting;1;performance_metrics;vesting_criteria;vesting criteria;0.516916156
+Performance/Internal Reporting;4;strategic_objectives;financial_goals;financial goals;0.517107666
+Performance/Internal Reporting;4;strategic_objectives;financial_objectives;financial objectives;0.538205147
+Performance/Internal Reporting;5;organizational_structure;segment_reporting_structure;segment reporting structure;0.487049252
+Performance/Internal Reporting;2;internal_reporting;internal_reporting;internal reporting;1
+Performance/Internal Reporting;1;performance_metrics;performance_metrics;performance metrics;1
+Performance/Internal Reporting;4;performance_targets;performance_targets;performance targets;1
+Performance/Internal Reporting;5;scorecard;scorecard;scorecard;1
+Performance/Internal Reporting;3;track_performance;track_performance;track performance;1
+Pricing/Revenue Management;3;planning;customer_relationship_management;customer relationship management;0.427485883
+Pricing/Revenue Management;1;allocation_of_costs;allocation_of_revenue;allocation of revenue;0.315268874
+Pricing/Revenue Management;4;cost_control;top_line_growth;top line growth;0.519965351
+Pricing/Revenue Management;4;performance_targets;revenue_target;revenue target;0.506921768
+Pricing/Revenue Management;2;product_pricing;changes_in_consumer_demand;changes in consumer demand;0.383107394
+Pricing/Revenue Management;2;product_pricing;changes_in_consumer_preferences;changes in consumer preferences;0.381684929
+Pricing/Revenue Management;1;pricing_strategy;channel_mix;channel mix;0.425291479
+Pricing/Revenue Management;2;product_pricing;competitive_pricing;competitive pricing;0.45575875
+Pricing/Revenue Management;5;revenue_streams;customer_arrangements;customer arrangements;0.481004894
+Pricing/Revenue Management;5;revenue_streams;customer_base;customer base;0.378166884
+Pricing/Revenue Management;3;revenue_management;customer_care;customer care;0.467996985
+Pricing/Revenue Management;1;pricing_strategy;customer_mix;customer mix;0.44133845
+Pricing/Revenue Management;5;revenue_streams;market_segments;market segments;0.3883259
+Pricing/Revenue Management;1;pricing_strategy;marketing_strategies;marketing strategies;0.415834069
+Pricing/Revenue Management;1;pricing_strategy;marketing_strategy;marketing strategy;0.431271434
+Pricing/Revenue Management;1;pricing_strategy;merchandise_mix;merchandise mix;0.445367366
+Pricing/Revenue Management;4;revenue_model;net_benefit_of_price_increases;net benefit of price increases;0.336799294
+Pricing/Revenue Management;2;product_pricing;changes_in_customer_preferences;changes in customer preferences;0.379974484
+Pricing/Revenue Management;2;product_pricing;changes_in_pricing;changes in pricing;0.371835858
+Pricing/Revenue Management;2;product_pricing;disciplined_pricing;disciplined pricing;0.371673733
+Pricing/Revenue Management;1;pricing_strategy;go_to_market_approach;go to market approach;0.415739089
+Pricing/Revenue Management;2;product_pricing;pricing;pricing;0.560134411
+Pricing/Revenue Management;1;pricing_strategy;pricing_actions;pricing actions;0.439054012
+Pricing/Revenue Management;2;product_pricing;pricing_practices;pricing practices;0.381053329
+Pricing/Revenue Management;1;pricing_strategy;pricing_strategies;pricing strategies;0.484066576
+Pricing/Revenue Management;1;pricing_strategy;pricing_strategy;pricing strategy;1
+Pricing/Revenue Management;1;pricing_strategy;pricing_structure;pricing structure;0.410965741
+Pricing/Revenue Management;2;product_pricing;pricing_trends;pricing trends;0.382356048
+Pricing/Revenue Management;2;product_pricing;inflationary_trends;inflationary trends;0.387468815
+Pricing/Revenue Management;2;product_pricing;product_pricing;product pricing;1
+Pricing/Revenue Management;2;product_pricing;promotional_programs;promotional programs;0.373225331
+Pricing/Revenue Management;2;product_pricing;rebate_programs;rebate programs;0.377452105
+Pricing/Revenue Management;1;pricing_strategy;service_model;service model;0.420074165
+Pricing/Revenue Management;1;pricing_strategy;service_offerings;service offerings;0.415622473
+Pricing/Revenue Management;4;revenue_model;recurring_revenue;recurring revenue;0.367566913
+Pricing/Revenue Management;3;revenue_management;relationship_management;relationship management;0.437691599
+Pricing/Revenue Management;5;revenue_streams;revenue_arrangements;revenue arrangements;0.43164584
+Pricing/Revenue Management;5;revenue_streams;revenue_base;revenue base;0.44894135
+Pricing/Revenue Management;5;revenue_streams;revenue_categories;revenue categories;0.436307967
+Pricing/Revenue Management;3;revenue_management;revenue_management;revenue management;1
+Pricing/Revenue Management;4;revenue_model;revenue_model;revenue model;1
+Pricing/Revenue Management;4;revenue_model;revenue_portfolio;revenue portfolio;0.428923965
+Pricing/Revenue Management;4;revenue_model;revenue_recognition_model;revenue recognition model;0.348393261
+Pricing/Revenue Management;5;revenue_streams;revenue_recognition_policies;revenue recognition policies;0.399579048
+Pricing/Revenue Management;5;revenue_streams;revenue_sources;revenue sources;0.497226357
+Pricing/Revenue Management;5;revenue_streams;revenue_stream;revenue stream;0.49835369
+Pricing/Revenue Management;5;revenue_streams;revenue_streams;revenue streams;1
+Pricing/Revenue Management;1;pricing_strategy;product_mix;product mix;0.408783317
+Pricing/Revenue Management;1;pricing_strategy;sales_mix;sales mix;0.420905173
+Pricing/Revenue Management;4;revenue_model;sales_mix_shift;sales mix shift;0.327311873
+Pricing/Revenue Management;5;revenue_streams;sources_of_revenue;sources of revenue;0.421347708
+Pricing/Revenue Management;4;revenue_model;subscription_model;subscription model;0.332817942
+Pricing/Revenue Management;4;revenue_model;variable_revenue;variable revenue;0.354578227
+Risk/Internal Control;4;resource_allocation;risk_appetite;risk appetite;0.43070212
+Risk/Internal Control;4;resource_allocation;risk_appetite_statement;risk appetite statement;0.439966679
+Risk/Internal Control;5;business_planning;risk_management_practices;risk management practices;0.425134718
+Risk/Internal Control;5;business_planning;risk_management_processes;risk management processes;0.439688802
+Risk/Internal Control;5;business_planning;risk_monitoring;risk monitoring;0.414215118
+Risk/Internal Control;3;capital_allocation;risk_selection;risk selection;0.435225785
+Risk/Internal Control;5;cost_benefit_analysis;resolution_plan;resolution plan;0.36419335
+Risk/Internal Control;4;financial_planning;risk_advisory;risk advisory;0.430011094
+Risk/Internal Control;2;operations_management;internal_audit;internal audit;0.454100192
+Risk/Internal Control;5;scorecard;lines_of_defense;lines of defense;0.390292406
+Risk/Internal Control;3;track_performance;mitigate_foreign_currency_risk;mitigate foreign currency risk;0.386507779
+Risk/Internal Control;5;scorecard;risk_types;risk types;0.400722116
+Risk/Internal Control;3;track_performance;balance_risk;balance risk;0.358719081
+Risk/Internal Control;2;internal_reporting;erm_program;erm program;0.420080394
+Risk/Internal Control;3;track_performance;minimize_risk;minimize risk;0.369104207
+Risk/Internal Control;3;track_performance;mitigate_compliance_risk;mitigate compliance risk;0.434504986
+Risk/Internal Control;5;scorecard;enterprise_risk_management_program;enterprise risk management program;0.389672071
+Risk/Internal Control;2;internal_reporting;risk_appetite_framework;risk appetite framework;0.443048418
+Risk/Internal Control;5;scorecard;risk_framework;risk framework;0.397170484
+Risk/Internal Control;5;scorecard;risk_governance_framework;risk governance framework;0.408019811
+Risk/Internal Control;2;internal_reporting;risk_governance_structure;risk governance structure;0.445170671
+Risk/Internal Control;5;scorecard;risk_management_framework;risk management framework;0.421684712
+Risk/Internal Control;5;scorecard;risk_inventory;risk inventory;0.441671282
+Risk/Internal Control;5;scorecard;var_model;var model;0.414085358
+Risk/Internal Control;1;internal_control;assessment_of_internal_control;assessment of internal control;0.466037482
+Risk/Internal Control;1;internal_control;assessment_of_internal_controls;assessment of internal controls;0.49456346
+Risk/Internal Control;1;internal_control;audit_of_internal_control;audit of internal control;0.460272104
+Risk/Internal Control;2;risk_assessment;board_oversight;board oversight;0.489137352
+Risk/Internal Control;1;internal_control;change_in_internal_control;change in internal control;0.407922864
+Risk/Internal Control;1;internal_control;changes_in_internal_control;changes in internal control;0.453090549
+Risk/Internal Control;1;internal_control;changes_in_internal_controls;changes in internal controls;0.428980827
+Risk/Internal Control;2;risk_assessment;chief_risk_officer;chief risk officer;0.489877313
+Risk/Internal Control;4;control_system;cloud_based_monitoring_platform;cloud based monitoring platform;0.379709423
+Risk/Internal Control;5;risk_management_policies;compliance_policies;compliance policies;0.537577808
+Risk/Internal Control;5;risk_management_policies;contingency_funding_plans;contingency funding plans;0.509655178
+Risk/Internal Control;2;risk_assessment;control_assessment;control assessment;0.48598364
+Risk/Internal Control;1;internal_control;control_environment;control environment;0.401818365
+Risk/Internal Control;2;risk_assessment;control_framework;control framework;0.530342102
+Risk/Internal Control;4;control_system;control_systems;control systems;0.368188977
+Risk/Internal Control;1;internal_control;controls;controls;0.396123797
+Risk/Internal Control;5;risk_management_policies;corporate_governance_practices;corporate governance practices;0.476186246
+Risk/Internal Control;5;risk_management_policies;corporate_policies;corporate policies;0.483378023
+Risk/Internal Control;5;risk_management_policies;credit_policies;credit policies;0.53430748
+Risk/Internal Control;5;risk_management_policies;credit_risk_policies;credit risk policies;0.495425075
+Risk/Internal Control;5;risk_management_policies;cybersecurity_program;cybersecurity program;0.48569721
+Risk/Internal Control;1;internal_control;disclosure_controls;disclosure controls;0.524520814
+Risk/Internal Control;1;internal_control;effective_internal_control;effective internal control;0.405613035
+Risk/Internal Control;1;internal_control;effectiveness_of_internal_controls;effectiveness of internal controls;0.487974226
+Risk/Internal Control;2;risk_assessment;emerging_risks;emerging risks;0.487948358
+Risk/Internal Control;3;risk_oversight;enterprise_risk_management;enterprise risk management;0.524615049
+Risk/Internal Control;2;risk_assessment;erm_framework;erm framework;0.484303921
+Risk/Internal Control;5;risk_management_policies;established_policies;established policies;0.614684045
+Risk/Internal Control;4;control_system;evaluation_of_controls;evaluation of controls;0.420969069
+Risk/Internal Control;2;risk_assessment;governance_framework;governance framework;0.486666441
+Risk/Internal Control;1;internal_control;icfr;icfr;0.439976513
+Risk/Internal Control;3;risk_oversight;independent_oversight;independent oversight;0.599907756
+Risk/Internal Control;2;risk_assessment;independent_risk_management;independent risk management;0.512245238
+Risk/Internal Control;1;internal_control;internal_control_structure;internal control structure;0.508911967
+Risk/Internal Control;1;internal_control;internal_control_system;internal control system;0.437036663
+Risk/Internal Control;1;internal_control;internal_controls;internal controls;0.708963096
+Risk/Internal Control;5;risk_management_policies;internal_policies;internal policies;0.472446144
+Risk/Internal Control;2;risk_assessment;key_risk_indicators;key risk indicators;0.499798924
+Risk/Internal Control;1;internal_control;maintain_effective_internal_control;maintain effective internal control;0.399164885
+Risk/Internal Control;1;internal_control;maintained_effective_internal_control;maintained effective internal control;0.451558977
+Risk/Internal Control;1;internal_control;maintaining_adequate_internal_control;maintaining adequate internal control;0.40741238
+Risk/Internal Control;5;risk_management_policies;management_of_market_risk;management of market risk;0.469371319
+Risk/Internal Control;5;risk_management_policies;market_risk_policies;market risk policies;0.595611989
+Risk/Internal Control;3;risk_oversight;model_risk_management;model risk management;0.514707565
+Risk/Internal Control;2;risk_assessment;model_validation;model validation;0.497190475
+Risk/Internal Control;2;risk_assessment;operational_risk_framework;operational risk framework;0.483331919
+Risk/Internal Control;1;internal_control;overall_internal_control;overall internal control;0.458989412
+Risk/Internal Control;1;internal_control;report_on_internal_control;report on internal control;0.43404758
+Risk/Internal Control;2;risk_assessment;risk_assessment_process;risk assessment process;0.527958035
+Risk/Internal Control;2;risk_assessment;risk_assessments;risk assessments;0.583530366
+Risk/Internal Control;5;risk_management_policies;risk_exposures;risk exposures;0.474850267
+Risk/Internal Control;3;risk_oversight;risk_governance;risk governance;0.597669899
+Risk/Internal Control;2;risk_assessment;risk_identification;risk identification;0.566677332
+Risk/Internal Control;5;risk_management_policies;risk_limits;risk limits;0.592303514
+Risk/Internal Control;3;risk_oversight;risk_management;risk management;0.537096858
+Risk/Internal Control;2;risk_assessment;risk_management_function;risk management function;0.499892801
+Risk/Internal Control;5;risk_management_policies;risk_management_policy;risk management policy;0.562258184
+Risk/Internal Control;5;risk_management_policies;risk_management_procedures;risk management procedures;0.493273288
+Risk/Internal Control;2;risk_assessment;risk_management_process;risk management process;0.539995432
+Risk/Internal Control;5;risk_management_policies;risk_management_strategies;risk management strategies;0.485739708
+Risk/Internal Control;5;risk_management_policies;risk_measurement;risk measurement;0.479571849
+Risk/Internal Control;3;risk_oversight;risk_oversight;risk oversight;1
+Risk/Internal Control;5;risk_management_policies;risk_policies;risk policies;0.59795028
+Risk/Internal Control;2;risk_assessment;risk_reporting;risk reporting;0.499987811
+Risk/Internal Control;2;risk_assessment;scenario_analysis;scenario analysis;0.493437111
+Risk/Internal Control;4;control_system;security_platform;security platform;0.374031872
+Risk/Internal Control;3;risk_oversight;operational_risk_management;operational risk management;0.536263943
+Risk/Internal Control;3;risk_oversight;control_functions;control functions;0.513775349
+Risk/Internal Control;3;risk_oversight;independent_control_functions;independent control functions;0.507779241
+Risk/Internal Control;3;risk_oversight;vendor_risk_management;vendor risk management;0.498932004
+Risk/Internal Control;3;risk_oversight;fiduciary_risk;fiduciary risk;0.479119807
+Risk/Internal Control;3;risk_oversight;management_of_risks;management of risks;0.476848722
+Risk/Internal Control;1;internal_control;subsidiaries_internal_control;subsidiaries internal control;0.444061846
+Risk/Internal Control;4;control_system;system_of_controls;system of controls;0.509471357
+Risk/Internal Control;4;control_system;system_of_disclosure_controls;system of disclosure controls;0.364472866
+Risk/Internal Control;1;internal_control;system_of_internal_control;system of internal control;0.588557243
+Risk/Internal Control;1;internal_control;system_of_internal_controls;system of internal controls;0.436709553
+Risk/Internal Control;5;risk_management_policies;valuation_policies;valuation policies;0.498913258
+Risk/Internal Control;3;risk_oversight;management_of_risk;management of risk;0.582303643
+Risk/Internal Control;3;risk_oversight;management_oversight;management oversight;0.482818455
+Risk/Internal Control;1;internal_control;internal_control;internal control;1
+Risk/Internal Control;4;control_system;control_system;control system;1
+Risk/Internal Control;2;risk_assessment;risk_assessment;risk assessment;1
+Risk/Internal Control;5;risk_management_policies;risk_management_policies;risk management policies;1
+Strategy;2;budgeting;change_management;change management;0.417992026
+Strategy;3;planning;corporate_strategy;corporate strategy;0.4261823
+Strategy;4;resource_allocation;organization_structure;organization structure;0.422957778
+Strategy;5;business_planning;organizational_design;organizational design;0.430253416
+Strategy;5;business_planning;strategic_direction;strategic direction;0.476713538
+Strategy;2;budgeting;strategic_planning;strategic planning;0.532907665
+Strategy;5;business_planning;strategy_development;strategy development;0.418905228
+Strategy;3;cost_structure;operating_model;operating model;0.450271875
+Strategy;3;cost_structure;operating_structure;operating structure;0.446905315
+Strategy;3;cost_structure;turnaround_plan;turnaround plan;0.458776593
+Strategy;2;internal_reporting;management_structure;management structure;0.487981409
+Strategy;2;internal_reporting;new_operating_structure;new operating structure;0.438514858
+Strategy;2;internal_reporting;reporting_structure;reporting structure;0.443253219
+Strategy;2;internal_reporting;segment_structure;segment structure;0.442750722
+Strategy;2;product_pricing;competitive_environment;competitive environment;0.374791205
+Strategy;1;pricing_strategy;long_term_growth_strategies;long term growth strategies;0.424951702
+Strategy;3;revenue_management;business_development;business development;0.449575841
+Strategy;1;pricing_strategy;business_mix;business mix;0.485874355
+Strategy;1;pricing_strategy;global_business_strategy;global business strategy;0.438938558
+Strategy;4;revenue_model;innovate_to_elevate_strategy;innovate to elevate strategy;0.32434839
+Strategy;3;revenue_management;new_business_development;new business development;0.438410699
+Strategy;1;pricing_strategy;business_model;business model;0.490927935
+Strategy;1;pricing_strategy;go_to_market_strategy;go to market strategy;0.466169447
+Strategy;1;pricing_strategy;long_term_growth_strategy;long term growth strategy;0.41918394
+Strategy;1;pricing_strategy;long_term_strategic_plan;long term strategic plan;0.409534127
+Strategy;1;pricing_strategy;operating_strategy;operating strategy;0.417321026
+Strategy;3;revenue_management;strategy_officer;strategy officer;0.437019408
+Strategy;3;risk_oversight;board_leadership_structure;board leadership structure;0.538083851
+Strategy;1;strategic_initiatives;acquisition_strategy;acquisition strategy;0.470241487
+Strategy;1;strategic_initiatives;business_development_initiatives;business development initiatives;0.456220835
+Strategy;4;strategic_objectives;business_goals;business goals;0.521604896
+Strategy;1;strategic_initiatives;business_initiatives;business initiatives;0.609898925
+Strategy;2;business_strategy;business_objectives;business objectives;0.498474687
+Strategy;2;business_strategy;business_plan;business plan;0.51792717
+Strategy;2;business_strategy;business_plans;business plans;0.486506581
+Strategy;1;strategic_initiatives;business_strategies;business strategies;0.52305156
+Strategy;5;organizational_structure;business_structure;business structure;0.502030432
+Strategy;1;strategic_initiatives;business_transformation;business transformation;0.490933508
+Strategy;3;core_competencies;capabilities;capabilities;0.575482845
+Strategy;3;core_competencies;competencies;competencies;0.500830889
+Strategy;3;core_competencies;core_capabilities;core capabilities;0.560727596
+Strategy;3;core_competencies;core_competency;core competency;0.51020205
+Strategy;2;business_strategy;core_strategy;core strategy;0.488461614
+Strategy;3;core_competencies;core_strengths;core strengths;0.515172422
+Strategy;2;business_strategy;corporate_strategies;corporate strategies;0.482745677
+Strategy;5;organizational_structure;corporate_structure;corporate structure;0.516920626
+Strategy;2;business_strategy;customer_strategy;customer strategy;0.538457096
+Strategy;3;core_competencies;design_expertise;design expertise;0.528203309
+Strategy;3;core_competencies;domain_expertise;domain expertise;0.571744502
+Strategy;3;core_competencies;existing_capabilities;existing capabilities;0.578758359
+Strategy;3;core_competencies;expertise;expertise;0.55750072
+Strategy;3;core_competencies;global_presence;global presence;0.516763806
+Strategy;5;organizational_structure;global_structure;global structure;0.515284896
+Strategy;1;strategic_initiatives;growth_initiatives;growth initiatives;0.565441251
+Strategy;4;strategic_objectives;growth_objectives;growth objectives;0.512018621
+Strategy;1;strategic_initiatives;growth_strategies;growth strategies;0.537668943
+Strategy;1;strategic_initiatives;growth_strategy;growth strategy;0.531290531
+Strategy;4;strategic_objectives;growth_targets;growth targets;0.539400935
+Strategy;3;core_competencies;innovation_pipeline;innovation pipeline;0.506748438
+Strategy;3;core_competencies;innovative_technologies;innovative technologies;0.503562987
+Strategy;1;strategic_initiatives;key_initiatives;key initiatives;0.510105968
+Strategy;5;organizational_structure;leadership_structure;leadership structure;0.488949835
+Strategy;5;organizational_structure;legal_entity_structure;legal entity structure;0.496185303
+Strategy;4;strategic_objectives;long_term_financial_objectives;long term financial objectives;0.46702832
+Strategy;4;strategic_objectives;long_term_growth_objectives;long term growth objectives;0.486111075
+Strategy;4;strategic_objectives;long_term_objectives;long term objectives;0.548661292
+Strategy;4;strategic_objectives;long_term_strategic_goals;long term strategic goals;0.482252091
+Strategy;4;strategic_objectives;long_term_strategic_objectives;long term strategic objectives;0.538505256
+Strategy;2;business_strategy;long_term_strategy;long term strategy;0.609009445
+Strategy;5;organizational_structure;management_team;management team;0.475785553
+Strategy;3;core_competencies;market_leadership;market leadership;0.524735391
+Strategy;5;organizational_structure;new_operating_model;new operating model;0.47037676
+Strategy;5;organizational_structure;operational_structure;operational structure;0.497326672
+Strategy;1;strategic_initiatives;organizational_changes;organizational changes;0.501996756
+Strategy;5;organizational_structure;organizational_model;organizational model;0.47263357
+Strategy;2;business_strategy;overall_business_strategy;overall business strategy;0.555760324
+Strategy;2;business_strategy;overall_strategy;overall strategy;0.513852477
+Strategy;3;core_competencies;portfolio_of_offerings;portfolio of offerings;0.507514775
+Strategy;4;strategic_objectives;profitability_objectives;profitability objectives;0.480976224
+Strategy;5;organizational_structure;reportable_segment_structure;reportable segment structure;0.563756108
+Strategy;1;strategic_initiatives;strategic_actions;strategic actions;0.455422074
+Strategy;4;strategic_objectives;strategic_goals;strategic goals;0.611714423
+Strategy;1;strategic_initiatives;strategic_growth_initiatives;strategic growth initiatives;0.53036356
+Strategy;2;business_strategy;strategic_plan;strategic plan;0.605514765
+Strategy;2;business_strategy;strategic_plans;strategic plans;0.527920008
+Strategy;1;strategic_initiatives;strategic_priorities;strategic priorities;0.472953916
+Strategy;1;strategic_initiatives;strategic_transactions;strategic transactions;0.466484457
+Strategy;2;business_strategy;strategic_vision;strategic vision;0.482210517
+Strategy;2;business_strategy;sustainability_strategy;sustainability strategy;0.503656685
+Strategy;3;core_competencies;talent_pipeline;talent pipeline;0.504876316
+Strategy;3;core_competencies;technological_expertise;technological expertise;0.527386487
+Strategy;1;strategic_initiatives;technology_initiatives;technology initiatives;0.511660933
+Strategy;3;core_competencies;technology_leadership;technology leadership;0.538375378
+Strategy;3;core_competencies;technology_portfolio;technology portfolio;0.509561539
+Strategy;1;strategic_initiatives;transformation_initiative;transformation initiative;0.513458312
+Strategy;1;strategic_initiatives;transformation_initiatives;transformation initiatives;0.500401914
+Strategy;3;core_competencies;leading_market_positions;leading market positions;0.526566148
+Strategy;3;core_competencies;leading_positions;leading positions;0.527593315
+Strategy;3;core_competencies;manufacturing_capabilities;manufacturing capabilities;0.5089674
+Strategy;4;strategic_objectives;strategic_business_objectives;strategic business objectives;0.493285656
+Strategy;1;strategic_initiatives;transformational_initiatives;transformational initiatives;0.454892844
+Strategy;3;core_competencies;unique_competitive_advantages;unique competitive advantages;0.508935928
+Strategy;2;business_strategy;business_strategy;business strategy;1
+Strategy;3;core_competencies;core_competencies;core competencies;1
+Strategy;5;organizational_structure;organizational_structure;organizational structure;1
+Strategy;1;strategic_initiatives;strategic_initiatives;strategic initiatives;1
+Strategy;4;strategic_objectives;strategic_objectives;strategic objectives;1

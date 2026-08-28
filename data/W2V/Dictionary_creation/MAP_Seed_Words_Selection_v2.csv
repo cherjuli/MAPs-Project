@@ -1,0 +1,147 @@
+Dimension;Ranking_Overall;Ranking_US;Seed_word_adjusted;Seed_word_final
+Budgeting/Planning;2;1;forecasts;forecasts
+Budgeting/Planning;2;1;forecasting process;forecasting_process
+Budgeting/Planning;2;1;forecast;forecast
+Budgeting/Planning;2;1;extrapolation;extrapolation
+Budgeting/Planning;1;2;budgeting;budgeting
+Budgeting/Planning;1;2;budgeting process;budgeting_process
+Budgeting/Planning;3;3;planning;planning
+Budgeting/Planning;3;3;planning process;planning_process
+Budgeting/Planning;5;4;resource allocation;resource_allocation
+Budgeting/Planning;4;5;business planning;business_planning
+Cost;1;1;cost allocation;cost_allocation
+Cost;1;1;cost drivers;cost_drivers
+Cost;1;1;allocation of costs;allocation_of_costs
+Cost;1;1;cost center;cost_center
+Cost;1;1;activity costs;activity_costs
+Cost;3;2;cost management;cost_management
+Cost;2;3;cost structure;cost_structure
+Cost;2;3;variable cost;variable_cost
+Cost;2;3;cost elements;cost_elements
+Cost;2;3;marginal cost;marginal_cost
+Cost;2;3;fixed costs;fixed_costs
+Cost;2;3;fixed cost;fixed_cost
+Cost;2;3;direct cost;direct_cost
+Cost;2;3;indirect costs;indirect_costs
+Cost;2;3;incremental costs;incremental_costs
+Cost;2;3;incremental cost;incremental_cost
+Cost;2;3;specific costs;specific_costs
+Cost;2;3;discretionary costs;discretionary_costs
+Cost;2;3;direct costs;direct_costs
+Cost;2;3;overhead costs;overhead_costs
+Cost;4;4;cost control;cost_control
+Cost;9;5;cost accounting;cost_accounting
+Cost;9;5;historical cost accounting;historical_cost_accounting
+Financing/Investment;1;1;cash flow analysis;cash_flow_analysis
+Financing/Investment;3;2;roi;roi
+Financing/Investment;3;2;value analysis;value_analysis
+Financing/Investment;3;2;roce;roce
+Financing/Investment;3;2;return on capital employed;return_on_capital_employed
+Financing/Investment;3;2;irr;irr
+Financing/Investment;3;2;internal rate of return;internal_rate_of_return
+Financing/Investment;3;2;return of investment;return_of_investment
+Financing/Investment;4;3;capital budget;capital_budget
+Financing/Investment;4;3;capital allocation;capital_allocation
+Financing/Investment;4;3;capex;capex
+Financing/Investment;2;4;financial planning;financial_planning
+Financing/Investment;5;5;cost benefit analysis;cost_benefit_analysis
+Operations;3;1;continuous improvement;continuous_improvement
+Operations;3;1;process improvements;process_improvements
+Operations;3;1;process improvement;process_improvement
+Operations;1;2;operations management;operations_management
+Operations;1;2;operational decision making;operational_decision_making
+Operations;1;2;operational management;operational_management
+Operations;2;3;bottlenecks;bottlenecks
+Operations;2;3;operating cycle;operating_cycle
+Operations;2;3;operational planning;operational_planning
+Operations;4;4;supply chain management;supply_chain_management
+Operations;4;4;logistics management;logistics_management
+Operations;5;5;inventory management;inventory_management
+Operations;5;5;capacity utilization;capacity_utilization
+Performance/Internal Reporting;1;1;key performance metrics;key_performance_metrics
+Performance/Internal Reporting;1;1;performance metrics;performance_metrics
+Performance/Internal Reporting;1;1;performance metric;performance_metric
+Performance/Internal Reporting;1;1;key performance metric;key_performance_metric
+Performance/Internal Reporting;1;1;key performance measures;key_performance_measures
+Performance/Internal Reporting;1;1;key performance measure;key_performance_measure
+Performance/Internal Reporting;1;1;key performance indicators;key_performance_indicators
+Performance/Internal Reporting;1;1;performance measures;performance_measures
+Performance/Internal Reporting;1;1;performance measure;performance_measure
+Performance/Internal Reporting;1;1;financial performance measures;financial_performance_measures
+Performance/Internal Reporting;1;1;financial performance measure;financial_performance_measure
+Performance/Internal Reporting;1;1;performance measurement;performance_measurement
+Performance/Internal Reporting;2;2;internal reporting;internal_reporting
+Performance/Internal Reporting;2;2;performance reporting;performance_reporting
+Performance/Internal Reporting;2;2;internal management reports;internal_management_reports
+Performance/Internal Reporting;3;3;performance monitoring;performance_monitoring
+Performance/Internal Reporting;3;3;track performance;track_performance
+Performance/Internal Reporting;4;4;performance targets;performance_targets
+Performance/Internal Reporting;4;4;performance target;performance_target
+Performance/Internal Reporting;5;5;scorecard;scorecard
+Performance/Internal Reporting;5;5;dashboard;dashboard
+Pricing/Revenue Management;1;1;pricing strategy;pricing_strategy
+Pricing/Revenue Management;1;1;strategic pricing;strategic_pricing
+Pricing/Revenue Management;2;2;product pricing;product_pricing
+Pricing/Revenue Management;2;2;value pricing;value_pricing
+Pricing/Revenue Management;2;2;premium pricing;premium_pricing
+Pricing/Revenue Management;2;2;market pricing;market_pricing
+Pricing/Revenue Management;2;2;dynamic pricing;dynamic_pricing
+Pricing/Revenue Management;3;3;revenue management;revenue_management
+Pricing/Revenue Management;5;5;revenue streams;revenue_streams
+Pricing/Revenue Management;5;5;revenue stream;revenue_stream
+Pricing/Revenue Management;4;4;revenue model;revenue_model
+Risk/Internal Control;1;1;internal control;internal_control
+Risk/Internal Control;1;1;internal control system;internal_control_system
+Risk/Internal Control;1;1;internal audit;internal_audit
+Risk/Internal Control;1;1;internal controls;internal_controls
+Risk/Internal Control;2;2;risk assessment;risk_assessment
+Risk/Internal Control;2;2;risk modeling;risk_modeling
+Risk/Internal Control;2;2;risk evaluation;risk_evaluation
+Risk/Internal Control;2;2;risk classification;risk_classification
+Risk/Internal Control;2;2;risk assessment process;risk_assessment_process
+Risk/Internal Control;2;2;risk analytics;risk_analytics
+Risk/Internal Control;2;2;stress testing;stress_testing
+Risk/Internal Control;2;2;assess risk;assess_risk
+Risk/Internal Control;2;2;analyze risk;analyze_risk
+Risk/Internal Control;3;4;contingency plan;contingency_plan
+Risk/Internal Control;3;4;control system;control_system
+Risk/Internal Control;3;4;design controls;design_controls
+Risk/Internal Control;3;4;management control;management_control
+Risk/Internal Control;3;4;control activities;control_activities
+Risk/Internal Control;3;4;implementing controls;implementing_controls
+Risk/Internal Control;4;5;risk management policies;risk_management_policies
+Risk/Internal Control;4;5;risk policy;risk_policy
+Risk/Internal Control;4;5;risk management policy;risk_management_policy
+Risk/Internal Control;5;3;risk oversight;risk_oversight
+Risk/Internal Control;5;3;risk reports;risk_reports
+Risk/Internal Control;5;3;risk monitoring;risk_monitoring
+Risk/Internal Control;5;3;coso framework;coso_framework
+Risk/Internal Control;5;3;control framework;control_framework
+Risk/Internal Control;5;3;risk control;risk_control
+Strategy;1;1;strategic initiatives;strategic_initiatives
+Strategy;1;1;strategic planning;strategic_planning
+Strategy;1;1;strategic management;strategic_management
+Strategy;1;1;strategic initiative;strategic_initiative
+Strategy;1;1;strategic alignment;strategic_alignment
+Strategy;1;1;alternative strategies;alternative_strategies
+Strategy;1;1;action plans;action_plans
+Strategy;1;1;action plan;action_plan
+Strategy;1;1;strategic plan;strategic_plan
+Strategy;2;2;business strategy;business_strategy
+Strategy;2;2;business plan;business_plan
+Strategy;2;2;business model ;business_model
+Strategy;2;2;pims initiatives;pims_initiatives
+Strategy;4;3;core competencies;core_competencies
+Strategy;4;3;product differentiation;product_differentiation
+Strategy;4;3;cost leadership;cost_leadership
+Strategy;4;3;core competency;core_competency
+Strategy;4;3;competitive strategy;competitive_strategy
+Strategy;3;4;strategic objectives;strategic_objectives
+Strategy;3;4;strategic priority;strategic_priority
+Strategy;3;4;strategic priorities;strategic_priorities
+Strategy;3;4;strategic objective;strategic_objective
+Strategy;3;4;long-term objectives;long_term_objectives
+Strategy;3;4;long-term objective;long_term_objective
+Strategy;3;4;long-term goal;long_term_goal
+Strategy;6;5;operating model;operating_model
+Strategy;6;5;organizational structure;organizational_structure

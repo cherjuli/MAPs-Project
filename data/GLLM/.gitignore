@@ -1,0 +1,10 @@
+# Generated GLLM artifacts, model files, inference outputs, prompts, and logs
+# remain local unless they are explicitly reviewed and allowlisted here.
+*
+!.gitignore
+!README.md
+!evaluation_set_MAP_sentences_final.xlsx
+!Fine_tuning_data/
+Fine_tuning_data/*
+!Fine_tuning_data/placeholder
+!Fine_tuning_data/evaluation_set_MAP_sentences_final_v2_2.xlsx

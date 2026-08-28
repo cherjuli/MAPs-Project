@@ -1,0 +1,675 @@
+Dimension;Cluster;Seed_words;Synonym;Synonyms_adjusted;Similarity_Score
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];projections;projections;0.66614002
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];internal_forecasts;internal forecasts;0.584651053
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];projection;projection;0.566601813
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];cash_flow_forecasts;cash flow forecasts;0.563421488
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];financial_projections;financial projections;0.539555728
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];forecasted;forecasted;0.538346946
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];internal_estimates;internal estimates;0.520428836
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];projections_of_future;projections of future;0.513151646
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];internal_projections;internal projections;0.505387306
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];current_expectations;current expectations;0.50383836
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];macroeconomic_variables;macroeconomic variables;0.502452493
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];external_forecasts;external forecasts;0.480936557
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];cash_flow_projections;cash flow projections;0.480877101
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];financial_forecasts;financial forecasts;0.475421637
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];forecast_of_future;forecast of future;0.471350193
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];forecasts_of_future;forecasts of future;0.467552662
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];anticipated_market_conditions;anticipated market conditions;0.467414409
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];extrapolation;extrapolation;0.486385882
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];forecast;forecast;0.819707751
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];forecasting;forecasting;0.505371153
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];forecasting_process;forecasting process;0.477216542
+Budgeting/Planning;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];forecasts;forecasts;0.837747872
+Budgeting/Planning;2;['budgeting', 'budgeting_process'];budgeting;budgeting;0.919401348
+Budgeting/Planning;2;['budgeting', 'budgeting_process'];budgeting_process;budgeting process;0.776287436
+Budgeting/Planning;2;['budgeting', 'budgeting_process'];forecasting_future_periods;forecasting future periods;0.543303072
+Budgeting/Planning;2;['budgeting', 'budgeting_process'];internal_budgeting;internal budgeting;0.426114261
+Budgeting/Planning;2;['budgeting', 'budgeting_process'];demand_forecasting;demand forecasting;0.405920476
+Budgeting/Planning;2;['budgeting', 'budgeting_process'];budgets;budgets;0.403321445
+Budgeting/Planning;2;['budgeting', 'budgeting_process'];forecasting_of_future;forecasting of future;0.400731713
+Budgeting/Planning;2;['budgeting', 'budgeting_process'];forecasting_purposes;forecasting purposes;0.553314924
+Budgeting/Planning;3;['planning', 'planning_process'];planning_processes;planning processes;0.502950549
+Budgeting/Planning;3;['planning', 'planning_process'];operating_budget;operating budget;0.44763419
+Budgeting/Planning;3;['planning', 'planning_process'];planning;planning;0.894073069
+Budgeting/Planning;3;['planning', 'planning_process'];planning_process;planning process;0.751654446
+Budgeting/Planning;5;['business_planning'];business_decisions;business decisions;0.445988148
+Budgeting/Planning;5;['business_planning'];business_planning;business planning;1
+Budgeting/Planning;5;['business_planning'];succession_planning;succession planning;0.433629781
+Budgeting/Planning;4;['resource_allocation'];allocating_resources;allocating resources;0.567703545
+Budgeting/Planning;4;['resource_allocation'];decision_making;decision making;0.492860407
+Budgeting/Planning;4;['resource_allocation'];resource_allocation;resource allocation;0.999999881
+Budgeting/Planning;4;['resource_allocation'];allocation_of_resources;allocation of resources;0.607423127
+Budgeting/Planning;4;['resource_allocation'];goal_setting;goal setting;0.512519956
+Budgeting/Planning;4;['resource_allocation'];allocate_resources;allocate resources;0.496927023
+Budgeting/Planning;4;['resource_allocation'];resource_allocation_decisions;resource allocation decisions;0.432050914
+Budgeting/Planning;3;['bottlenecks', 'operating_cycle', 'operational_planning'];planning_cycle;planning cycle;0.362534821
+Budgeting/Planning;2;['operations_management', 'operational_decision_making', 'operational_management'];budgeting_purposes;budgeting purposes;0.545679748
+Budgeting/Planning;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];future_market_conditions;future market conditions;0.455740988
+Cost;1;['cost_allocation', 'cost_drivers', 'allocation_of_costs', 'cost_center', 'activity_costs'];allocation_of_costs;allocation of costs;0.735151649
+Cost;1;['cost_allocation', 'cost_drivers', 'allocation_of_costs', 'cost_center', 'activity_costs'];recovery_of_costs;recovery of costs;0.375357836
+Cost;1;['cost_allocation', 'cost_drivers', 'allocation_of_costs', 'cost_center', 'activity_costs'];depreciation_rates;depreciation rates;0.369370788
+Cost;1;['cost_allocation', 'cost_drivers', 'allocation_of_costs', 'cost_center', 'activity_costs'];depreciation_rate;depreciation rate;0.35760501
+Cost;1;['cost_allocation', 'cost_drivers', 'allocation_of_costs', 'cost_center', 'activity_costs'];cost_drivers;cost drivers;1
+Cost;1;['cost_allocation', 'cost_drivers', 'allocation_of_costs', 'cost_center', 'activity_costs'];activity_costs;activity costs;1
+Cost;1;['cost_allocation', 'cost_drivers', 'allocation_of_costs', 'cost_center', 'activity_costs'];cost_allocation;cost allocation;0.726053298
+Cost;1;['cost_allocation', 'cost_drivers', 'allocation_of_costs', 'cost_center', 'activity_costs'];cost_center;cost center;0.404111177
+Cost;2;['cost_management'];cost_containment;cost containment;0.531213641
+Cost;2;['cost_management'];cost_discipline;cost discipline;0.522106111
+Cost;2;['cost_management'];cost_management;cost management;1
+Cost;2;['cost_management'];cost_reduction;cost reduction;0.491807878
+Cost;2;['cost_management'];cost_reductions;cost reductions;0.491212159
+Cost;2;['cost_management'];disciplined_cost_management;disciplined cost management;0.513583481
+Cost;2;['cost_management'];cost_reduction_efforts;cost reduction efforts;0.514760435
+Cost;2;['cost_management'];disciplined_expense_management;disciplined expense management;0.493830532
+Cost;2;['cost_management'];expense_management;expense management;0.57626605
+Cost;2;['cost_management'];margin_expansion;margin expansion;0.509024322
+Cost;2;['cost_management'];margin_management;margin management;0.538648844
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];cost_structure;cost structure;1
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];direct_costs;direct costs;0.669656157
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];fixed_costs;fixed costs;0.718024909
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];incremental_costs;incremental costs;0.699653625
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];indirect_costs;indirect costs;0.639784932
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];distribution_costs;distribution costs;0.617107451
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];variable_costs;variable costs;0.609445751
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];material_costs;material costs;0.590013027
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];payroll_costs;payroll costs;0.583912194
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];operating_costs;operating costs;0.582448363
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];administrative_costs;administrative costs;0.582019866
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];supply_chain_costs;supply chain costs;0.579478264
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];manufacturing_costs;manufacturing costs;0.576626241
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];marketing_costs;marketing costs;0.571584404
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];support_costs;support costs;0.566477478
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];operating_expenses;operating expenses;0.561994791
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];overhead_expenses;overhead expenses;0.561705291
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];employee_costs;employee costs;0.561090469
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];facility_costs;facility costs;0.558147788
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];transportation_expenses;transportation expenses;0.557109654
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];it_costs;it costs;0.55675143
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];freight_costs;freight costs;0.547485828
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];infrastructure_costs;infrastructure costs;0.544431508
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];variable_cost;variable cost;1
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];cost_elements;cost elements;1
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];marginal_cost;marginal cost;1
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];fixed_cost;fixed cost;1
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];direct_cost;direct cost;1
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];incremental_cost;incremental cost;1
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];specific_costs;specific costs;1
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];discretionary_costs;discretionary costs;1
+Cost;3;['cost_structure', 'variable_cost', 'cost_elements', 'marginal_cost', 'fixed_costs', 'fixed_cost', 'direct_cost', 'indirect_costs', 'incremental_costs', 'incremental_cost', 'specific_costs', 'discretionary_costs', 'direct_costs', 'overhead_costs'];overhead_costs;overhead costs;0.748393655
+Cost;4;['cost_control'];cost_control;cost control;0.999999881
+Cost;4;['cost_control'];cost_controls;cost controls;0.571879804
+Cost;4;['cost_control'];expense_control;expense control;0.574338436
+Cost;4;['cost_control'];working_capital_management;working capital management;0.510103583
+Cost;4;['cost_control'];improving_margins;improving margins;0.505931616
+Cost;4;['cost_control'];reducing_costs;reducing costs;0.502207637
+Cost;5;['cost_accounting', 'historical_cost_accounting'];cost_accounting;cost accounting;0.859907687
+Cost;5;['cost_accounting', 'historical_cost_accounting'];historical_cost_accounting;historical cost accounting;0.587656319
+Cost;5;['cost_accounting', 'historical_cost_accounting'];historical_cost_depreciation;historical cost depreciation;0.33395502
+Cost;5;['cost_accounting', 'historical_cost_accounting'];cost_accounting_standards;cost accounting standards;0.326920271
+Cost;1;['continuous_improvement', 'process_improvements', 'process_improvement'];cost_efficiencies;cost efficiencies;0.561144948
+Cost;1;['continuous_improvement', 'process_improvements', 'process_improvement'];drive_margin_expansion;drive margin expansion;0.536687732
+Cost;5;['inventory_management', 'capacity_utilization'];product_cost;product cost;0.442180216
+Cost;1;['pricing_strategy', 'strategic_pricing'];cost_base;cost base;0.475749135
+Cost;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];raw_material_costs;raw material costs;0.42838335
+Financing/Investment;1;['forecasts', 'forecasting_process', 'forecast', 'extrapolation'];weighted_average_cost_of_capital;weighted average cost of capital;0.471029729
+Financing/Investment;2;['budgeting', 'budgeting_process'];tax_planning;tax planning;0.426463038
+Financing/Investment;5;['business_planning'];liquidity_policies;liquidity policies;0.436657727
+Financing/Investment;5;['business_planning'];capital_management;capital management;0.453824371
+Financing/Investment;4;['resource_allocation'];investment_decisions;investment decisions;0.460964769
+Financing/Investment;2;['cost_management'];financial_discipline;financial discipline;0.503804326
+Financing/Investment;2;['cost_management'];portfolio_optimization;portfolio optimization;0.538247347
+Financing/Investment;4;['cost_control'];disciplined_capital_allocation;disciplined capital allocation;0.537271917
+Financing/Investment;1;['cash_flow_analysis'];cash_flow_models;cash flow models;0.594109416
+Financing/Investment;1;['cash_flow_analysis'];cash_flow_model;cash flow model;0.577109993
+Financing/Investment;1;['cash_flow_analysis'];discounted_cash_flow_analysis;discounted cash flow analysis;0.571084261
+Financing/Investment;1;['cash_flow_analysis'];cash_flow_analyses;cash flow analyses;0.567465127
+Financing/Investment;1;['cash_flow_analysis'];probability_weighted_cash_flow_analysis;probability weighted cash flow analysis;0.544181645
+Financing/Investment;1;['cash_flow_analysis'];discounted_cash_flow_approach;discounted cash flow approach;0.537900269
+Financing/Investment;1;['cash_flow_analysis'];present_value_technique;present value technique;0.537896335
+Financing/Investment;1;['cash_flow_analysis'];discounted_cash_flow_model;discounted cash flow model;0.529223859
+Financing/Investment;1;['cash_flow_analysis'];income_based_approach;income based approach;0.5274055
+Financing/Investment;1;['cash_flow_analysis'];discounted_cash_flow_method;discounted cash flow method;0.514889538
+Financing/Investment;1;['cash_flow_analysis'];cash_flow_methodology;cash flow methodology;0.513284445
+Financing/Investment;1;['cash_flow_analysis'];valuation_approach;valuation approach;0.502151489
+Financing/Investment;1;['cash_flow_analysis'];undiscounted_cash_flow_analysis;undiscounted cash flow analysis;0.50149405
+Financing/Investment;1;['cash_flow_analysis'];discounted_cash_flow_models;discounted cash flow models;0.499391407
+Financing/Investment;1;['cash_flow_analysis'];estimate_of_fair_value;estimate of fair value;0.499368101
+Financing/Investment;1;['cash_flow_analysis'];binomial_lattice_model;binomial lattice model;0.499033093
+Financing/Investment;1;['cash_flow_analysis'];income_approach;income approach;0.498975247
+Financing/Investment;1;['cash_flow_analysis'];income_method;income method;0.496985763
+Financing/Investment;1;['cash_flow_analysis'];discounted_cash_flows_analysis;discounted cash flows analysis;0.496744573
+Financing/Investment;1;['cash_flow_analysis'];fair_value_approach;fair value approach;0.493590057
+Financing/Investment;1;['cash_flow_analysis'];market_valuation_approach;market valuation approach;0.492334753
+Financing/Investment;1;['cash_flow_analysis'];discounted_cash_flows;discounted cash flows;0.489886999
+Financing/Investment;1;['cash_flow_analysis'];discounted_future_cash_flow_analysis;discounted future cash flow analysis;0.489793926
+Financing/Investment;1;['cash_flow_analysis'];cash_flow_approach;cash flow approach;0.489590526
+Financing/Investment;1;['cash_flow_analysis'];valuation_approaches;valuation approaches;0.488514096
+Financing/Investment;1;['cash_flow_analysis'];cash_flow_analysis;cash flow analysis;1
+Financing/Investment;4;['financial_planning'];corporate_accounting;corporate accounting;0.48968181
+Financing/Investment;4;['financial_planning'];corporate_finance;corporate finance;0.465290904
+Financing/Investment;4;['financial_planning'];senior_vice_president_finance;senior vice president finance;0.464467466
+Financing/Investment;4;['financial_planning'];vice_president_of_investor_relations;vice president of investor relations;0.457290858
+Financing/Investment;4;['financial_planning'];investor_relations;investor relations;0.449721307
+Financing/Investment;4;['financial_planning'];claims_management;claims management;0.446620941
+Financing/Investment;4;['financial_planning'];vice_president_of_finance;vice president of finance;0.440669596
+Financing/Investment;4;['financial_planning'];fund_accounting;fund accounting;0.434647381
+Financing/Investment;4;['financial_planning'];director_of_investor_relations;director of investor relations;0.433212668
+Financing/Investment;4;['financial_planning'];financial_management;financial management;0.470959991
+Financing/Investment;4;['financial_planning'];financial_planning;financial planning;1
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];adjusted_roic;adjusted roic;0.557603657
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];eps_growth;eps growth;0.492953032
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];fcf;fcf;0.514701486
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];free_cash_flow;free cash flow;0.494461954
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];internal_rate_of_return;internal rate of return;0.674760461
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];irr;irr;1
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];capital_employed;capital employed;0.525615692
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];economic_income;economic income;0.519108295
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];return_on_capital;return on capital;0.518338859
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];return_on_invested_capital;return on invested capital;0.49930793
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];return_on_investment;return on investment;0.494333744
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];shareholder_return;shareholder return;0.489067018
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];operating_ratio;operating ratio;0.48714751
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];return_on_average_common_equity;return on average common equity;0.486957103
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];tangible_book_value_per_share;tangible book value per share;0.485650927
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];adjusted_free_cash_flow;adjusted free cash flow;0.484900802
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];cash_flow_return;cash flow return;0.481537551
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];dividend_payout_ratio;dividend payout ratio;0.472146422
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];book_value_per_share;book value per share;0.471634001
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];value_analysis;value analysis;1
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];return_of_investment;return of investment;1
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];return_on_capital_employed;return on capital employed;0.72582835
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];roce;roce;0.69676137
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];roi;roi;0.659363031
+Financing/Investment;2;['roi', 'value_analysis', 'roce', 'return_on_capital_employed', 'irr', 'internal_rate_of_return', 'return_of_investment'];roic;roic;0.543513536
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_allocation;capital allocation;0.793999672
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_allocation_strategy;capital allocation strategy;0.555981696
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_budget;capital budget;0.775984347
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_program;capital program;0.632488549
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_allocation_framework;capital allocation framework;0.531648517
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_investment_program;capital investment program;0.523480237
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];allocating_capital;allocating capital;0.5101946
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_investment;capital investment;0.490559876
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_deployment;capital deployment;0.4856022
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];planned_capital_expenditures;planned capital expenditures;0.481371522
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_allocation_priorities;capital allocation priorities;0.475546926
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];free_cash_flow_generation;free cash flow generation;0.473517299
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_programs;capital programs;0.46098116
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];cash_deployment;cash deployment;0.460247368
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];investment_expenditures;investment expenditures;0.458604574
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_expenditure_budget;capital expenditure budget;0.455519021
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];disciplined_investment;disciplined investment;0.451804161
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_investments;capital investments;0.451689482
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_allocation_process;capital allocation process;0.448956192
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];shareholder_value_creation;shareholder value creation;0.44856292
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];planned_capital_investments;planned capital investments;0.446230739
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capital_allocation_plan;capital allocation plan;0.445607275
+Financing/Investment;3;['capital_budget', 'capital_allocation', 'capex'];capex;capex;1
+Financing/Investment;5;['cost_benefit_analysis'];cost_benefit_analysis;cost benefit analysis;1
+Financing/Investment;5;['cost_benefit_analysis'];comprehensive_capital_plan;comprehensive capital plan;0.367444873
+Financing/Investment;5;['cost_benefit_analysis'];revised_capital_plan;revised capital plan;0.334186405
+Financing/Investment;5;['cost_benefit_analysis'];risk_based_approach;risk based approach;0.325145006
+Financing/Investment;3;['bottlenecks', 'operating_cycle', 'operational_planning'];cash_conversion_cycle;cash conversion cycle;0.351703048
+Financing/Investment;3;['bottlenecks', 'operating_cycle', 'operational_planning'];low_interest_rate_environment;low interest rate environment;0.306346655
+Financing/Investment;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];chief_credit_officer;chief credit officer;0.436554462
+Financing/Investment;3;['performance_monitoring', 'track_performance'];capital_utilization;capital utilization;0.336232662
+Financing/Investment;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];forward_prices;forward prices;0.426857412
+Financing/Investment;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];credit_policy;credit policy;0.539040446
+Financing/Investment;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];investment_policy;investment policy;0.543559134
+Financing/Investment;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];capital_structure_strategy;capital structure strategy;0.547407508
+Financing/Investment;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];capital_strategy;capital strategy;0.540640056
+Operations;4;['resource_allocation'];operational_decisions;operational decisions;0.456956625
+Operations;2;['cost_management'];operational_improvement;operational improvement;0.522779584
+Operations;2;['cost_management'];productivity_improvement;productivity improvement;0.491950601
+Operations;2;['cost_management'];productivity_gains;productivity gains;0.560441971
+Operations;4;['cost_control'];increased_productivity;increased productivity;0.523735225
+Operations;4;['cost_control'];higher_productivity;higher productivity;0.502236307
+Operations;4;['cost_control'];improved_productivity;improved productivity;0.501870394
+Operations;4;['cost_control'];productivity_improvements;productivity improvements;0.501480639
+Operations;3;['bottlenecks', 'operating_cycle', 'operational_planning'];bottlenecks;bottlenecks;0.409634352
+Operations;3;['bottlenecks', 'operating_cycle', 'operational_planning'];design_phase;design phase;0.326151371
+Operations;3;['bottlenecks', 'operating_cycle', 'operational_planning'];operating_cycle;operating cycle;0.819690824
+Operations;3;['bottlenecks', 'operating_cycle', 'operational_planning'];operational_planning;operational planning;0.40364787
+Operations;3;['bottlenecks', 'operating_cycle', 'operational_planning'];business_cycle;business cycle;0.361855
+Operations;3;['bottlenecks', 'operating_cycle', 'operational_planning'];sales_cycle;sales cycle;0.356167704
+Operations;3;['bottlenecks', 'operating_cycle', 'operational_planning'];construction_cycle;construction cycle;0.353921831
+Operations;3;['bottlenecks', 'operating_cycle', 'operational_planning'];production_needs;production needs;0.314389259
+Operations;3;['bottlenecks', 'operating_cycle', 'operational_planning'];cycle_time;cycle time;0.313409537
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];supply_chain_optimization;supply chain optimization;0.585667551
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];drive_efficiencies;drive efficiencies;0.55866468
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];efficiency_gains;efficiency gains;0.546491683
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];increased_efficiency;increased efficiency;0.538632572
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];lean_principles;lean principles;0.538023174
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];process_efficiencies;process efficiencies;0.535043657
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];continuous_improvement;continuous improvement;0.836326122
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];global_procurement;global procurement;0.539230466
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];improving_productivity;improving productivity;0.574756324
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];operational_efficiencies;operational efficiencies;0.597319365
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];operational_excellence;operational excellence;0.649325848
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];operational_improvements;operational improvements;0.558483362
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];process_improvement;process improvement;0.766025305
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];process_improvements;process improvements;0.817695796
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];productivity_initiatives;productivity initiatives;0.549428225
+Operations;1;['continuous_improvement', 'process_improvements', 'process_improvement'];quality_improvement;quality improvement;0.590549886
+Operations;5;['inventory_management', 'capacity_utilization'];inventory_management;inventory management;0.859566867
+Operations;5;['inventory_management', 'capacity_utilization'];inventory_planning;inventory planning;0.441053301
+Operations;5;['inventory_management', 'capacity_utilization'];capacity_utilization;capacity utilization;0.690514386
+Operations;5;['inventory_management', 'capacity_utilization'];product_availability;product availability;0.542268395
+Operations;5;['inventory_management', 'capacity_utilization'];inventory_replenishment;inventory replenishment;0.4573327
+Operations;5;['inventory_management', 'capacity_utilization'];inventory_levels;inventory levels;0.492696315
+Operations;5;['inventory_management', 'capacity_utilization'];product_demand;product demand;0.46164903
+Operations;5;['inventory_management', 'capacity_utilization'];cycle_times;cycle times;0.458492011
+Operations;5;['inventory_management', 'capacity_utilization'];operational_efficiency;operational efficiency;0.452112675
+Operations;5;['inventory_management', 'capacity_utilization'];product_sourcing;product sourcing;0.445771813
+Operations;5;['inventory_management', 'capacity_utilization'];inventory_management_systems;inventory management systems;0.443169892
+Operations;2;['operations_management', 'operational_decision_making', 'operational_management'];make_operating_decisions;make operating decisions;0.421995759
+Operations;2;['operations_management', 'operational_decision_making', 'operational_management'];codms;codms;0.412744462
+Operations;2;['operations_management', 'operational_decision_making', 'operational_management'];making_operating_decisions;making operating decisions;0.421128601
+Operations;2;['operations_management', 'operational_decision_making', 'operational_management'];operational_decision_making;operational decision making;0.885735333
+Operations;2;['operations_management', 'operational_decision_making', 'operational_management'];operational_management;operational management;0.501823246
+Operations;2;['operations_management', 'operational_decision_making', 'operational_management'];operations_management;operations management;0.426645815
+Operations;4;['supply_chain_management', 'logistics_management'];global_sourcing;global sourcing;0.536908865
+Operations;4;['supply_chain_management', 'logistics_management'];logistics_management;logistics management;0.73263365
+Operations;4;['supply_chain_management', 'logistics_management'];order_fulfillment;order fulfillment;0.614723325
+Operations;4;['supply_chain_management', 'logistics_management'];order_management;order management;0.540739119
+Operations;4;['supply_chain_management', 'logistics_management'];order_entry;order entry;0.565876067
+Operations;4;['supply_chain_management', 'logistics_management'];global_manufacturing;global manufacturing;0.561225355
+Operations;4;['supply_chain_management', 'logistics_management'];merchandise_distribution;merchandise distribution;0.559939146
+Operations;4;['supply_chain_management', 'logistics_management'];warehouse_management;warehouse management;0.552700222
+Operations;4;['supply_chain_management', 'logistics_management'];supply_management;supply management;0.547465086
+Operations;4;['supply_chain_management', 'logistics_management'];store_replenishment;store replenishment;0.54415822
+Operations;4;['supply_chain_management', 'logistics_management'];supply_chain_infrastructure;supply chain infrastructure;0.528342009
+Operations;4;['supply_chain_management', 'logistics_management'];materials_management;materials management;0.52174139
+Operations;4;['supply_chain_management', 'logistics_management'];inventory_control;inventory control;0.519817173
+Operations;4;['supply_chain_management', 'logistics_management'];transportation_management;transportation management;0.514965951
+Operations;4;['supply_chain_management', 'logistics_management'];lean_manufacturing;lean manufacturing;0.512997627
+Operations;4;['supply_chain_management', 'logistics_management'];strategic_sourcing;strategic sourcing;0.558306754
+Operations;4;['supply_chain_management', 'logistics_management'];supply_chain_management;supply chain management;0.969580472
+Operations;3;['performance_monitoring', 'track_performance'];reduce_errors;reduce errors;0.347671419
+Operations;3;['performance_monitoring', 'track_performance'];overall_operating_efficiency;overall operating efficiency;0.326230109
+Operations;1;['pricing_strategy', 'strategic_pricing'];supply_chain_initiatives;supply chain initiatives;0.490713716
+Operations;1;['pricing_strategy', 'strategic_pricing'];operating_strategies;operating strategies;0.453811854
+Operations;3;['revenue_management'];network_planning;network planning;0.521351635
+Operations;3;['revenue_management'];merchandise_planning;merchandise planning;0.459065199
+Operations;3;['revenue_management'];operations_support;operations support;0.440224349
+Operations;3;['revenue_management'];operations_officer;operations officer;0.43837142
+Operations;5;['revenue_streams', 'revenue_stream'];product_portfolios;product portfolios;0.426575005
+Operations;5;['revenue_streams', 'revenue_stream'];product_groups;product groups;0.402484089
+Operations;5;['revenue_streams', 'revenue_stream'];product_categories;product categories;0.39338237
+Operations;5;['revenue_streams', 'revenue_stream'];product_lines;product lines;0.39177978
+Operations;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];operating_procedures;operating procedures;0.509194195
+Operations;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];operational_initiatives;operational initiatives;0.586103201
+Operations;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];operating_plan;operating plan;0.561177909
+Operations;5;['operating_model', 'organizational_structure'];manufacturing_footprint;manufacturing footprint;0.557722151
+Performance/Internal Reporting;4;['resource_allocation'];performance_evaluation;performance evaluation;0.52580303
+Performance/Internal Reporting;4;['resource_allocation'];segment_management;segment management;0.441143066
+Performance/Internal Reporting;5;['cost_accounting', 'historical_cost_accounting'];tax_reporting;tax reporting;0.313081622
+Performance/Internal Reporting;4;['financial_planning'];employee_benefits_administration;employee benefits administration;0.454132885
+Performance/Internal Reporting;3;['bottlenecks', 'operating_cycle', 'operational_planning'];output_measure;output measure;0.318248928
+Performance/Internal Reporting;5;['inventory_management', 'capacity_utilization'];workforce_productivity;workforce productivity;0.459730446
+Performance/Internal Reporting;2;['operations_management', 'operational_decision_making', 'operational_management'];assessing_performance;assessing performance;0.42469728
+Performance/Internal Reporting;2;['operations_management', 'operational_decision_making', 'operational_management'];assess_performance;assess performance;0.429122865
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];adjusted_earnings_per_share;adjusted earnings per share;0.544779837
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];financial_metrics;financial metrics;0.597326338
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];financial_measures;financial measures;0.590760827
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];key_metrics;key metrics;0.576924264
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];non_gaap_financial_measures;non gaap financial measures;0.560869336
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];adjusted_eps;adjusted eps;0.553374588
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];company_performance;company performance;0.552158356
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];non_gaap_earnings_per_share;non gaap earnings per share;0.548765659
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];non_gaap_revenue;non gaap revenue;0.547998846
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];non_gaap_measures;non gaap measures;0.543574512
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];performance_criterion;performance criterion;0.542866349
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];financial_performance_measures;financial performance measures;0.666930676
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];key_performance_metrics;key performance metrics;0.562771916
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];performance_measure;performance measure;0.74215132
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];performance_measurement;performance measurement;0.546653748
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];performance_measures;performance measures;0.799465656
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];performance_metric;performance metric;0.74544096
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];performance_metrics;performance metrics;0.690443158
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];relative_total_shareholder_return;relative total shareholder return;0.635143578
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];relative_tsr;relative tsr;0.543135524
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];rtsr;rtsr;0.551631331
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];internal_financial_reporting;internal financial reporting;0.482999146
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];evaluating_segment_performance;evaluating segment performance;0.438819587
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];internal_accounting;internal accounting;0.43454501
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];segment_reporting;segment reporting;0.432078004
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];performance_assessment;performance assessment;0.424067855
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];internal_reporting_structure;internal reporting structure;0.421837747
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];assessing_financial_performance;assessing financial performance;0.421758175
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];internal_reporting;internal reporting;0.8949157
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];management_reporting;management reporting;0.621657312
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];performance_reporting;performance reporting;0.62898612
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];portfolio_accounting;portfolio accounting;0.436463624
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];segment_performance;segment performance;0.433448702
+Performance/Internal Reporting;3;['performance_monitoring', 'track_performance'];self_assessments;self assessments;0.33324188
+Performance/Internal Reporting;3;['performance_monitoring', 'track_performance'];performance_attribution;performance attribution;0.329389155
+Performance/Internal Reporting;3;['performance_monitoring', 'track_performance'];performance_monitoring;performance monitoring;0.638479173
+Performance/Internal Reporting;3;['performance_monitoring', 'track_performance'];track_performance;track performance;0.74284333
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_criteria;performance criteria;0.67927748
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_goal;performance goal;0.667068481
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_target;performance target;0.896754801
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_targets;performance targets;0.910737991
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_goals;performance goals;0.689355314
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_condition;performance condition;0.678050756
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_conditions;performance conditions;0.631309211
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];certain_performance_criteria;certain performance criteria;0.604593873
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_objectives;performance objectives;0.597476661
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_based_awards;performance based awards;0.572589159
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];specified_performance_criteria;specified performance criteria;0.556476772
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];specified_performance_goals;specified performance goals;0.547764599
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];specified_performance_measures;specified performance measures;0.538193822
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];target_awards;target awards;0.530633807
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_cycle;performance cycle;0.530443251
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];operating_goals;operating goals;0.518471837
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];level_of_achievement;level of achievement;0.518413663
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];performance_awards;performance awards;0.517562807
+Performance/Internal Reporting;4;['performance_targets', 'performance_target'];achievement_of_performance_goals;achievement of performance goals;0.517445803
+Performance/Internal Reporting;5;['scorecard', 'dashboard'];dashboard;dashboard;0.788168371
+Performance/Internal Reporting;5;['scorecard', 'dashboard'];management_system;management system;0.494364142
+Performance/Internal Reporting;5;['scorecard', 'dashboard'];scorecard;scorecard;0.868082404
+Performance/Internal Reporting;5;['scorecard', 'dashboard'];dashboards;dashboards;0.466824889
+Performance/Internal Reporting;3;['revenue_management'];performance_management;performance management;0.47241801
+Performance/Internal Reporting;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];reporting_processes;reporting processes;0.489568621
+Performance/Internal Reporting;5;['operating_model', 'organizational_structure'];management_reporting_structure;management reporting structure;0.594021559
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];key_performance_metric;key performance metric;1
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];key_performance_measures;key performance measures;1
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];key_performance_measure;key performance measure;1
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];key_performance_indicators;key performance indicators;1
+Performance/Internal Reporting;1;['key_performance_metrics', 'performance_metrics', 'performance_metric', 'key_performance_metric', 'key_performance_measures', 'key_performance_measure', 'key_performance_indicators', 'performance_measures', 'performance_measure', 'financial_performance_measures', 'financial_performance_measure', 'performance_measurement'];financial_performance_measure;financial performance measure;1
+Performance/Internal Reporting;2;['internal_reporting', 'performance_reporting', 'internal_management_reports'];internal_management_reports;internal management reports;1
+Pricing/Revenue Management;4;['cost_control'];top_line_growth;top line growth;0.519965351
+Pricing/Revenue Management;5;['inventory_management', 'capacity_utilization'];product_yields;product yields;0.440261602
+Pricing/Revenue Management;4;['performance_targets', 'performance_target'];revenue_target;revenue target;0.55498749
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];marketing_strategies;marketing strategies;0.488244861
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];customer_mix;customer mix;0.485615939
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];channel_mix;channel mix;0.470218092
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];pricing_initiatives;pricing initiatives;0.468492001
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];pricing_actions;pricing actions;0.467040062
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];marketing_strategy;marketing strategy;0.462946922
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];merchandise_mix;merchandise mix;0.455224812
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];product_mix;product mix;0.45391795
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];pricing_strategies;pricing strategies;0.513880432
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];pricing_strategy;pricing strategy;0.886339486
+Pricing/Revenue Management;1;['pricing_strategy', 'strategic_pricing'];strategic_pricing;strategic pricing;0.699640512
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];pricing;pricing;0.616157532
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];competitive_pricing;competitive pricing;0.482497901
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];selling_prices;selling prices;0.478354186
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];pricing_adjustments;pricing adjustments;0.46676302
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];commodity_pricing;commodity pricing;0.462148756
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];sales_trends;sales trends;0.45997563
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];product_prices;product prices;0.451077104
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];pricing_trends;pricing trends;0.448824227
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];pricing_changes;pricing changes;0.446588188
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];customer_trends;customer trends;0.446498126
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];market_prices;market prices;0.442091882
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];historical_return_rates;historical return rates;0.431470484
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];price_levels;price levels;0.431216389
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];customer_behavior;customer behavior;0.427668899
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];value_pricing;value pricing;1
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];dynamic_pricing;dynamic pricing;1
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];market_pricing;market pricing;0.618899524
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];premium_pricing;premium pricing;0.565026462
+Pricing/Revenue Management;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];product_pricing;product pricing;0.810552359
+Pricing/Revenue Management;3;['revenue_management'];customer_management;customer management;0.47928679
+Pricing/Revenue Management;3;['revenue_management'];customer_relationship_management;customer relationship management;0.480125189
+Pricing/Revenue Management;3;['revenue_management'];customer_care;customer care;0.467996955
+Pricing/Revenue Management;3;['revenue_management'];relationship_management;relationship management;0.437691599
+Pricing/Revenue Management;3;['revenue_management'];revenue_management;revenue management;1
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];recurring_revenue;recurring revenue;0.478927404
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];revenue_stream;revenue stream;0.806980193
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];revenue_streams;revenue streams;0.914177477
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];revenue_sources;revenue sources;0.524692893
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];revenue_base;revenue base;0.493784696
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];revenue_arrangements;revenue arrangements;0.44683525
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];customer_base;customer base;0.444627106
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];customer_arrangements;customer arrangements;0.437094092
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];revenue_mix;revenue mix;0.400053352
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];product_revenue;product revenue;0.395970911
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];revenue_recognition_policies;revenue recognition policies;0.391802758
+Pricing/Revenue Management;5;['revenue_streams', 'revenue_stream'];sources_of_revenue;sources of revenue;0.383901566
+Pricing/Revenue Management;4;['revenue_model'];revenue_model;revenue model;1
+Pricing/Revenue Management;4;['revenue_model'];revenue_portfolio;revenue portfolio;0.428923965
+Pricing/Revenue Management;4;['revenue_model'];variable_revenue;variable revenue;0.354578227
+Pricing/Revenue Management;4;['revenue_model'];revenue_recognition_model;revenue recognition model;0.348393291
+Pricing/Revenue Management;4;['revenue_model'];net_benefit_of_price_increases;net benefit of price increases;0.336799294
+Pricing/Revenue Management;4;['revenue_model'];subscription_model;subscription model;0.332817942
+Pricing/Revenue Management;4;['revenue_model'];sales_mix_shift;sales mix shift;0.327311903
+Risk/Internal Control;2;['budgeting', 'budgeting_process'];board_reviews;board reviews;0.405451626
+Risk/Internal Control;5;['business_planning'];management_oversight;management oversight;0.416919649
+Risk/Internal Control;5;['cost_accounting', 'historical_cost_accounting'];corporate_compliance;corporate compliance;0.350487828
+Risk/Internal Control;4;['financial_planning'];risk_advisory;risk advisory;0.430011064
+Risk/Internal Control;5;['cost_benefit_analysis'];resolution_plan;resolution plan;0.36419335
+Risk/Internal Control;3;['bottlenecks', 'operating_cycle', 'operational_planning'];operational_risk_exposure;operational risk exposure;0.322437972
+Risk/Internal Control;3;['performance_monitoring', 'track_performance'];mitigate_compliance_risk;mitigate compliance risk;0.385178685
+Risk/Internal Control;3;['performance_monitoring', 'track_performance'];control_risk;control risk;0.371525556
+Risk/Internal Control;3;['performance_monitoring', 'track_performance'];our_interest_rate_risk;our interest rate risk;0.350811988
+Risk/Internal Control;3;['performance_monitoring', 'track_performance'];balance_risk;balance risk;0.335291505
+Risk/Internal Control;5;['scorecard', 'dashboard'];risk_inventory;risk inventory;0.504036784
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];control_environment;control environment;0.571246326
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];system_of_internal_control;system of internal control;0.625543177
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];icfr;icfr;0.554124296
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];effectiveness_of_internal_controls;effectiveness of internal controls;0.538293481
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];disclosure_controls;disclosure controls;0.512166142
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];overall_internal_control;overall internal control;0.508908689
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];compliance_programs;compliance programs;0.508402824
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];internal_control_environment;internal control environment;0.491695046
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];systems_of_internal_control;systems of internal control;0.485583961
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];compliance_program;compliance program;0.483770341
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];established_internal_controls;established internal controls;0.478211999
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];internal_audit_function;internal audit function;0.476921469
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];existing_internal_controls;existing internal controls;0.475792527
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];internal_control_processes;internal control processes;0.466005772
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];assessment_of_internal_controls;assessment of internal controls;0.463790953
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];aml_program;aml program;0.46293354
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];internal_audit;internal audit;0.485118806
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];internal_control;internal control;0.873772383
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];internal_control_structure;internal control structure;0.582406223
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];internal_control_system;internal control system;0.576303601
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];internal_controls;internal controls;0.874563754
+Risk/Internal Control;1;['internal_control', 'internal_control_system', 'internal_audit', 'internal_controls'];system_of_internal_controls;system of internal controls;0.601935685
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];enterprise_risk_management;enterprise risk management;0.611159682
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];scenario_analysis;scenario analysis;0.685682833
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_identification;risk identification;0.631372511
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];scenario_analyses;scenario analyses;0.621039212
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_assessments;risk assessments;0.618614614
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];model_risk;model risk;0.616823912
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];rcsas;rcsas;0.615296066
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];liquidity_stress_testing;liquidity stress testing;0.606435835
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];emerging_risks;emerging risks;0.603591621
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];key_risk_indicators;key risk indicators;0.60124892
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_measurement;risk measurement;0.600898802
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_metrics;risk metrics;0.600314617
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_appetite_metrics;risk appetite metrics;0.591990769
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];independent_risk_management;independent risk management;0.589077592
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];model_validation;model validation;0.580096543
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_mitigation;risk mitigation;0.576485455
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];kris;kris;0.57361567
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];mitigation_strategies;mitigation strategies;0.572473884
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];model_risk_management;model risk management;0.608642101
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_analysis;risk analysis;0.596654654
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_assessment;risk assessment;0.785251558
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_assessment_process;risk assessment process;0.612684906
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_evaluation;risk evaluation;0.593305767
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_management;risk management;0.625425458
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_management_process;risk management process;0.588627934
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_management_processes;risk management processes;0.637597919
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_monitoring;risk monitoring;0.609544933
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_reporting;risk reporting;0.589351416
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];stress_testing;stress testing;0.778283477
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];control_activities;control activities;0.697282493
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];control_system;control system;0.642193735
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];controls;controls;0.618207932
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];design_controls;design controls;0.463751882
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];implementing_controls;implementing controls;0.502735317
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];control_procedures;control procedures;0.522078633
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];control_processes;control processes;0.512048483
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];segregation_of_duties;segregation of duties;0.50948137
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];relevant_controls;relevant controls;0.503406286
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];key_controls;key controls;0.502600312
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];financial_controls;financial controls;0.495322734
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];itgcs;itgcs;0.483924568
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];appropriate_controls;appropriate controls;0.480983227
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];information_technology_controls;information technology controls;0.479205996
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];maintain_effective_controls;maintain effective controls;0.476714611
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];security_controls;security controls;0.469215035
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];system_of_controls;system of controls;0.467939168
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];governance_processes;governance processes;0.466043204
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];accounting_controls;accounting controls;0.463365883
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];financial_reporting_controls;financial reporting controls;0.457033515
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];contingency_funding_plans;contingency funding plans;0.565881789
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];credit_policies;credit policies;0.598203719
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];enterprise_risk_management_framework;enterprise risk management framework;0.54801923
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_framework;risk framework;0.559328973
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];established_policies;established policies;0.649196029
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_governance_framework;risk governance framework;0.520243168
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_governance_structure;risk governance structure;0.515884578
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];market_risk_policies;market risk policies;0.563123941
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_management_program;risk management program;0.561846733
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];operational_risk_policy;operational risk policy;0.551584303
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_management_framework;risk management framework;0.580946743
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];cybersecurity_program;cybersecurity program;0.547672451
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];enterprise_risk_management_program;enterprise risk management program;0.532154143
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_management_policies;risk management policies;0.922956824
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];compliance_policies;compliance policies;0.522970855
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_management_strategy;risk management strategy;0.522215366
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_management_approach;risk management approach;0.5212906
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];erm_framework;erm framework;0.516519189
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_management_policy;risk management policy;0.821610749
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_management_practices;risk management practices;0.526043773
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_policies;risk policies;0.652536869
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_policy;risk policy;0.602964818
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];control_framework;control framework;0.659576416
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];management_of_risk;management of risk;0.593654692
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];operational_risk_framework;operational risk framework;0.587734997
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];risk_oversight;risk oversight;0.759700298
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];risk_control;risk control;0.705083013
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];operational_risk_management;operational risk management;0.634714127
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];risk_management_function;risk management function;0.611875892
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];assessing_risk;assessing risk;0.600890756
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];risk_reports;risk reports;1
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];coso_framework;coso framework;1
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_appetite_statement;risk appetite statement;0.654286802
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_limits;risk limits;0.635786772
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_appetite_framework;risk appetite framework;0.624427378
+Risk/Internal Control;5;['risk_management_policies', 'risk_policy', 'risk_management_policy'];risk_appetite;risk appetite;0.557584584
+Risk/Internal Control;3;['risk_oversight', 'risk_reports', 'risk_monitoring', 'coso_framework', 'control_framework', 'risk_control'];risk_governance;risk governance;0.686525941
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_modeling;risk modeling;1
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_classification;risk classification;1
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];risk_analytics;risk analytics;1
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];assess_risk;assess risk;1
+Risk/Internal Control;2;['risk_assessment', 'risk_modeling', 'risk_evaluation', 'risk_classification', 'risk_assessment_process', 'risk_analytics', 'stress_testing', 'assess_risk', 'analyze_risk'];analyze_risk;analyze risk;1
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];contingency_plan;contingency plan;1
+Risk/Internal Control;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];management_control;management control;1
+Strategy;2;['budgeting', 'budgeting_process'];long_range_planning_process;long range planning process;0.423807859
+Strategy;3;['planning', 'planning_process'];strategic_planning_process;strategic planning process;0.429563791
+Strategy;5;['business_planning'];strategy_development;strategy development;0.418905258
+Strategy;3;['capital_budget', 'capital_allocation', 'capex'];long_term_growth_initiatives;long term growth initiatives;0.447152406
+Strategy;3;['bottlenecks', 'operating_cycle', 'operational_planning'];long_term_initiatives;long term initiatives;0.320368737
+Strategy;1;['continuous_improvement', 'process_improvements', 'process_improvement'];organizational_design;organizational design;0.556333065
+Strategy;5;['inventory_management', 'capacity_utilization'];customer_satisfaction;customer satisfaction;0.449827194
+Strategy;2;['operations_management', 'operational_decision_making', 'operational_management'];strategic_planning_processes;strategic planning processes;0.441807389
+Strategy;1;['pricing_strategy', 'strategic_pricing'];business_mix;business mix;0.533890724
+Strategy;1;['pricing_strategy', 'strategic_pricing'];global_business_strategy;global business strategy;0.457283378
+Strategy;2;['product_pricing', 'value_pricing', 'premium_pricing', 'market_pricing', 'dynamic_pricing'];competitive_dynamics;competitive dynamics;0.445794076
+Strategy;3;['revenue_management'];business_development;business development;0.449575901
+Strategy;3;['revenue_management'];new_business_development;new business development;0.438410699
+Strategy;3;['revenue_management'];strategy_officer;strategy officer;0.437019378
+Strategy;5;['revenue_streams', 'revenue_stream'];core_business;core business;0.379427284
+Strategy;4;['revenue_model'];innovate_to_elevate_strategy;innovate to elevate strategy;0.32434839
+Strategy;4;['contingency_plan', 'control_system', 'design_controls', 'management_control', 'control_activities', 'implementing_controls'];change_management;change management;0.459005386
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];action_plans;action plans;0.651389301
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];sustainability_strategy;sustainability strategy;0.605751455
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];transformation_initiative;transformation initiative;0.59530735
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];business_initiatives;business initiatives;0.57292223
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];key_initiatives;key initiatives;0.571202874
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];business_transformation;business transformation;0.568843782
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];strategic_initiative;strategic initiative;0.558938682
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];strategic_initiatives;strategic initiatives;0.714890361
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];strategic_plan;strategic plan;0.770294666
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];strategic_planning;strategic planning;0.56397748
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];turnaround_plan;turnaround plan;0.628024578
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];acquisition_strategy;acquisition strategy;0.633075178
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];business_model;business model;0.747793496
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];business_plan;business plan;0.748861909
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];business_strategy;business strategy;0.858717918
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];corporate_strategy;corporate strategy;0.561223447
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];customer_strategy;customer strategy;0.571959257
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];enterprise_strategy;enterprise strategy;0.550355732
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];growth_strategy;growth strategy;0.67620033
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];business_strategies;business strategies;0.655771077
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];growth_strategies;growth strategies;0.595055938
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];long_term_strategic_plan;long term strategic plan;0.586114705
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];growth_plans;growth plans;0.563005924
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];corporate_strategies;corporate strategies;0.547802508
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];current_business;current business;0.539284587
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];value_creation_strategy;value creation strategy;0.536791503
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];long_term_growth_strategy;long term growth strategy;0.563924849
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];long_term_strategy;long term strategy;0.63962549
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];operating_strategy;operating strategy;0.609128237
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];strategic_direction;strategic direction;0.531686902
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];strategic_plans;strategic plans;0.575261235
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];competitive_strategy;competitive strategy;0.553874433
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];core_competencies;core competencies;0.829057872
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];core_competency;core competency;0.666549385
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];cost_leadership;cost leadership;0.599250793
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];technology_leadership;technology leadership;0.662898719
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];differentiation;differentiation;0.615593791
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];technological_expertise;technological expertise;0.610403061
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];market_leadership;market leadership;0.609176934
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];core_capabilities;core capabilities;0.602283955
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];domain_expertise;domain expertise;0.601047039
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];technology_portfolio;technology portfolio;0.594779789
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];engineering_capabilities;engineering capabilities;0.579593539
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];consumer_insights;consumer insights;0.559478879
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];solutions_portfolio;solutions portfolio;0.559442103
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];innovative_technologies;innovative technologies;0.558612823
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];leading_technologies;leading technologies;0.557662189
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];core_strengths;core strengths;0.55669409
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];capabilities;capabilities;0.556041241
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];broad_product_portfolio;broad product portfolio;0.554998219
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];design_expertise;design expertise;0.553617954
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];product_development_strategy;product development strategy;0.553427756
+Strategy;3;['core_competencies', 'product_differentiation', 'cost_leadership', 'core_competency', 'competitive_strategy'];product_differentiation;product differentiation;0.677896261
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];long_term_goal;long term goal;0.579789579
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];long_term_objective;long term objective;0.617248535
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];long_term_objectives;long term objectives;0.724188328
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];strategic_imperatives;strategic imperatives;0.611905873
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];business_objectives;business objectives;0.604940414
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];strategic_vision;strategic vision;0.599155486
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];core_strategy;core strategy;0.596438766
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];overall_strategy;overall strategy;0.596217811
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];strategic_goals;strategic goals;0.595001161
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];long_term_strategic_goals;long term strategic goals;0.593695819
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];mission;mission;0.593515456
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];key_objectives;key objectives;0.592419207
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];long_term_growth_plan;long term growth plan;0.583549142
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];long_term_growth_objectives;long term growth objectives;0.581172585
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];long_term_strategic_objectives;long term strategic objectives;0.576285601
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];strategic_objective;strategic objective;0.707489789
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];strategic_objectives;strategic objectives;0.771770835
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];strategic_priorities;strategic priorities;0.805867076
+Strategy;4;['strategic_objectives', 'strategic_priority', 'strategic_priorities', 'strategic_objective', 'long_term_objectives', 'long_term_objective', 'long_term_goal'];strategic_priority;strategic priority;0.631098986
+Strategy;5;['operating_model', 'organizational_structure'];go_to_market_strategy;go to market strategy;0.542722046
+Strategy;5;['operating_model', 'organizational_structure'];management_structure;management structure;0.672965407
+Strategy;5;['operating_model', 'organizational_structure'];operating_model;operating model;0.878626108
+Strategy;5;['operating_model', 'organizational_structure'];organizational_structure;organizational structure;0.904837191
+Strategy;5;['operating_model', 'organizational_structure'];operating_structure;operating structure;0.683293581
+Strategy;5;['operating_model', 'organizational_structure'];organization_structure;organization structure;0.598371029
+Strategy;5;['operating_model', 'organizational_structure'];reporting_structure;reporting structure;0.585052013
+Strategy;5;['operating_model', 'organizational_structure'];organizational_model;organizational model;0.54936558
+Strategy;5;['operating_model', 'organizational_structure'];operational_structure;operational structure;0.548301101
+Strategy;5;['operating_model', 'organizational_structure'];reportable_segment_structure;reportable segment structure;0.539170384
+Strategy;5;['operating_model', 'organizational_structure'];corporate_structure;corporate structure;0.538493454
+Strategy;5;['operating_model', 'organizational_structure'];global_structure;global structure;0.53794837
+Strategy;5;['operating_model', 'organizational_structure'];business_structure;business structure;0.530936778
+Strategy;5;['operating_model', 'organizational_structure'];business_portfolio;business portfolio;0.525820613
+Strategy;5;['operating_model', 'organizational_structure'];legal_entity_structure;legal entity structure;0.520717084
+Strategy;5;['operating_model', 'organizational_structure'];leadership_structure;leadership structure;0.513147116
+Strategy;5;['operating_model', 'organizational_structure'];new_operating_model;new operating model;0.512174964
+Strategy;5;['operating_model', 'organizational_structure'];portfolio_of_businesses;portfolio of businesses;0.509851038
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];strategic_management;strategic management;1
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];strategic_alignment;strategic alignment;1
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];alternative_strategies;alternative strategies;1
+Strategy;1;['strategic_initiatives', 'strategic_planning', 'strategic_management', 'strategic_initiative', 'strategic_alignment', 'alternative_strategies', 'action_plans', 'action_plan', 'strategic_plan'];action_plan;action plan;1
+Strategy;2;['business_strategy', 'business_plan', 'business_model', 'pims_initiatives'];pims_initiatives;pims initiatives;1

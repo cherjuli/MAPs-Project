@@ -1,0 +1,6 @@
+# Generated BoW corpora, scores, validation merges, and intermediate datasets
+# remain local unless they are explicitly reviewed and allowlisted here.
+*
+!.gitignore
+!README.md
+!MAP_Dictionary_BoW_final.csv

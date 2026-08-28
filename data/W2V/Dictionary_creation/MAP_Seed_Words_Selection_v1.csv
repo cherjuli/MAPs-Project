@@ -1,0 +1,41 @@
+Dimension;Ranking_Overall;Ranking_US;Seed_word_adjusted;Seed_word_final
+Budgeting/Planning;2;1;forecasts;forecasts
+Budgeting/Planning;1;2;budgeting;budgeting
+Budgeting/Planning;3;3;planning;planning
+Budgeting/Planning;5;4;resource allocation;resource_allocation
+Budgeting/Planning;4;5;business planning;business_planning
+Cost;1;1;allocation of costs;allocation_of_costs
+Cost;3;2;cost management;cost_management
+Cost;2;3;cost structure;cost_structure
+Cost;4;4;cost control;cost_control
+Cost;9;5;historical cost accounting;historical_cost_accounting
+Financing/Investment;1;1;cash flow analysis;cash_flow_analysis
+Financing/Investment;3;2;internal rate of return;internal_rate_of_return
+Financing/Investment;4;3;capital allocation;capital_allocation
+Financing/Investment;2;4;financial planning;financial_planning
+Financing/Investment;5;5;cost benefit analysis;cost_benefit_analysis
+Operations;3;1;continuous improvement;continuous_improvement
+Operations;1;2;operations management;operations_management
+Operations;2;3;operating cycle;operating_cycle
+Operations;4;4;supply chain management;supply_chain_management
+Operations;5;5;inventory management;inventory_management
+Performance/Internal Reporting;1;1;performance metrics;performance_metrics
+Performance/Internal Reporting;2;2;internal reporting;internal_reporting
+Performance/Internal Reporting;3;3;track performance;track_performance
+Performance/Internal Reporting;4;4;performance targets;performance_targets
+Performance/Internal Reporting;5;5;scorecard;scorecard
+Pricing/Revenue Management;1;1;pricing strategy;pricing_strategy
+Pricing/Revenue Management;2;2;product pricing;product_pricing
+Pricing/Revenue Management;3;3;revenue management;revenue_management
+Pricing/Revenue Management;5;5;revenue streams;revenue_streams
+Pricing/Revenue Management;4;4;revenue model;revenue_model
+Risk/Internal Control;1;1;internal control;internal_control
+Risk/Internal Control;2;2;risk assessment;risk_assessment
+Risk/Internal Control;3;4;control system;control_system
+Risk/Internal Control;4;5;risk management policies;risk_management_policies
+Risk/Internal Control;5;3;risk oversight;risk_oversight
+Strategy;1;1;strategic initiatives;strategic_initiatives
+Strategy;2;2;business strategy;business_strategy
+Strategy;4;3;core competencies;core_competencies
+Strategy;3;4;strategic objectives;strategic_objectives
+Strategy;6;5;organizational structure;organizational_structure

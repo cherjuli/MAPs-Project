@@ -1,0 +1,19 @@
+# Cumulative dependencies for Python 3.10.14 workflows
+
+datasets==4.0.0
+en-core-web-trf==3.8.0
+gensim==4.4.0
+huggingface_hub==0.34.4
+llamafactory==0.9.4.dev0
+nltk==3.8.1
+numpy==1.26.4
+openpyxl==3.1.5
+optuna==4.5.0
+pandas==2.3.2
+plotnine==0.13.0
+pytorch==2.5.1
+scikit-learn==1.7.1
+scipy==1.15.3
+spacy==3.8.7
+torch==2.5.1+cu121
+transformers==4.57.3

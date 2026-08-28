@@ -1,0 +1,148 @@
+Variable_name;LSEG_code
+Revenue from Business Activities;TR.F.TOTREVENUE
+EBIT;TR.F.EBIT
+EBITDA;TR.F.EBITDA
+Gross Margin;TR.F.GrossProfMarg
+EBITDA Margin;TR.F.EBITDAMARGPCT
+Operating Margin;TR.F.OpMargPct
+Net Margin;TR.F.IncAfterTaxMargPct
+Net Income before Minority Interest;TR.F.NetIncBefMinIntr
+Income before Discontinued Operations & Extraordinary Items;TR.F.IncBefDiscOpsExordItems
+Income before Tax Margin;TR.F.INCBEFTAXMARGPCTTTM
+Income Tax Rate;TR.F.INCTAXRATEPCT
+Cost of Operating Revenue;TR.F.COSTOFOPREV
+Cost of Revenues ;TR.F.COGS
+Cost of Revenues  excl. Deoreciation;TR.F.COGSExclDepr
+Sales per Employee;TR.F.SalesPerEmpTTM
+Selling, General & Administrative Expenses;TR.F.SGATOT
+Labor & Related Expenses in SGA;TR.F.LABORRELEXPNINCLSTOCKBASEDCOMPINSGA
+Financing Income/Expense;TR.F.FININCEXPNNETTOT
+Interest Expense;TR.F.INTREXPNNETOFINTRINC
+Non-Recurring Income/Expense;TR.F.NONRECURINCEXPNTOT
+Sale & Acquisition of Group Companies;TR.F.SALEACQOFGROUPCOGL
+Stock-Based Compensation Expense - Net of Tax;TR.F.STOCKBASEDCOMPEXPNNETOFTAXSUPPL
+R&D Expense;TR.F.RnD
+Other Comprehensive Income;TR.F.OTHCOMPRINCNETOFTAXTOT
+Net Cash Flow from Operating Activities;TR.F.NETCASHFLOWOP
+Net Cash Flow from Investing Activities;TR.F.NETCASHFLOWINVST
+Net Cash Flow from Financing Activities;TR.F.NetCashFlowFin
+Depreciation, Depletion & Armotization incl. Impairment - Cash Flow;TR.F.DEPRDEPLAMORTINCLIMPAIRCF
+Capital Expenditures - Net Cash Flow;TR.F.CAPEXNETCF
+Working Capital Increase/Decrease Cash Flow;TR.F.WKGCAPCF
+Acquisitions & Disposals of Business Cash Flow;TR.F.ACQDISPOFBIZASSETSSOLDACQNETCF
+Investments excl. Loan Cash Flow;TR.F.INVSTSECSOLDPURCHNETTOTCF
+Dividend Paid Cash Flow;TR.F.DIVPAIDCASHTOTCF
+Stock Issuance/Retirement Cash Flow;TR.F.STOCKTOTISSUANCERETNETCF
+Debt Long- & Short-Term Issuance/Retirement;TR.F.DEBTLTSTISSUANCERETTOTCF
+Net Change in Cash;TR.F.NETCHGINCASHTOT
+Free Cash Flow Net of Dividend;TR.F.FOCF
+Free Cash Flow Yield;TR.F.FOCFYLDPCTTTM
+Current Liabilities;TR.F.TOTCURRLIAB
+Non-current Liabilities;TR.F.TOTNONCURRLIAB
+Total Liabilities;TR.F.TOTLIAB
+Working Capital;TR.F.WKGCAP
+Total Assets;TR.F.TOTASSETS
+Debt;TR.F.DEBTTOT
+Company Market Cap;TR.CompanyMarketCap
+Market Capitalization;TR.F.MktCap
+Common Equity;TR.F.COMEQTOT
+Total Shareholders' Equity;TR.F.TOTSHHOLDEQ
+Total Debt Percentage of Total Equity;TR.F.TotDebtPctofTotEq
+Total Debt Percentage of Total Assets;TR.F.TOTDEBTPCTOFTOTASSETS
+Total Debt Percentage of Total Capital;TR.F.TOTDEBTPCTOFTOTCAP
+Cash & Cash Equivalents;TR.F.CASHCASHEQUIV
+Cash & Short-Term Investments;TR.F.CASHSTINVST
+Loan & Receivables - Net;TR.F.LOANSRCVBLNETST
+Inventories;TR.F.INVNTTOT
+Average Inventory Days;TR.F.AvgInvntDays
+Inventory Turnover;TR.F.InvntTurnover
+Property, Plant & Equipment -Net;TR.F.PPENETTOT
+Intangible Assets - Total;TR.F.INTANGTOTNET
+Goodwill;TR.F.GOODWCOSTINEXCESSOFASSETSPURCHNET
+Goodwill Actual;TR.GoodwillActValue
+Intangible Assets excl. Goodwill;TR.F.INTANGEXCLGOODWNETTOT
+Enterprise Value;TR.F.EV
+Current Ratio;TR.F.CURRRATIO
+Quick Ratio;TR.F.QUICKRATIO
+Working Capital to Total Assets;TR.F.WKGCAPTOTOTASSETS
+Sales per Employee;TR.F.SALESPEREMP
+Total Assets per Employee;TR.F.TOTASSETSPEREMP
+Accounts Receivable Turnover;TR.F.ACCTRCVBLTURNOVER
+Average Receivable Collection Days;TR.F.AVGRCVBLCOLLECTDAYS
+Payable Turnover;TR.F.PBLETURNOVER
+Average Payable Payment Days;TR.F.AVGPBLEPAYMDAYS
+Average Net Trade Cycle Days;TR.F.AVGNETTRADECYCLEDAYS
+EPS;TR.F.EPSDILEXCLEXORDITEMSCOMTOT
+Dividend Yield;TR.F.DIVYLDCOMSTOCKISSUEPCTTTM
+Asset Turnover;TR.F.AssetTurnover
+Asset Turnover TTM;TR.F.ASSETTURNOVERTTM
+ROE;TR.F.ReturnAvgTotEqPct
+Return on Average Common Equity;TR.F.RETURNAVGCOMEQPCTTTM
+Return on Average Total Assets;TR.F.RETURNAVGTOTASSETSPCTTTM
+Return on Invested Capital;TR.F.RETURNINVSTCAPPCTTTM
+Reinvestment Rate;TR.F.REINVSTRATEPCTTTM
+Interest Coverage Ratio;TR.F.IntrCovRatio
+Dividend Coverage;TR.F.DIVCOVPCT
+Dividend Payout Ratio;TR.F.DIVPAYOUTRATIOPCT
+Earnings Retention Rate;TR.F.EARNRETENTIONRATE
+ESG Controversies Score;TR.TRESGCControversiesScore
+Environment Pillar Score;TR.EnvironmentPillarScore 
+Social Pillar Score;TR.SocialPillarScore
+Governance Pillar Score;TR.GovernancePillarScore
+Management Training;TR.MgtTraining
+ESG Score;TR.TRESGScore 
+Accounting Controversies Score;TR.AnalyticAccountingControvScore
+Announced Layoffs To Total Employees Score;TR.AnalyticLayoffsScore
+Announced Layoffs To Total Employees;TR.AnalyticLayoffs
+Audit Committee Expertise Score;TR.AnalyticAuditCommExpertiseScore
+Average Training Hours;TR.AvgTrainingHoursScore
+CEO Chairman Duality;TR.AnalyticCEOChairmanSeparation
+CO2 Equivalent Emission Total;TR.CO2EmissionTotal
+CO2 Equivalent Emission YoY;TR.AnalyticCO2EquivalentEmissionsTotalYoY
+Crisis Management Systems;TR.CrisisMgtSystems
+C-Suite Risk Oversight;TR.CSuiteRiskOversight
+Executive Compensation Risk;TR.ExecutiveCompensationRisk
+Internal Audit Department Score;TR.InternalAuditDepReportingScore
+ISO 9000;TR.ISO9000
+Life Cycle Analysis;TR.LifeCycleAnalysis
+Product Quality Controversies;TR.AnalyticCustomerControvScore
+Product Recall;TR.ProductRecall
+Product Quality Monitoring Score;TR.ProductQualityMonitoringScore
+Product Responsibility Monitoring;TR.ProductQualityMonitoring
+Quality Mgt Systems Score;TR.AnalyticQMSScore
+Quality Mgt Systems;TR.AnalyticQMS
+Safety Performance Monitoring;TR.SafetyPerformanceMonitoring
+Six Sigma and Quality Mgt Systems;TR.SixSigmaQMS
+Environmental Supply Chain Monitoring;TR.EnvSupplyChainMonitoring
+Integrated Strategy in MD&A Score;TR.IntegratedStrategyMDnAScore
+Integrated Strategy in MD&A;TR.IntegratedStrategyMD&A
+Findings from Supplier Monitoring;TR.FindingsfromSupplierMonitoring
+Temporary Staff Proportion;TR.TemporaryStaffProportion
+Training and Development Policy;TR.AnalyticTrainingDevPolicy
+Salary Gap;TR.AnalyticSalaryGap
+Salaries and Wages from CSR reporting;TR.SalariesCSRreporting
+Management Departures;TR.MgtDepartures
+Involuntary Turnover;TR.InvoluntaryTurnoverEmployees
+Risk Assessment Labour Standards;TR.RiskAssessmentLabourStandards
+Corruption Due Diligence;TR.CorruptionDueDiligence
+Corruption Oversight;TR.CorruptionOversight
+Corruption Risk Assessment;TR.CorruptionRiskAssessment
+QMS Certified Percent;TR.QMSCertifiedPct
+Customer Satisfaction;TR.CustomerSatisfaction
+Median Salary Gap;TR.MedianSalaryGap
+Audit Board Committee;TR.AuditComm
+Compensation Improvement Tools;TR.ImprovementToolsExecComp
+Succession Plan;TR.BoardSuccessionPlan
+Total Senior Executive Compensation;TR.SeniorExecsTotalComp
+Total Senior Executive Compensation to Revenue;TR.AnalyticSeniorExecsTotalComp
+Accounting Controversies;TR.AnalyticAccountingControv
+Accounting Controversies Count;TR.ControvAccounting
+Product Responsibility Score;TR.TRESGProductResponsibilityScore
+Management Score;TR.TRESGManagementScore
+Operating Expense Total;TR.F.OPEXPNTOT
+WACC Short Term Debt;TR.WACCShortTermDebtCost
+WACC Long Term Debt;TR.WACCLongTermDebtCost
+Total Current Assets;TR.F.TOTCURRASSETS
+Total Return;TR.TotalReturn
+Total Return (52 weeks);TR.TotalReturn52Wk
+EBIT Margin;TR.F.EBITMargPct

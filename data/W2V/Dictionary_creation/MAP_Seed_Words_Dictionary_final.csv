@@ -1,0 +1,883 @@
+Dimension;Seed_word_adjusted;Seed_word_final;Source
+Budget;forecasts;forecasts;IMA EMAC
+Budget;resource allocation;resource_allocation;Qiu et al. (2023), Nixon & Burns (2012), Malmi & Brown (2008), IFAC IGPG
+Budget;planning;planning;GMAP, IMA MACF, Abdel-Kader & Luther (2008), Malmi & Brown (2008), Bromwich & Scapens (2016)
+Budget;business planning;business_planning;CGMA CF
+Budget;budgeting;budgeting;GMAP, IMA MACF, Abdel-Kader & Luther (2008), Malmi & Brown (2008), Bromwich & Scapens (2016)
+Budget;planning process;planning_process;GMAP, IMA MACF, Abdel-Kader & Luther (2008), Malmi & Brown (2008), Bromwich & Scapens (2016)
+Budget;budgeting process;budgeting_process;GMAP, IMA MACF, Abdel-Kader & Luther (2008), Malmi & Brown (2008), Bromwich & Scapens (2016)
+Budget;financial budget;financial_budget;Qiu et al. (2023)
+Budget;comprehensive budget;comprehensive_budget;Qiu et al. (2023)
+Budget;rolling budget;rolling_budget;Qiu et al. (2023), IMA MACF, IMA EMAC, Otley (2016)
+Budget;forecasting process;forecasting_process;CGMA CF
+Budget;flexible budgeting;flexible_budgeting;Qiu et al. (2023), IMA MACF, IMA EMAC, Abdel-Kader & Luther (2008)
+Budget;activity based budgeting;activity_based_budgeting;Qiu et al. (2023), Abdel-Kader & Luther (2008)
+Budget;flexible budget;flexible_budget;IMA MACF, IMA EMAC, Abdel-Kader & Luther (2008)
+Budget;activity based budget;activity_based_budget;Abdel-Kader & Luther (2008)
+Budget;zero base budgeting;zero_base_budgeting;Coyte et al. (2022)
+Budget;forecast;forecast;IMA EMAC
+Budget;extrapolation;extrapolation;IMA MACF
+Budget;planning of activities;planning_of_activities;GMAP
+Budget;planning of activity;planning_of_activity;GMAP
+Budget;formal budget;formal_budget;GMAP
+Budget;cash forecasting;cash_forecasting;GMAP
+Budget;budgetary control;budgetary_control;GMAP, Chenhall & Moers (2015), Otley (2016), Bromwich & Scapens (2016), Van der Stede (2001)
+Budget;budgetary control system;budgetary_control_system;GMAP, Chenhall & Moers (2015), Otley (2016), Bromwich & Scapens (2016)
+Budget;sales forecasting;sales_forecasting;CGMA PQS
+Budget;master budget;master_budget;CGMA PQS, IMA EMAC
+Budget;what if analysis;what_if_analysis;CGMA PQS, COSO ERM (Risk), IMA SRM
+Budget;stress testing budgets;stress_testing_budgets;CGMA PQS
+Budget;feedback control;feedback_control;CGMA PQS
+Budget;feedforward control;feedforward_control;CGMA PQS
+Budget;forecasting technique;forecasting_technique;CGMA CF
+Budget;forecasting method;forecasting_method;CGMA CF
+Budget;planning technique;planning_technique;CGMA CF
+Budget;planning method;planning_method;CGMA CF
+Budget;modelling technique;modelling_technique;CGMA CF
+Budget;modelling method;modelling_method;CGMA CF
+Budget;budgeting technique;budgeting_technique;CGMA CF
+Budget;budgeting method;budgeting_method;CGMA CF
+Budget;budget preparation;budget_preparation;CGMA CF
+Budget;forecasting processes;forecasting_processes;CGMA CF
+Budget;moving averages;moving_averages;IMA MACF
+Budget;short term cash flow;short_term_cash_flow;IMA MACF
+Budget;short term inventory requirments;short_term_inventory_requirments;IMA MACF
+Budget;short term inventory requirment;short_term_inventory_requirment;IMA MACF
+Budget;historical expenses;historical_expenses;IMA MACF
+Budget;historical expense;historical_expense;IMA MACF
+Budget;financial relationship analysis;financial_relationship_analysis;IMA MACF
+Budget;operational relationship analysis;operational_relationship_analysis;IMA MACF
+Budget;projected income statement;projected_income_statement;IMA MACF
+Budget;projected balance sheet;projected_balance_sheet;IMA MACF
+Budget;projected cash flow statement;projected_cash_flow_statement;IMA MACF
+Budget;capacity constraint;capacity_constraint;IMA MACF
+Budget;budgeting methodology;budgeting_methodology;IMA MACF
+Budget;exponential smoothing;exponential_smoothing;IMA MACF
+Budget;continuous budget;continuous_budget;IMA MACF
+Budget;collaborative forecast;collaborative_forecast;IMA MACF
+Budget;correlation analysis;correlation_analysis;IMA EMAC
+Budget;costs and benefits;costs_and_benefits;IMA EMAC
+Budget;prediction accuracy;prediction_accuracy;IMA EMAC
+Budget;critical uncertainties;critical_uncertainties;IMA EMAC
+Budget;critical uncertainty;critical_uncertainty;IMA EMAC
+Budget;short term forecast;short_term_forecast;IMA EMAC
+Budget;continous budgeting;continous_budgeting;Chenhall & Moers (2015)
+Budget;learning curve technique;learning_curve_technique;Abdel-Kader & Luther (2008)
+Budget;beyond budgeting;beyond_budgeting;Ferreira & Otley (2009), Otley (2016), Bromwich & Scapens (2016)
+Budget;rolling forecast;rolling_forecast;Malmi & Brown (2008)
+Budget;rolling forecasting;rolling_forecasting;Malmi & Brown (2008)
+Budget;contingency fund;contingency_fund;Libby & Lindsay (2010)
+Budget;ongoing forecast;ongoing_forecast;Libby & Lindsay (2010)
+Budget;participative budgeting;participative_budgeting;Libby & Lindsay (2010)
+Budget;budgetary target;budgetary_target;Libby & Lindsay (2010)
+Budget;budget for control;budget_for_control;Libby & Lindsay (2010)
+Budget;budgetary reporting;budgetary_reporting;Libby & Lindsay (2010)
+Budget;budgeting system;budgeting_system;Libby & Lindsay (2010)
+Budget;budget variance;budget_variance;Libby & Lindsay (2010)
+Budget;budget review;budget_review;Libby & Lindsay (2010)
+Budget;budget revision;budget_revision;Libby & Lindsay (2010)
+Budget;operational plan;operational_plan;IMA EMAC, Malmi & Brown (2008), IMA SMA RMF, Libby & Lindsay (2010)
+Budget;justify expenses;justify_expenses;Coyte et al. (2022)
+Budget;justify expense;justify_expense;Coyte et al. (2022)
+Budget;justify expenditures;justify_expenditures;Coyte et al. (2022)
+Budget;justify expenditure;justify_expenditure;Coyte et al. (2022)
+Budget;budget optimization;budget_optimization;Luzon et al. (2022)
+Budget;dynamic budget allocation ;dynamic_budget_allocation ;Luzon et al. (2022)
+Budget;dynamic budgeting;dynamic_budgeting;Luzon et al. (2022)
+Budget;adaptive performance management;adaptive_performance_management;O퀶rady et al. (2017)
+Budget;zero based budgeting;zero_based_budgeting;Qiu et al. (2023), IMA MACF, Abdel-Kader & Luther (2008)
+Budget;zbb;zbb;Coyte et al. (2022)
+Budget;cash management;cash_management;GMAP
+Budget;production planning;production_planning;GMAP
+Budget;cash flow forecast;cash_flow_forecast;GMAP
+Budget;historical revenue;historical_revenue;IMA MACF
+Budget;capital requirements;capital_requirements;IMA MACF
+Budget;capital requirement;capital_requirement;IMA MACF
+Budget;capacity constraints;capacity_constraints;IMA MACF
+Budget;statistical technique;statistical_technique;IMA MACF
+Budget;financial plan;financial_plan;IMA MACF
+Cost;cost structure;cost_structure;GMAP
+Cost;cost report;cost_report;IMA MACF
+Cost;cost management;cost_management;Qiu et al. (2023), IMA MACF, Chenhall & Moers (2015)
+Cost;cost control;cost_control;Qiu et al. (2023), CGMA CF, IMA EMAC
+Cost;cost allocation;cost_allocation;CGMA CF, IMA EMAC
+Cost;variable cost;variable_cost;Qiu et al. (2023), IMA EMAC, Abdel-Kader & Luther (2008), IFAC IGPG
+Cost;cost drivers;cost_drivers;GMAP, IMA EMAC
+Cost;cost elements;cost_elements;CGMA PQS
+Cost;marginal cost;marginal_cost;CGMA PQS, IMA EMAC
+Cost;fixed costs;fixed_costs;IMA MACF, Abdel-Kader & Luther (2008), IFAC IGPG, IMA EMAC
+Cost;fixed cost;fixed_cost;IMA MACF, Abdel-Kader & Luther (2008), IFAC IGPG, IMA EMAC
+Cost;direct cost;direct_cost;IMA MACF, IMA EMAC
+Cost;indirect costs;indirect_costs;IMA MACF, IMA EMAC
+Cost;incremental costs;incremental_costs;IMA EMAC, Abdel-Kader & Luther (2008)
+Cost;incremental cost;incremental_cost;IMA EMAC, Abdel-Kader & Luther (2008)
+Cost;specific costs;specific_costs;IMA EMAC
+Cost;allocation of costs;allocation_of_costs;IMA EMAC
+Cost;discretionary costs;discretionary_costs;IMA EMAC
+Cost;cost center;cost_center;IMA EMAC (abgeleitet von Responsibility center management)
+Cost;activity costs;activity_costs;Kaplan & Cooper (1998)
+Cost;cost accounting;cost_accounting;Qiu et al. (2023), IMA MACF
+Cost;direct costs;direct_costs;IMA MACF, IMA EMAC
+Cost;historical cost accounting;historical_cost_accounting;IMA EMAC
+Cost;overhead costs;overhead_costs;IMA EMAC
+Cost;target costing;target_costing;Qiu et al. (2023), CGMA CF, Cadez & Guilding (2008), Chenhall & Moers (2015), Malmi & Brown (2008), IMA SMA RMF, IMA EMAC
+Cost;standard costing;standard_costing;Qiu et al. (2023), CGMA CF, IMA MACF, Bromwich & Scapens (2016), IMA EMAC
+Cost;variable costing;variable_costing;Qiu et al. (2023), CGMA CF, IMA EMAC, Abdel-Kader & Luther (2008), IFAC IGPG
+Cost;activity based cost management;activity_based_cost_management;Qiu et al. (2023), Chenhall & Moers (2015), Malmi & Brown (2008)
+Cost;cost forecasting;cost_forecasting;Qiu et al. (2023)
+Cost;cost planning;cost_planning;Qiu et al. (2023)
+Cost;activity based costing;activity_based_costing;Qiu et al. (2023), IMA MACF, Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Otley (2016), Bromwich & Scapens (2016), Malmi & Brown (2008), Cadez & Guilding (2008), IFAC IGPG, IMA EMAC
+Cost;cost analysis;cost_analysis;Qiu et al. (2023)
+Cost;cost evaluation;cost_evaluation;Qiu et al. (2023)
+Cost;cost management technique;cost_management_technique; IMA MACF, Chenhall & Moers (2015)
+Cost;cost accounting process;cost_accounting_process;IMA MACF
+Cost;activity based costing approach;activity_based_costing_approach;IMA MACF, Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Otley (2016), Bromwich & Scapens (2016), Malmi & Brown (2008), Cadez & Guilding (2008), IFAC IGPG, IMA EMAC
+Cost;abc approach;abc_approach;IMA MACF, Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Otley (2016), Bromwich & Scapens (2016), Malmi & Brown (2008), Cadez & Guilding (2008), IFAC IGPG, IMA EMAC
+Cost;cost transformation;cost_transformation;GMAP
+Cost;cost effective sourcing;cost_effective_sourcing;GMAP
+Cost;cost target;cost_target;GMAP
+Cost;cost driver;cost_driver;GMAP, IMA EMAC
+Cost;costing technique;costing_technique;GMAP, CGMA CF
+Cost;cost avoidance;cost_avoidance;GMAP
+Cost;cost accumulation;cost_accumulation;CGMA PQS, Cadez & Guilding (2008)
+Cost;cost element;cost_element;CGMA PQS
+Cost;cost behaviour;cost_behaviour;CGMA PQS, IMA EMAC
+Cost;marginal costing;marginal_costing;CGMA PQS, IMA EMAC
+Cost;absorption costing;absorption_costing;CGMA PQS, IMA EMAC
+Cost;usage variances;usage_variances;CGMA PQS
+Cost;usage variance;usage_variance;CGMA PQS
+Cost;efficiency variances;efficiency_variances;CGMA PQS
+Cost;efficiency variance;efficiency_variance;CGMA PQS
+Cost;product costing;product_costing;CGMA PQS
+Cost;service costing;service_costing;CGMA PQS
+Cost;costing system;costing_system;CGMA PQS, IMA EMAC
+Cost;digital costing;digital_costing;CGMA PQS
+Cost;life cycle costing;life_cycle_costing;CGMA PQS,  Cadez & Guilding (2008), Chenhall & Moers (2015)
+Cost;costing methodology;costing_methodology;CGMA CF
+Cost;strategic cost transformation;strategic_cost_transformation;CGMA CF
+Cost;strategic cost management;strategic_cost_management;IMA MACF, Chenhall & Moers (2015),  Cadez & Guilding (2008)
+Cost;inventory control tool;inventory_control_tool;IMA MACF
+Cost;capacity planning;capacity_planning;IMA MACF
+Cost;throughput costing;throughput_costing;IMA MACF, IMA EMAC
+Cost;trace costs;trace_costs;IMA MACF
+Cost;trace cost;trace_cost;IMA MACF
+Cost;costing approach;costing_approach;IMA MACF
+Cost;valur chain cost analysis;valur_chain_cost_analysis;IMA MACF
+Cost;optimal sourcing;optimal_sourcing;IMA MACF
+Cost;resource consumption accounting;resource_consumption_accounting;IMA MACF, IMA EMAC
+Cost;managerial costing model;managerial_costing_model;IMA MACF, IMA EMAC
+Cost;managerial costing method;managerial_costing_method;IMA MACF, IMA EMAC
+Cost;cost reduction strategy;cost_reduction_strategy;IMA MACF
+Cost;cost classification;cost_classification;IMA MACF
+Cost;overhead allocation;overhead_allocation;IMA MACF, Bromwich & Scapens (2016)
+Cost;costing applications;costing_applications;IMA MACF
+Cost;costing application;costing_application;IMA MACF
+Cost;lean accounting;lean_accounting;IMA MACF, Chenhall & Moers (2015)
+Cost;absoption costing;absoption_costing;IMA MACF
+Cost;direct costing;direct_costing;IMA MACF, IMA EMAC
+Cost;indirect cost;indirect_cost;IMA MACF, IMA EMAC
+Cost;indirect costing;indirect_costing;IMA MACF, IMA EMAC
+Cost;cost accounting approach;cost_accounting_approach;IMA MACF, IMA EMAC
+Cost;cost accounting practice;cost_accounting_practice;IMA MACF, IMA EMAC
+Cost;cost accounting method;cost_accounting_method;IMA MACF, IMA EMAC
+Cost;joint product costs;joint_product_costs;IMA MACF
+Cost;joint product cost;joint_product_cost;IMA MACF
+Cost;by product costs;by_product_costs;IMA MACF
+Cost;environmental cost;environmental_cost;IMA MACF
+Cost;sustainability costs;sustainability_costs;IMA MACF
+Cost;sustainability cost;sustainability_cost;IMA MACF
+Cost;relevant costs;relevant_costs;IMA EMAC
+Cost;relevant cost;relevant_cost;IMA EMAC
+Cost;cost function;cost_function;IMA EMAC
+Cost;mixed costs;mixed_costs;IMA EMAC, IFAC IGPG
+Cost;mixed cost;mixed_cost;IMA EMAC, IFAC IGPG
+Cost;semivariable costs;semivariable_costs;IMA EMAC, IFAC IGPG
+Cost;semivariable cost;semivariable_cost;IMA EMAC, IFAC IGPG
+Cost;step costs;step_costs;IMA EMAC
+Cost;step cost;step_cost;IMA EMAC
+Cost;conversion cost;conversion_cost;IMA EMAC
+Cost;overhead cost;overhead_cost;IMA EMAC
+Cost;cost pool;cost_pool;IMA EMAC
+Cost;linear cost function;linear_cost_function;IMA EMAC
+Cost;specific cost;specific_cost;IMA EMAC
+Cost;allocation of cost;allocation_of_cost;IMA EMAC
+Cost;allocation base;allocation_base;IMA EMAC
+Cost;step down method;step_down_method;IMA EMAC
+Cost;reciprocal method;reciprocal_method;IMA EMAC
+Cost;sunk costs;sunk_costs;IMA EMAC, IFAC IGPG
+Cost;sunk cost;sunk_cost;IMA EMAC, IFAC IGPG
+Cost;discretionary cost;discretionary_cost;IMA EMAC
+Cost;economies of scales;economies_of_scales;IMA EMAC, IMA SMA RMF (Strategy?)
+Cost;attribute costing;attribute_costing;Cadez & Guilding (2008)
+Cost;quality costing;quality_costing;Cadez & Guilding (2008), Chenhall & Moers (2015)
+Cost;value chain costing;value_chain_costing;Cadez & Guilding (2008)
+Cost;strategic costing;strategic_costing;Cadez & Guilding (2008), Chenhall & Moers (2015)
+Cost;prevention costs;prevention_costs;Cadez & Guilding (2008)
+Cost;prevention cost;prevention_cost;Cadez & Guilding (2008)
+Cost;appraisal costs;appraisal_costs;Cadez & Guilding (2008)
+Cost;appraisal cost;appraisal_cost;Cadez & Guilding (2008)
+Cost;internal failure costs;internal_failure_costs;Cadez & Guilding (2008)
+Cost;internal failure cost;internal_failure_cost;Cadez & Guilding (2008)
+Cost;external failure costs;external_failure_costs;Cadez & Guilding (2008)
+Cost;external failure cost;external_failure_cost;Cadez & Guilding (2008)
+Cost;engineering cost ;engineering_cost;Cadez & Guilding (2008)
+Cost;marketing cost;marketing_cost;Cadez & Guilding (2008)
+Cost;expenditure budget;expenditure_budget;Chenhall & Moers (2015)
+Cost;modeling cost behavior;modeling_cost_behavior;Chenhall & Moers (2015)
+Cost;cost policies;cost_policies;Chenhall & Moers (2015)
+Cost;overhead rate;overhead_rate;Abdel-Kader & Luther (2008)
+Cost;improved costing;improved_costing;Bromwich & Scapens (2016)
+Cost;cost of quality;cost_of_quality;IMA MACF, Cadez & Guilding (2008)
+Cost;responsibility accounting;responsibility_accounting;IMA EMAC
+Cost;resource capacity;resource_capacity;IMA EMAC
+Cost;should costing;should_costing;IMA EMAC
+Cost;process costing;process_costing;IMA EMAC
+Cost;time driven abc;time_driven_abc;IMA EMAC
+Cost;event driven abc;event_driven_abc;IMA EMAC
+Cost;job costing;job_costing;IMA EMAC
+Cost;customer cost to serve;customer_cost_to_serve;IMA EMAC
+Cost;activity cost;activity_cost;Kaplan & Cooper (1998)
+Cost;efficiency measure;efficiency_measure;Maskell et al. (2011)
+Cost;value stream;value_stream;Maskell et al. (2011)
+Cost;contimous improvement;contimous_improvement;Maskell et al. (2011)
+Cost;costing;costing;Qiu et al. (2023)
+Cost;cost plan;cost_plan;GMAP
+Cost;cost targets;cost_targets;GMAP
+Cost;costing method;costing_method;GMAP, CGMA CF
+Cost;cost reduction;cost_reduction;GMAP, IMA MACF
+Cost;product costs;product_costs;IMA EMAC
+Cost;product cost;product_cost;IMA EMAC
+Cost;period costs;period_costs;IMA EMAC
+Cost;period cost;period_cost;IMA EMAC
+Financing / Investment;roi;roi;GMAP, IMA EMAC, Nixon & Burns (2012), Malmi & Brown (2008)
+Financing / Investment;cost benefit analysis;cost_benefit_analysis;GMAP, IFAC IGPG
+Financing / Investment;financial planning;financial_planning;CGMA PQS
+Financing / Investment;capital budget;capital_budget;CGMA PQS, IMA EMAC, IFAC IGPG
+Financing / Investment;cash flow analysis;cash_flow_analysis;CGMA CF
+Financing / Investment;value analysis;value_analysis;CGMA PQS
+Financing / Investment;capital allocation;capital_allocation;GMAP, COSO ERM
+Financing / Investment;roce;roce;IMA MACF
+Financing / Investment;return on capital employed;return_on_capital_employed;IMA MACF
+Financing / Investment;irr;irr;GMAP, IMA MACF, IMA EMAC, IFAC IGPG
+Financing / Investment;internal rate of return;internal_rate_of_return;GMAP, IMA MACF, IMA EMAC, IFAC IGPG
+Financing / Investment;return of investment;return_of_investment;GMAP, IMA EMAC, Nixon & Burns (2012), Malmi & Brown (2008)
+Financing / Investment;capex;capex;CGMA PQS
+Financing / Investment;capital budgeting;capital_budgeting;
+Financing / Investment;financing management;financing_management;Qiu et al. (2023)
+Financing / Investment;constrained resources optimisation;constrained_resources_optimisation;Qiu et al. (2023)
+Financing / Investment;investment appraisal;investment_appraisal;GMAP, IFAC IGPG
+Financing / Investment;investment appraisal calculations;investment_appraisal_calculations;GMAP, IFAC IGPG
+Financing / Investment;capital rationing;capital_rationing;GMAP
+Financing / Investment;payback period;payback_period;GMAP, IMA MACF, IMA EMAC, Abdel-Kader & Luther (2008), IFAC IGPG
+Financing / Investment;weigthed average cost of capital;weigthed_average_cost_of_capital;GMAP, IFAC IGPG
+Financing / Investment;cash flow cycle;cash_flow_cycle;CGMA PQS
+Financing / Investment;payables management;payables_management;CGMA PQS
+Financing / Investment;investment decision making process;investment_decision_making_process;CGMA PQS
+Financing / Investment;capital budgeting;capital_budgeting;CGMA PQS, IMA EMAC, IFAC IGPG
+Financing / Investment;capital investment evaluation;capital_investment_evaluation;CGMA PQS, Abdel-Kader & Luther (2008)
+Financing / Investment;accounting rate of return;accounting_rate_of_return;CGMA PQS
+Financing / Investment;computing annuities;computing_annuities;CGMA PQS
+Financing / Investment;dividend valuation model;dividend_valuation_model;CGMA PQS
+Financing / Investment;equity valuation;equity_valuation;CGMA PQS
+Financing / Investment;funding techniques;funding_techniques;CGMA CF
+Financing / Investment;funding technique;funding_technique;CGMA CF
+Financing / Investment;shareholder model;shareholder_model;CGMA CF
+Financing / Investment;real options;real_options;IMA MACF (Risk or Operations?), IFAC IGPG (Investment), COSO ERM (Risk)
+Financing / Investment;real options analysis;real_options_analysis;IMA MACF (Risk or Operations?), IFAC IGPG (Investment), COSO ERM (Risk)
+Financing / Investment;working capital policies;working_capital_policies;IMA MACF
+Financing / Investment;opportunity cost of capital;opportunity_cost_of_capital;IMA MACF, Abdel-Kader & Luther (2008)
+Financing / Investment;hurdle rate;hurdle_rate;IMA MACF, IFAC IGPG
+Financing / Investment;residual income;residual_income;IMA EMAC, Abdel-Kader & Luther (2008)
+Financing / Investment;analysis of joint ventures;analysis_of_joint_ventures;Chenhall & Moers (2015)
+Financing / Investment;shareholder value analysis;shareholder_value_analysis;Cadez & Guilding (2008)
+Financing / Investment;forecasted cash flow;forecasted_cash_flow;IFAC IGPG
+Financing / Investment;determining alternatives;determining_alternatives;IFAC IGPG
+Financing / Investment;determining alternative;determining_alternative;IFAC IGPG
+Financing / Investment;best case scenario;best_case_scenario;IFAC IGPG
+Financing / Investment;investment management;investment_management;Qiu et al. (2023)
+Financing / Investment;discounted cash flow;discounted_cash_flow;Qiu et al. (2023), CGMA CF, Abdel-Kader & Luther (2008), Bromwich & Scapens (2016), IFAC IGPG
+Financing / Investment;discounted cash flow model;discounted_cash_flow_model;CGMA CF, Abdel-Kader & Luther (2008), Bromwich & Scapens (2016), IFAC IGPG
+Financing / Investment;discounted cash flow analysis;discounted_cash_flow_analysis;CGMA CF, Abdel-Kader & Luther (2008), Bromwich & Scapens (2016), IFAC IGPG
+Financing / Investment;net present value;net_present_value;GMAP, IMA MACF, IMA EMAC, IFAC IGPG
+Financing / Investment;npv;npv;GMAP, IMA MACF, IMA EMAC, IFAC IGPG
+Financing / Investment;average cost of capital;average_cost_of_capital;GMAP, IFAC IGPG
+Financing / Investment;wacc;wacc;GMAP, IFAC IGPG
+Financing / Investment;future cash flows;future_cash_flows;GMAP
+Financing / Investment;credit management;credit_management;GMAP
+Financing / Investment;receivables management;receivables_management;CGMA PQS
+Financing / Investment;investment decision making;investment_decision_making;CGMA PQS
+Financing / Investment;capital investment;capital_investment;CGMA PQS, Abdel-Kader & Luther (2008)
+Financing / Investment;cost of equity;cost_of_equity;CGMA PQS, IFAC IGPG
+Financing / Investment;cost of debt;cost_of_debt;CGMA PQS, IFAC IGPG
+Financing / Investment;cost of capital;cost_of_capital;IMA MACF, Abdel-Kader & Luther (2008)
+Financing / Investment;time value of money;time_value_of_money;IMA EMAC, IFAC IGPG
+Financing / Investment;ri;ri;IMA EMAC, Abdel-Kader & Luther (2008)
+Financing / Investment;discounting cash flows;discounting_cash_flows;Abdel-Kader & Luther (2008)
+Financing / Investment;discount rate;discount_rate;IFAC IGPG
+Financing / Investment;opportunity cost;opportunity_cost;IFAC IGPG, IMA EMAC
+Operations;operations management;operations_management;Qiu et al. (2023), Nixon & Burns (2012)
+Operations;supply chain management;supply_chain_management;CGMA PQS, Nixon & Burns (2012)
+Operations;inventory management;inventory_management;CGMA PQS
+Operations;continuous improvement;continuous_improvement;IMA MACF
+Operations;operational decision making;operational_decision_making;IMA EMAC, Malmi & Brown (2008), IMA SMA RMF
+Operations;process improvements;process_improvements;CGMA CF
+Operations;process improvement;process_improvement;CGMA CF
+Operations;operational management;operational_management;Nixon & Burns (2012)
+Operations;logistics management;logistics_management;IMA EMAC
+Operations;capacity utilization;capacity_utilization;IMA MACF, IMA EMAC, IMA SMA RMF
+Operations;bottlenecks;bottlenecks;GMAP
+Operations;operating cycle;operating_cycle;CGMA PQS
+Operations;quality management;quality_management;CGMA PQS, IMA MACF
+Operations;quality improvement;quality_improvement;IMA MACF
+Operations;quality programs;quality_programs;IMA MACF, IMA SMA RMF
+Operations;operational planning;operational_planning;IMA EMAC, Malmi & Brown (2008), IMA SMA RMF
+Operations;quality control;quality_control;Malmi & Brown (2008)
+Operations;contingency plan;contingency_plan;IMA EMAC, IMA SRM (Risk)
+Operations;valuation added;valuation_added;Qiu et al. (2023)
+Operations;cost volume profit analysis;cost_volume_profit_analysis;Qiu et al. (2023), IMA MACF, IMA EMAC, Abdel-Kader & Luther (2008)
+Operations;marginal analysis;marginal_analysis;Qiu et al. (2023)
+Operations;cvp analysis;cvp_analysis;IMA MACF, IMA EMAC, Abdel-Kader & Luther (2008)
+Operations;breakeven analysis;breakeven_analysis;GMAP (Risk?), IMA MACF
+Operations;multiproduct breakeven analysis;multiproduct_breakeven_analysis;GMAP (Risk?), IMA MACF
+Operations;value delivery;value_delivery;GMAP, IMA MAFC, IMA EMAC
+Operations;value generating decision;value_generating_decision;GMAP
+Operations;transfer pricing rule;transfer_pricing_rule;GMAP, IMA MAFC, IMA EMAC, Chenhall & Moers (2015), Bromwich & Scapens (2016)
+Operations;transfer pricing guidelines;transfer_pricing_guidelines;GMAP, IMA MAFC, IMA EMAC, Chenhall & Moers (2015), Bromwich & Scapens (2016)
+Operations;transfer pricing guideline;transfer_pricing_guideline;GMAP, IMA MAFC, IMA EMAC, Chenhall & Moers (2015), Bromwich & Scapens (2016)
+Operations;pricing management;pricing_management;GMAP
+Operations;pricing tools;pricing_tools;GMAP
+Operations;bottleneck;bottleneck;
+Operations;bottlenecks identification;bottlenecks_identification;GMAP
+Operations;bottleneck identification;bottleneck_identification;
+Operations;bottlenecks analysis;bottlenecks_analysis;GMAP
+Operations;bottleneck analysis;bottleneck_analysis;
+Operations;project management tool;project_management_tool;GMAP, IMA MACF
+Operations;gantt chart;gantt_chart;CGMA PQS, IMA MACF, IMA SMA RMF
+Operations;work breakdown schedule;work_breakdown_schedule;CGMA PQS, IMA MACF, IMA SMA RMF
+Operations;network analysis;network_analysis;CGMA PQS, IMA MACF, IMA SMA RMF
+Operations;marginal pricing;marginal_pricing;CGMA PQS
+Operations;full cost pricing;full_cost_pricing;CGMA PQS
+Operations;just in time management;just_in_time_management;CGMA PQS, IMA EMAC, Malmi & Brown (2008)
+Operations;kaizen;kaizen;CGMA PQS, IMA MACF, IMA EMAC
+Operations;process re engineering;process_re_engineering;CGMA PQS
+Operations;activity based management;activity_based_management;CGMA PQS, IMA EMAC, Chenhall & Moers (2015), Malmi & Brown (2008), IMA SMA RMF
+Operations;analytical technique;analytical_technique;IMA MACF
+Operations;decision support tool;decision_support_tool;IMA MACF
+Operations;evaluate nonroutine projects;evaluate_nonroutine_projects;IMA MACF
+Operations;evaluate nonroutine project;evaluate_nonroutine_project;IMA MACF
+Operations;evaluate supply chain;evaluate_supply_chain;IMA MACF
+Operations;process mapping;process_mapping;IMA MACF
+Operations;fishbone diagram;fishbone_diagram;IMA MACF
+Operations;quality improvement projects;quality_improvement_projects;IMA MACF
+Operations;quality improvement project;quality_improvement_project;
+Operations;quality management tools;quality_management_tools;IMA MACF
+Operations;quality management tool;quality_management_tool;IMA MACF
+Operations;six sigma;six_sigma;IMA MACF, IMA SMA RMF
+Operations;quality program;quality_program;IMA MACF, IMA SMA RMF
+Operations;value stream mapping;value_stream_mapping;IMA MACF, IMA EMAC
+Operations;tqm;tqm;IMA MACF, Malmi & Brown (2008), IMA SMA RMF
+Operations;total quality management;total_quality_management;IMA MACF, Malmi & Brown (2008), IMA SMA RMF
+Operations;critical paths;critical_paths;IMA MACF
+Operations;capacity management;capacity_management;IMA MACF, IMA EMAC, IMA SMA RMF
+Operations;lean management;lean_management;IMA EMAC, IMA SMA RMF
+Operations;lean techniques;lean_techniques;IMA EMAC, IMA SMA RMF
+Operations;lean technique;lean_technique;IMA EMAC, IMA SMA RMF
+Operations;cross fuctional improvement;cross_fuctional_improvement;IMA EMAC
+Operations;revenue management practices;revenue_management_practices;IMA EMAC, IMA SMA RMF
+Operations;revenue management practice;revenue_management_practice;IMA EMAC, IMA SMA RMF
+Operations;revenue management tool;revenue_management_tool;IMA EMAC, IMA SMA RMF
+Operations;profitability management;profitability_management;IMA EMAC
+Operations;profitability analysis;profitability_analysis;IMA EMAC
+Operations;revenue generating model;revenue_generating_model;IMA EMAC
+Operations;inventory allocation;inventory_allocation;IMA EMAC, IMA SMA RMF
+Operations;ad hoc inventory allocation;ad_hoc_inventory_allocation;IMA EMAC, IMA SMA RMF
+Operations;systematic inventory allocation;systematic_inventory_allocation;IMA EMAC, IMA SMA RMF
+Operations;revenue levers;revenue_levers;IMA EMAC, IMA SMA RMF
+Operations;revenue lever;revenue_lever;IMA EMAC, IMA SMA RMF
+Operations;revenue variance analysis;revenue_variance_analysis;IMA EMAC
+Operations;accounts receivable turnover;accounts_receivable_turnover;IMA EMAC
+Operations;customer profitability analysis;customer_profitability_analysis;IMA EMAC, Cadez & Guilding (2008), Abdel-Kader & Luther (2008)
+Operations;customer account profitability;customer_account_profitability;IMA EMAC, Cadez & Guilding (2008), Abdel-Kader & Luther (2008)
+Operations;customer account profitability analysis;customer_account_profitability_analysis;IMA EMAC, Cadez & Guilding (2008), Abdel-Kader & Luther (2008)
+Operations;revenue driver;revenue_driver;IMA EMAC, IMA SMA RMF
+Operations;revenue driver analysis;revenue_driver_analysis;IMA EMAC, IMA SMA RMF
+Operations;key revenue driver;key_revenue_driver;IMA EMAC, IMA SMA RMF
+Operations;key revenue driver analysis;key_revenue_driver_analysis;IMA EMAC, IMA SMA RMF
+Operations;time series analysis;time_series_analysis;IMA EMAC
+Operations;breakeven point;breakeven_point;IMA EMAC
+Operations;causal analysis;causal_analysis;IMA EMAC
+Operations;product profitability analysis;product_profitability_analysis;Abdel-Kader & Luther (2008)
+Operations;price decision;price_decision;Cadez & Guilding (2008)
+Operations;price decision process;price_decision_process;Cadez & Guilding (2008)
+Operations;reduction of waste;reduction_of_waste;Abdel-Kader & Luther (2008)
+Operations;quality function deployment;quality_function_deployment;Nixon & Burns (2012)
+Operations;failure mode effect analysis;failure_mode_effect_analysis;Nixon & Burns (2012)
+Operations;statistical quality control;statistical_quality_control;Malmi & Brown (2008)
+Operations;lifecycle assessment;lifecycle_assessment;IMA EMAC
+Operations;responsibility center management;responsibility_center_management;IMA EMAC
+Operations;revenue center;revenue_center;IMA EMAC (abgeleitet von Responsibility center management)
+Operations;customer payment cycle;customer_payment_cycle;IMA EMAC
+Operations;pricing basis;pricing_basis;IMA EMAC, IMA SMA RMF
+Operations;revenue behavior;revenue_behavior;IMA EMAC, IMA SMA RMF
+Operations;revenue causality;revenue_causality;IMA EMAC, IMA SMA RMF
+Operations;duration control;duration_control;IMA SMA RMF
+Operations;product attribute pricing ;product_attribute_pricing;IMA SMA RMF
+Operations;product value pricing ;product_value_pricing;IMA SMA RMF
+Operations;capacity analysis;capacity_analysis;IMA SMA RMF
+Operations;constraint management;constraint_management;IMA SMA RMF
+Operations;manage customer demand;manage_customer_demand;IMA SMA RMF
+Operations;cost plus pricing;cost_plus_pricing;IMA SMA RMF
+Operations;market standard pricing;market_standard_pricing;IMA SMA RMF
+Operations;seasonal pricing;seasonal_pricing;IMA SMA RMF
+Operations;differential pricing;differential_pricing;IMA SMA RMF
+Operations;zone pricing;zone_pricing;IMA SMA RMF
+Operations;customer elasticity;customer_elasticity;IMA SMA RMF
+Operations;service efficiency;service_efficiency;IMA SMA RMF, IMA EMAC
+Operations;service design;service_design;IMA SMA RMF
+Operations;customer tracking;customer_tracking;IMA SMA RMF
+Operations;customer tracking system;customer_tracking_system;IMA SMA RMF
+Operations;benchmarking;benchmarking;Qiu et al. (2023), CGMA CF (Op. and Performance), Abdel-Kader & Luther (2008) (Performance), Ferreira & Otley (2009) (Performance)
+Operations;value creation model;value_creation_model;GMAP, IMA MAFC, IMA EMAC
+Operations;resource management;resource_management;GMAP, IMA EMAC
+Operations;project management;project_management;GMAP, IMA MACF
+Operations;process management;process_management;CGMA PQS
+Operations;product management ;product_management;CGMA PQS
+Operations;service management;service_management;CGMA PQS
+Operations;just in time;just_in_time;CGMA PQS, IMA EMAC, Malmi & Brown (2008)
+Operations;value management;value_management;CGMA PQS
+Operations;reduce cycle time;reduce_cycle_time;CGMA CF
+Operations;project plan;project_plan;CGMA CF
+Operations;project development;project_development;CGMA CF
+Operations;decision support tools;decision_support_tools;IMA MACF
+Operations;material management;material_management;IMA MACF
+Operations;value engineering;value_engineering;IMA EMAC
+Operations;product strategy;product_strategy;Ferreira & Otley (2009)
+Operations;product development;product_development;Ferreira & Otley (2009)
+Operations;customer segmentation;customer_segmentation;IMA SMA RMF
+Operations;demand management;demand_management;IMA SMA RMF
+Operations;product configuration;product_configuration;IMA SMA RMF
+Operations;production efficiency;production_efficiency;IMA SMA RMF, IMA EMAC
+Operations;product design;product_design;IMA SMA RMF
+Operations;margin of safety;margin_of_safety;IMA EMAC
+Performance        ;key performance metrics;key_performance_metrics;CGMA CF,  Ferreira & Otley (2009)
+Performance        ;scorecard;scorecard;GMAP, Otley (2016)
+Performance        ;internal reporting;internal_reporting;IMA EMAC
+Performance        ;performance targets;performance_targets;Ferreira & Otley (2009)
+Performance        ;performance target;performance_target;Ferreira & Otley (2009)
+Performance        ;performance reporting;performance_reporting;CGMA PQS, CGMA CF
+Performance        ;performance monitoring;performance_monitoring;CGMA CF
+Performance        ;performance metrics;performance_metrics;IMA EMAC
+Performance        ;performance metric;performance_metric;IMA EMAC
+Performance        ;key performance metric;key_performance_metric;CGMA CF,  Ferreira & Otley (2009)
+Performance        ;key performance measures;key_performance_measures;CGMA CF,  Ferreira & Otley (2009)
+Performance        ;key performance measure;key_performance_measure;CGMA CF,  Ferreira & Otley (2009)
+Performance        ;key performance indicators;key_performance_indicators;Qiu et al. (2023), CGMA CF,  Ferreira & Otley (2009)
+Performance        ;internal management reports;internal_management_reports;IMA MACF
+Performance        ;dashboard;dashboard;IMA MACF, IMA EMAC, Otley (2016)
+Performance        ;performance measures;performance_measures;CGMA CF, IMA EMAC, Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;performance measure;performance_measure;CGMA CF, IMA EMAC, Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;financial performance measures;financial_performance_measures;CGMA CF, IMA EMAC, Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;financial performance measure;financial_performance_measure;CGMA CF, IMA EMAC, Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;performance measurement;performance_measurement;IMA MACF, Chenhall & Moers (2015)
+Performance        ;key performance indicator;key_performance_indicator;Qiu et al. (2023), CGMA CF,  Ferreira & Otley (2009)
+Performance        ;responsibility centre;responsibility_centre;Qiu et al. (2023), CGMA PQS, Chenhall & Moers (2015), IMA EMAC
+Performance        ;balanced scorecard;balanced_scorecard;Qiu et al. (2023), Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Ferreira & Otley (2009), Nixon & Burns (2012), Otley (2016), Bromwich & Scapens (2016), Malmi & Brown (2008)
+Performance        ;performance appraisal;performance_appraisal;Qiu et al. (2023), CGMA CF
+Performance        ;incentive management;incentive_management;Qiu et al. (2023)
+Performance        ;organizational performance management;organizational_performance_management;GMAP
+Performance        ;motivation system;motivation_system;CGMA PQS
+Performance        ;performance objective setting;performance_objective_setting;CGMA PQS
+Performance        ;employee appraisals;employee_appraisals;CGMA PQS
+Performance        ;employee appraisal;employee_appraisal;CGMA PQS
+Performance        ;reward system;reward_system;CGMA PQS, Chenhall & Moers (2015), Ferreira & Otley (2009), Malmi & Brown (2008)
+Performance        ;cost centre;cost_centre;CGMA PQS
+Performance        ;revenue centre;revenue_centre;CGMA PQS
+Performance        ;profit centre;profit_centre;CGMA PQS
+Performance        ;investment centre;investment_centre;CGMA PQS
+Performance        ;non-financial indicators;non-financial_indicators;CGMA PQS,  Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Ferreira & Otley (2009), Otley (2016), Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;non-financial indicator;non-financial_indicator;CGMA PQS,  Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Ferreira & Otley (2009), Otley (2016), Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;non-financial measures;non-financial_measures;CGMA PQS,  Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Ferreira & Otley (2009), Otley (2016), Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;non-financial measure;non-financial_measure;CGMA PQS,  Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Ferreira & Otley (2009), Otley (2016), Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;non-financial performance indicators;non-financial_performance_indicators;CGMA PQS,  Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Ferreira & Otley (2009), Otley (2016), Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;non-financial performance indicator;non-financial_performance_indicator;CGMA PQS,  Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Ferreira & Otley (2009), Otley (2016), Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;non-financial performance measures;non-financial_performance_measures;CGMA PQS,  Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Ferreira & Otley (2009), Otley (2016), Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;non-financial performance measure;non-financial_performance_measure;CGMA PQS,  Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Ferreira & Otley (2009), Otley (2016), Malmi & Brown (2008), Cadez & Guilding (2008)
+Performance        ;key value drivers;key_value_drivers;CGMA CF
+Performance        ;key value driver;key_value_driver;CGMA CF
+Performance        ;performance management framework;performance_management_framework;CGMA CF
+Performance        ;appraisal methodology;appraisal_methodology;CGMA CF
+Performance        ;monitor corporate reporting;monitor_corporate_reporting;CGMA CF
+Performance        ;monitor change management;monitor_change_management;CGMA CF
+Performance        ;key business factors;key_business_factors;CGMA CF
+Performance        ;key business factor;key_business_factor;CGMA CF
+Performance        ;internal management report;internal_management_report;IMA MACF
+Performance        ;performance variances;performance_variances;IMA MACF
+Performance        ;performance variance;performance_variance;IMA MACF
+Performance        ;performance measurement system;performance_measurement_system;IMA MACF, Chenhall & Moers (2015)
+Performance        ;performance measurement process;performance_measurement_process;IMA MACF
+Performance        ;intercompany trend analysis;intercompany_trend_analysis;IMA MACF
+Performance        ;reward staff;reward_staff;IMA MACF
+Performance        ;team management;team_management;IMA MACF
+Performance        ;lagging indicator;lagging_indicator;IMA MACF, Chenhall & Moers (2015), IMA SRM
+Performance        ;monitoring methods;monitoring_methods;IMA EMAC
+Performance        ;monitoring method;monitoring_method;IMA EMAC
+Performance        ;monitoring measures;monitoring_measures;IMA EMAC
+Performance        ;monitoring measure;monitoring_measure;IMA EMAC
+Performance        ;measure strategic implementation;measure_strategic_implementation;IMA EMAC
+Performance        ;control strategic implementation;control_strategic_implementation;IMA EMAC
+Performance        ;decision monitoring;decision_monitoring;IMA EMAC
+Performance        ;variance analysis;variance_analysis;IMA EMAC
+Performance        ;smart criteria;smart_criteria;IMA EMAC
+Performance        ;gap analysis;gap_analysis;IMA EMAC
+Performance        ;diagnostic control system;diagnostic_control_system;IMA EMAC, Ferreira & Otley (2009)
+Performance        ;competitive performance appraisal;competitive_performance_appraisal;Cadez & Guilding (2008)
+Performance        ;value based management;value_based_management;Ferreira & Otley (2009), Malmi & Brown (2008)
+Performance        ;objective performance evaluation;objective_performance_evaluation;Ferreira & Otley (2009)
+Performance        ;subjective performance evaluation;subjective_performance_evaluation;Ferreira & Otley (2009)
+Performance        ;relative performance evaluation;relative_performance_evaluation;Ferreira & Otley (2009)
+Performance        ;financial reward;financial_reward;Ferreira & Otley (2009)
+Performance        ;non financial rewards;non_financial_rewards;Ferreira & Otley (2009)
+Performance        ;non financial reward;non_financial_reward;Ferreira & Otley (2009)
+Performance        ;incentive scheme;incentive_scheme;Ferreira & Otley (2009), Otley (2016)
+Performance        ;incentive system;incentive_system;Ferreira & Otley (2009), Otley (2016)
+Performance        ;incentive pay scheme;incentive_pay_scheme;Ferreira & Otley (2009), Otley (2016)
+Performance        ;incentive pay system;incentive_pay_system;Ferreira & Otley (2009), Otley (2016)
+Performance        ;value added management;value_added_management;Bromwich & Scapens (2016)
+Performance        ;critical performance variables ;critical_performance_variables;IMA EMAC (Simon큦 levers of control)
+Performance        ;critical performance variable;critical_performance_variable;IMA EMAC (Simon큦 levers of control)
+Performance        ;profit center;profit_center;IMA EMAC (abgeleitet von Responsibility center management)
+Performance        ;investment center;investment_center;IMA EMAC (abgeleitet von Responsibility center management)
+Performance        ;supplementary financial measures;supplementary_financial_measures;IFAC IGPG
+Performance        ;supplementary financial measure;supplementary_financial_measure;IFAC IGPG
+Performance        ;management incentives;management_incentives;COSO ERM
+Performance        ;performance management;performance_management;Qiu et al. (2023), CGMA CF, IMA MACF, Ferreira & Otley (2009)
+Performance        ;economic value added;economic_value_added;Qiu et al. (2023), CGMA CF, IMA EMAC, Nixon & Burns (2012), Malmi & Brown (2008)
+Performance        ;performance management system;performance_management_system;CGMA CF, IMA MACF, Ferreira & Otley (2009)
+Performance        ;eva;eva;CGMA CF, IMA EMAC, Nixon & Burns (2012), Malmi & Brown (2008)
+Performance        ;team performance;team_performance;IMA MACF
+Performance        ;leading indicator;leading_indicator;IMA MACF, Chenhall & Moers (2015), IMA SRM
+Performance        ;monitoring;monitoring;IMA EMAC
+Performance        ;measuring performance;measuring_performance;IMA EMAC
+Performance        ;measure performance;measure_performance;IMA EMAC
+Performance        ;analyze performance;analyze_performance;IMA EMAC
+Performance        ;performance evaluation;performance_evaluation;Abdel-Kader & Luther (2008), Ferreira & Otley (2009)
+Performance        ;evaluate performance;evaluate_performance;Ferreira & Otley (2009), Malmi & Brown (2008)
+Performance        ;evaluating performance;evaluating_performance;Ferreira & Otley (2009), Malmi & Brown (2008)
+Performance        ;management incentive;management_incentive;COSO ERM
+Performance            ;track performance;track_performance;CGMA CF
+Pricing & Revenue Management;product pricing;product_pricing;GMAP
+Pricing & Revenue Management;pricing strategy;pricing_strategy;CGMA PQS
+Pricing & Revenue Management;revenue management;revenue_management;IMA EMAC, IMA SMA RMF
+Pricing & Revenue Management;revenue streams;revenue_streams;IMA EMAC
+Pricing & Revenue Management;revenue model;revenue_model;IMA EMAC, IMA SMA RMF
+Pricing & Revenue Management;value pricing;value_pricing;IMA EMAC
+Pricing & Revenue Management;strategic pricing;strategic_pricing;Cadez & Guilding (2008), Chenhall & Moers (2015)
+Pricing & Revenue Management;revenue stream;revenue_stream;IMA EMAC
+Pricing & Revenue Management;premium pricing;premium_pricing;GMAP
+Pricing & Revenue Management;market pricing;market_pricing;IMA SMA RMF
+Pricing & Revenue Management;dynamic pricing;dynamic_pricing;IMA SMA RMF
+Pricing & Revenue Management;arr;arr;CGMA PQS
+Pricing & Revenue Management;transfer pricing;transfer_pricing;GMAP, IMA MAFC, IMA EMAC, Chenhall & Moers (2015), Bromwich & Scapens (2016)
+Pricing & Revenue Management;transfer pricing rules;transfer_pricing_rules;GMAP, IMA MAFC, IMA EMAC, Chenhall & Moers (2015), Bromwich & Scapens (2016)
+Pricing & Revenue Management;transfer pricing methodology;transfer_pricing_methodology;GMAP, IMA MAFC, IMA EMAC, Chenhall & Moers (2015), Bromwich & Scapens (2016)
+Pricing & Revenue Management;pricing tool;pricing_tool;GMAP
+Pricing & Revenue Management;pricing policies;pricing_policies;GMAP
+Pricing & Revenue Management;pricing policy;pricing_policy;GMAP
+Pricing & Revenue Management;customer profitability;customer_profitability;IMA EMAC, Cadez & Guilding (2008), Abdel-Kader & Luther (2008)
+Pricing & Revenue Management;yield management;yield_management;IMA SMA RMF
+Risk / Internal control               ;internal control;internal_control;GMAP, IMA MACF
+Risk / Internal control               ;risk management policies;risk_management_policies;CGMA CF
+Risk / Internal control               ;risk assessment;risk_assessment;CGMA CF, IMA MACF, COSO ERM, IMA SRM
+Risk / Internal control               ;risk oversight;risk_oversight;IMA SRM
+Risk / Internal control               ;risk reports;risk_reports;CGMA PQS
+Risk / Internal control               ;risk policy;risk_policy;IMA SRM
+Risk / Internal control               ;risk monitoring;risk_monitoring;IMA SRM
+Risk / Internal control               ;risk modeling;risk_modeling;IFAC IGPG
+Risk / Internal control               ;risk management policy;risk_management_policy;CGMA CF
+Risk / Internal control               ;risk evaluation;risk_evaluation;Nixon & Burns (2012)
+Risk / Internal control               ;risk classification;risk_classification;GMAP
+Risk / Internal control               ;risk assessment process;risk_assessment_process;CGMA CF, IMA MACF, COSO ERM, IMA SRM
+Risk / Internal control               ;risk analytics;risk_analytics;CGMA PQS
+Risk / Internal control               ;internal control system;internal_control_system;GMAP, IMA MACF
+Risk / Internal control               ;internal audit;internal_audit;GMAP
+Risk / Internal control               ;coso framework;coso_framework;CGMA PQS, IMA MACF, COSO ERM
+Risk / Internal control               ;control framework;control_framework;GMAP
+Risk / Internal control               ;risk control;risk_control;Qiu et al. (2023), IMA SRM
+Risk / Internal control               ;control system;control_system;GMAP, Chenhall & Moers (2015), Otley (2016)
+Risk / Internal control               ;design controls;design_controls;GMAP
+Risk / Internal control               ;management control;management_control;IMA EMAC, Ferreira & Otley (2009), Nixon & Burns (2012), Otley (2016)
+Risk / Internal control               ;control activities;control_activities;COSO IC
+Risk / Internal control               ;implementing controls;implementing_controls;COSO IC
+Risk / Internal control               ;stress testing;stress_testing;CGMA PQS
+Risk / Internal control               ;assess risk;assess_risk;COSO ERM, IMA SRM
+Risk / Internal control               ;analyze risk;analyze_risk;COSO ERM, IMA SRM
+Risk / Internal control               ;internal controls;internal_controls;COSO IC
+Risk / Internal control               ;risk management;risk_management;Qiu et al. (2023), CGMA CF, Otley (2016), COSO ERM, IMA SRM
+Risk / Internal control               ;risk management system;risk_management_system;CGMA CF, Otley (2016), COSO ERM, IMA SRM
+Risk / Internal control               ;enterprise risk management;enterprise_risk_management;IMA MACF, COSO ERM
+Risk / Internal control               ;financial risk management;financial_risk_management;IMA MACF
+Risk / Internal control               ;manage risk;manage_risk;COSO ERM, IMA SRM
+Risk / Internal control               ;control policy;control_policy;GMAP
+Risk / Internal control               ;key risk indicator;key_risk_indicator;GMAP, IMA SRM
+Risk / Internal control               ;pestel analysis;pestel_analysis;GMAP
+Risk / Internal control               ;probability distribution;probability_distribution;CGMA PQS, COSO ERM
+Risk / Internal control               ;cumulative probability distribution;cumulative_probability_distribution;CGMA PQS, COSO ERM
+Risk / Internal control               ;decision tree;decision_tree;CGMA PQS, IFAC IGPG
+Risk / Internal control               ;probabilistic model;probabilistic_model;CGMA PQS, COSO ERM
+Risk / Internal control               ;probabilistic modeling;probabilistic_modeling;CGMA PQS, COSO ERM
+Risk / Internal control               ;decision making under uncertainty ;decision_making_under_uncertainty;CGMA PQS
+Risk / Internal control               ;tara framework;tara_framework;CGMA PQS
+Risk / Internal control               ;risk map;risk_map;CGMA PQS, COSO ERM
+Risk / Internal control               ;heat map;heat_map;CGMA PQS, COSO ERM
+Risk / Internal control               ;assurance mapping;assurance_mapping;CGMA PQS
+Risk / Internal control               ;risk analytic;risk_analytic;CGMA PQS
+Risk / Internal control               ;risk mitigation measure;risk_mitigation_measure;CGMA PQS, CGMA CF, IMA EMAC, IMA SRM
+Risk / Internal control               ;risk register;risk_register;CGMA PQS
+Risk / Internal control               ;analytical review;analytical_review;CGMA PQS
+Risk / Internal control               ;due dilligence;due_dilligence;CGMA CF
+Risk / Internal control               ;risk processes;risk_processes;CGMA CF
+Risk / Internal control               ;risk process;risk_process;CGMA CF
+Risk / Internal control               ;assurance activities;assurance_activities;CGMA CF
+Risk / Internal control               ;assurance activity;assurance_activity;CGMA CF
+Risk / Internal control               ;assurance plans;assurance_plans;CGMA CF
+Risk / Internal control               ;assurance plan;assurance_plan;CGMA CF
+Risk / Internal control               ;sox compliance;sox_compliance;IMA MACF
+Risk / Internal control               ;physical controls;physical_controls;IMA MACF
+Risk / Internal control               ;physical control;physical_control;IMA MACF
+Risk / Internal control               ;audit trails;audit_trails;IMA MACF
+Risk / Internal control               ;limits of authorization;limits_of_authorization;IMA MACF
+Risk / Internal control               ;enterprise risk management system;enterprise_risk_management_system;IMA MACF, COSO ERM
+Risk / Internal control               ;iso 31000;iso_31000;IMA MACF
+Risk / Internal control               ;organizational risk management;organizational_risk_management;IMA MACF
+Risk / Internal control               ;analyze operational risk;analyze_operational_risk;IMA MACF
+Risk / Internal control               ;analyze financial risk;analyze_financial_risk;IMA MACF
+Risk / Internal control               ;analyze strategic risk;analyze_strategic_risk;IMA MACF
+Risk / Internal control               ;strategic risk mitigation;strategic_risk_mitigation;IMA MACF
+Risk / Internal control               ;risk response;risk_response;IMA MACF, COSO ERM
+Risk / Internal control               ;risk response strategy;risk_response_strategy;IMA MACF, COSO ERM
+Risk / Internal control               ;risk simulation;risk_simulation;IMA MACF
+Risk / Internal control               ;risk simulation model;risk_simulation_model;IMA MACF
+Risk / Internal control               ;management control system;management_control_system;IMA EMAC, Ferreira & Otley (2009), Nixon & Burns (2012), Otley (2016)
+Risk / Internal control               ;management control technique;management_control_technique;IMA EMAC, Ferreira & Otley (2009), Nixon & Burns (2012), Otley (2016)
+Risk / Internal control               ;business process control;business_process_control;IMA EMAC
+Risk / Internal control               ;interactive control system;interactive_control_system;IMA EMAC (Simon큦 levers of control)
+Risk / Internal control               ;probability analysis;probability_analysis;Abdel-Kader & Luther (2008)
+Risk / Internal control               ;control packages;control_packages;Ferreira & Otley (2009)
+Risk / Internal control               ;control package;control_package;Ferreira & Otley (2009)
+Risk / Internal control               ;predictive model;predictive_model;Otley (2016)
+Risk / Internal control               ;risk modeling technique;risk_modeling_technique;IFAC IGPG
+Risk / Internal control               ;risks to be avoided;risks_to_be_avoided;IMA EMAC (Simon큦 levers of control)
+Risk / Internal control               ;boundary system;boundary_system;IMA EMAC (Simon큦 levers of control)
+Risk / Internal control               ;enterprise resilience;enterprise_resilience;COSO ERM
+Risk / Internal control               ;priotize risk;priotize_risk;COSO ERM, IMA SRM
+Risk / Internal control               ;severity of risk;severity_of_risk;COSO ERM
+Risk / Internal control               ;assess severity of risk;assess_severity_of_risk;COSO ERM
+Risk / Internal control               ;manage risk exposure;manage_risk_exposure;COSO ERM, IMA SRM
+Risk / Internal control               ;screening of risk;screening_of_risk;COSO ERM
+Risk / Internal control               ;risk interactions;risk_interactions;COSO ERM
+Risk / Internal control               ;risk interaction;risk_interaction;COSO ERM
+Risk / Internal control               ;risk interactions matrix;risk_interactions_matrix;COSO ERM
+Risk / Internal control               ;risk interaction matrix;risk_interaction_matrix;COSO ERM
+Risk / Internal control               ;bow tie diagram;bow_tie_diagram;COSO ERM
+Risk / Internal control               ;tolerance threshold;tolerance_threshold;COSO ERM
+Risk / Internal control               ;target risk levels;target_risk_levels;COSO ERM
+Risk / Internal control               ;target risk level;target_risk_level;COSO ERM
+Risk / Internal control               ;impact scale;impact_scale;COSO ERM
+Risk / Internal control               ;likelihood scale;likelihood_scale;COSO ERM
+Risk / Internal control               ;vulnerability scale;vulnerability_scale;COSO ERM
+Risk / Internal control               ;speed of onset;speed_of_onset;COSO ERM
+Risk / Internal control               ;value at risk model;value_at_risk_model;COSO ERM
+Risk / Internal control               ;risk aggregation model;risk_aggregation_model;COSO ERM
+Risk / Internal control               ;control responsibility;control_responsibility;COSO IC
+Risk / Internal control               ;control activity;control_activity;COSO IC
+Risk / Internal control               ;implementing control;implementing_control;COSO IC
+Risk / Internal control               ;implementing internal controls;implementing_internal_controls;COSO IC
+Risk / Internal control               ;implementing internal control;implementing_internal_control;COSO IC
+Risk / Internal control               ;maximum likelihood;maximum_likelihood;IMA EMAC
+Risk / Internal control               ;measure risk;measure_risk;IMA SRM
+Risk / Internal control               ;risk avoidance;risk_avoidance;IMA SRM
+Risk / Internal control               ;monitoring strategic risk;monitoring_strategic_risk;IMA SRM
+Risk / Internal control               ;monitoring risk;monitoring_risk;IMA SRM
+Risk / Internal control               ;risk monitoring process;risk_monitoring_process;IMA SRM
+Risk / Internal control               ;critical risk;critical_risk;IMA SRM
+Risk / Internal control               ;risk identification;risk_identification;Qiu et al. (2023), CGMA CF, IMA SRM
+Risk / Internal control               ;control policies;control_policies;GMAP
+Risk / Internal control               ;risk framework;risk_framework;GMAP
+Risk / Internal control               ;risk information;risk_information;GMAP
+Risk / Internal control               ;key risk indicators;key_risk_indicators;GMAP, IMA SRM
+Risk / Internal control               ;kris;kris;GMAP, IMA SRM
+Risk / Internal control               ;risk appetite;risk_appetite;GMAP, COSO ERM, IMA SRM
+Risk / Internal control               ;risk tolerance;risk_tolerance;CGMA PQS, COSO ERM, IMA SRM
+Risk / Internal control               ;risk capacity;risk_capacity;CGMA PQS, COSO ERM
+Risk / Internal control               ;risk mitigation;risk_mitigation;CGMA PQS, CGMA CF, IMA EMAC, IMA SRM
+Risk / Internal control               ;risk mitigation measures;risk_mitigation_measures;CGMA PQS, CGMA CF, IMA EMAC, IMA SRM
+Risk / Internal control               ;value at risk;value_at_risk;CGMA PQS, COSO ERM
+Risk / Internal control               ;segregation of duties;segregation_of_duties;IMA MACF
+Risk / Internal control               ;enterprise risk management framework;enterprise_risk_management_framework;IMA MACF, COSO ERM
+Risk / Internal control               ;identify risk;identify_risk;COSO ERM, IMA SRM
+Risk / Internal control               ;risk profile;risk_profile;COSO ERM, IMA SRM
+Risk / Internal control               ;risk category;risk_category;COSO ERM
+Risk / Internal control               ;residual risk;residual_risk;COSO ERM
+Risk / Internal control               ;risk universe;risk_universe;COSO ERM
+Risk / Internal control               ;risk aggregation;risk_aggregation;COSO ERM
+Risk / Internal control               ;ongoing evaluation;ongoing_evaluation;COSO IC
+Risk / Internal control               ;risk transfer;risk_transfer;IMA SRM
+Risk / Internal control               ;risk portfolio;risk_portfolio;IMA SRM
+Risk / Internal control               ;risk based pricing;risk_based_pricing;IMA SRM
+Strategy                ;business strategy;business_strategy;CGMA CF
+Strategy                ;core competencies;core_competencies;CGMA CF, Nixon & Burns (2012)
+Strategy                ;strategic initiatives;strategic_initiatives;IMA MACF
+Strategy                ;strategic objectives;strategic_objectives;Kaplan & Norton (1996)
+Strategy                ;strategic priority;strategic_priority;Kaplan & Norton (1996)
+Strategy                ;strategic priorities;strategic_priorities;Kaplan & Norton (1996)
+Strategy                ;strategic planning;strategic_planning;GMAP, Nixon & Burns (2012), Malmi & Brown (2008)
+Strategy                ;strategic objective;strategic_objective;Kaplan & Norton (1996)
+Strategy                ;strategic management;strategic_management;IMA EMAC, Ferreira & Otley (2009),Nixon & Burns (2012)
+Strategy                ;strategic initiative;strategic_initiative;IMA MACF
+Strategy                ;strategic alignment;strategic_alignment;Kaplan & Norton (1996)
+Strategy                ;product differentiation;product_differentiation;GMAP
+Strategy                ;long-term objectives;long_term_objectives;Kaplan & Norton (1996)
+Strategy                ;long-term objective;long_term_objective;Kaplan & Norton (1996)
+Strategy                ;long-term goal;long_term_goal;Kaplan & Norton (1996)
+Strategy                ;cost leadership;cost_leadership;Ferreira & Otley (2009)
+Strategy                ;core competency;core_competency;CGMA CF, Nixon & Burns (2012)
+Strategy                ;competitive strategy;competitive_strategy;Nixon & Burns (2012)
+Strategy                ;business plan;business_plan;CGMA CF
+Strategy                ;business model ;business_model;GMAP, Bromwich & Scapens (2016)
+Strategy                ;alternative strategies;alternative_strategies;COSO ERM
+Strategy                ;action plans;action_plans;CGMA PQS, Malmi & Brown (2008) (short-term)
+Strategy                ;action plan;action_plan;CGMA PQS, Malmi & Brown (2008) (short-term)
+Strategy                ;operating model;operating_model;GMAP
+Strategy                ;product mix;product_mix;GMAP
+Strategy                ;product portfolio;product_portfolio;GMAP, Chenhall & Moers (2015)
+Strategy                ;portfolio management strategy;portfolio_management_strategy;GMAP
+Strategy                ;organizational structure;organizational_structure;Ferreira & Otley (2009)
+Strategy                ;portfolio analysis;portfolio_analysis;GMAP
+Strategy                ;strategic plan;strategic_plan;IMA MACF,  IFAC IGPG
+Strategy                ;pims initiatives;pims_initiatives;Nixon & Burns (2012)
+Strategy                ;strategy management;strategy_management;Qiu et al. (2023)
+Strategy                ;resource allocation decision;resource_allocation_decision;
+Strategy                ;strategy map;strategy_map;Qiu et al. (2023), IMA EMAC, Nixon & Burns (2012)
+Strategy                ;sustainable value creation;sustainable_value_creation;GMAP, IMA MACF (Operations?), IFAC IGPG, IM SMA RMF
+Strategy                ;value creation cycle;value_creation_cycle;GMAP, IMA MACF (Operations?), IFAC IGPG, IM SMA RMF
+Strategy                ;value creation process;value_creation_process;GMAP, IMA MACF (Operations?), IFAC IGPG, IM SMA RMF
+Strategy                ;sustainable competitive advantage;sustainable_competitive_advantage;GMAP, IMA MACF, Nixon & Burns (2012), IFAC IGPG
+Strategy                ;scarce capital allocation;scarce_capital_allocation;GMAP, COSO ERM
+Strategy                ;customer preference analysis;customer_preference_analysis;GMAP
+Strategy                ;product portfolio analysis;product_portfolio_analysis;GMAP, Chenhall & Moers (2015)
+Strategy                ;product life cycle strategy;product_life_cycle_strategy;GMAP, Abdel-Kader & Luther (2008), Nixon & Burns (2012), Otley (2016)
+Strategy                ;product lifecycle strategy;product_lifecycle_strategy;GMAP, Abdel-Kader & Luther (2008), Nixon & Burns (2012), Otley (2016)
+Strategy                ;product life cycle analysis;product_life_cycle_analysis;GMAP, Abdel-Kader & Luther (2008), Nixon & Burns (2012), Otley (2016)
+Strategy                ;product lifecycle analysis;product_lifecycle_analysis;GMAP, Abdel-Kader & Luther (2008), Nixon & Burns (2012), Otley (2016)
+Strategy                ;portfolio management;portfolio_management;GMAP
+Strategy                ;product life cycle stage;product_life_cycle_stage;GMAP, Abdel-Kader & Luther (2008), Nixon & Burns (2012), Otley (2016)
+Strategy                ;product lifecycle stage;product_lifecycle_stage;GMAP, Abdel-Kader & Luther (2008), Nixon & Burns (2012), Otley (2016)
+Strategy                ;value chain;value_chain;Qiu et al. (2023), Chenhall & Moers (2015), Ferreira & Otley (2009)
+Strategy                ;organizational ecosystem;organizational_ecosystem;CGMA PQS, IFAC IGPG
+Strategy                ;industry ecosystem;industry_ecosystem;CGMA PQS, IFAC IGPG
+Strategy                ;stakeholder analysis;stakeholder_analysis;CGMA PQS
+Strategy                ;value creation;value_creation;GMAP, IMA MACF (Operations?), IFAC IGPG, IM SMA RMF
+Strategy                ;action planning;action_planning;CGMA PQS, Malmi & Brown (2008) (short-term)
+Strategy                ;strategic control;strategic_control;CGMA PQS, Otley (2016)
+Strategy                ;strategic control system;strategic_control_system;CGMA PQS, Otley (2016)
+Strategy                ;swot analysis;swot_analysis;CGMA PQS, IMA MACF, Chenhall & Moers (2015), Nixon & Burns (2012)
+Strategy                ;competitor analysis;competitor_analysis;CGMA PQS, Cadez & Guilding (2008)
+Strategy                ;competitor monitoring;competitor_monitoring;CGMA PQS, Cadez & Guilding (2008)
+Strategy                ;competitor position;competitor_position;CGMA PQS, Cadez & Guilding (2008)
+Strategy                ;competitor position analysis;competitor_position_analysis;CGMA PQS, Cadez & Guilding (2008)
+Strategy                ;competitor position monitoring;competitor_position_monitoring;CGMA PQS, Cadez & Guilding (2008)
+Strategy                ;customer analysis;customer_analysis;CGMA PQS
+Strategy                ;product matrix ;product_matrix;CGMA PQS
+Strategy                ;market matrix ;market_matrix;CGMA PQS
+Strategy                ;product market matrix  ;product_market_matrix;CGMA PQS
+Strategy                ;value chain analysis;value_chain_analysis;CGMA PQS, Chenhall & Moers (2015), Abdel-Kader & Luther (2008), Nixon & Burns (2012)
+Strategy                ;target setting;target_setting;CGMA PQS, Ferreira & Otley (2009)
+Strategy                ;key success factors ;key_success_factors;CGMA PQS, IMA EMAC, Ferreira & Otley (2009)
+Strategy                ;critical success factors ;critical_success_factors;CGMA PQS, IMA EMAC, Ferreira & Otley (2009)
+Strategy                ;competitive advantage;competitive_advantage;GMAP, IMA MACF, Nixon & Burns (2012), IFAC IGPG
+Strategy                ;change management process;change_management_process;CGMA PQS, CGMA CF, IMA EMAC
+Strategy                ;change management strategy;change_management_strategy;CGMA PQS, CGMA CF, IMA EMAC
+Strategy                ;analyse orginisation environment;analyse_orginisation_environment;CGMA CF
+Strategy                ;identify core competencies;identify_core_competencies;CGMA CF, Nixon & Burns (2012)
+Strategy                ;economic indicator;economic_indicator;CGMA CF
+Strategy                ;macro economic indicators;macro_economic_indicators;CGMA CF
+Strategy                ;macro economic indicator;macro_economic_indicator;CGMA CF
+Strategy                ;tactical planning;tactical_planning;IMA MACF
+Strategy                ;long term thinking;long_term_thinking;IMA MACF
+Strategy                ;pest analysis;pest_analysis;IMA MACF (Strategy or Risk?)
+Strategy                ;threat of new entrants;threat_of_new_entrants;IMA MACF
+Strategy                ;power of suppliers;power_of_suppliers;IMA MACF
+Strategy                ;power of buyers;power_of_buyers;IMA MACF
+Strategy                ;availability of substitutes;availability_of_substitutes;IMA MACF
+Strategy                ;competitive rivalry;competitive_rivalry;IMA MACF
+Strategy                ;balancing objectives and trade offs;balancing_objectives_and_trade_offs;IMA MACF
+Strategy                ;innovation effectiveness;innovation_effectiveness;IMA MACF
+Strategy                ;war gaming;war_gaming;IMA MACF
+Strategy                ;customer behaviour;customer_behaviour;IMA MACF
+Strategy                ;coporate vision;coporate_vision;IMA MACF
+Strategy                ;coporate vision plan;coporate_vision_plan;IMA MACF
+Strategy                ;strategic goal setting;strategic_goal_setting;IMA MACF
+Strategy                ;strategic goal setting process;strategic_goal_setting_process;IMA MACF
+Strategy                ;product life cycle management;product_life_cycle_management;GMAP, Abdel-Kader & Luther (2008), Nixon & Burns (2012), Otley (2016)
+Strategy                ;ecosystem;ecosystem;CGMA PQS, IFAC IGPG
+Strategy                ;change management;change_management;CGMA PQS, CGMA CF, IMA EMAC
+Strategy                ;industry competitive structure;industry_competitive_structure;IMA MACF
+Strategy                ;strategic risks;strategic_risks;IMA MACF
+Strategy                ;supply chain analysis;supply_chain_analysis;IMA EMAC
+Strategy                ;strategic management plan;strategic_management_plan;IMA EMAC, Ferreira & Otley (2009),Nixon & Burns (2012)
+Strategy                ;strategic management process;strategic_management_process;IMA EMAC, Ferreira & Otley (2009),Nixon & Burns (2012)
+Strategy                ;theory of constraints;theory_of_constraints;IMA EMAC, Chenhall & Moers (2015)
+Strategy                ;competitive position monitoring;competitive_position_monitoring;Cadez & Guilding (2008), Chenhall & Moers (2015), Abdel-Kader & Luther (2008)
+Strategy                ;brand valuation;brand_valuation;Cadez & Guilding (2008)
+Strategy                ;low cost strategy;low_cost_strategy;Chenhall & Moers (2015)
+Strategy                ;industry analysis;industry_analysis;Abdel-Kader & Luther (2008), Nixon & Burns (2012)
+Strategy                ;industry analysis model;industry_analysis_model;Abdel-Kader & Luther (2008), Nixon & Burns (2012)
+Strategy                ;analysis of competitive position;analysis_of_competitive_position;Abdel-Kader & Luther (2008)
+Strategy                ;mission and vision;mission_and_vision;Ferreira & Otley (2009)
+Strategy                ;strategic risk;strategic_risk;IMA MACF
+Strategy                ;differentiation strategy;differentiation_strategy;Ferreira & Otley (2009)
+Strategy                ;strategic implementation process;strategic_implementation_process;Ferreira & Otley (2009)
+Strategy                ;long range forecasting;long_range_forecasting;Abdel-Kader & Luther (2008), Nixon & Burns (2012), Malmi & Brown (2008)
+Strategy                ;long range forecasting planning;long_range_forecasting_planning;Abdel-Kader & Luther (2008), Nixon & Burns (2012), Malmi & Brown (2008)
+Strategy                ;portfolio matrix;portfolio_matrix;Nixon & Burns (2012)
+Strategy                ;growth share matrix;growth_share_matrix;Nixon & Burns (2012)
+Strategy                ;ge matrix;ge_matrix;Nixon & Burns (2012)
+Strategy                ;pims analysis;pims_analysis;Nixon & Burns (2012)
+Strategy                ;business relationship;business_relationship;IMA MACF
+Strategy                ;pims initiative;pims_initiative;Nixon & Burns (2012)
+Strategy                ;resources analysis;resources_analysis;Nixon & Burns (2012)
+Strategy                ;capabilities analysis;capabilities_analysis;Nixon & Burns (2012)
+Strategy                ;strategic option analysis;strategic_option_analysis;Nixon & Burns (2012)
+Strategy                ;strategic entrepreneurship;strategic_entrepreneurship;Nixon & Burns (2012)
+Strategy                ;intellectual capital management;intellectual_capital_management;Nixon & Burns (2012)
+Strategy                ;resource based approach;resource_based_approach;Nixon & Burns (2012)
+Strategy                ;market position;market_position;Otley (2016)
+Strategy                ;competitor cost assessment;competitor_cost_assessment;Cadez & Guilding (2008), Chenhall & Moers (2015)
+Strategy                ;competitor price;competitor_price;Cadez & Guilding (2008)
+Strategy                ;competitor price reactions;competitor_price_reactions;Cadez & Guilding (2008)
+Strategy                ;competitor price reaction;competitor_price_reaction;Cadez & Guilding (2008)
+Strategy                ;competitor market strategy;competitor_market_strategy;Cadez & Guilding (2008)
+Strategy                ;assessing competitor market strategy;assessing_competitor_market_strategy;Cadez & Guilding (2008)
+Strategy                ;strategic uncertainties;strategic_uncertainties;IMA EMAC (Simon큦 levers of control)
+Strategy                ;strategic uncertainty;strategic_uncertainty;IMA EMAC (Simon큦 levers of control)
+Strategy                ;competitive environment;competitive_environment;IMA SMA RMF
+Strategy                ;competitor accounting;competitor_accounting;Cadez & Guilding (2008)
+Strategy                ;alternative strategy;alternative_strategy;COSO ERM
+Strategy                ;strategic position;strategic_position;Porter (2008)
+Strategy                ;competitive position;competitive_position;Porter (2008)
+Strategy                ;market share;market_share;Porter (2008)
+Strategy                ;industry trends;industry_trends;Porter (2008)
+Strategy                ;industry trend;industry_trend;Porter (2008)
+Strategy                ;competitive forces;competitive_forces;Porter (2008)
+Strategy                ;competitive force;competitive_force;Porter (2008)
+Strategy                ;industry forces;industry_forces;Porter (2008)
+Strategy                ;industry force;industry_force;Porter (2008)
+Strategy                ;entry barriers;entry_barriers;Porter (2008)
+Strategy                ;entry barrier;entry_barrier;Porter (2008)
+Strategy                ;strategic goal;strategic_goal;Kaplan & Norton (1996)
+Strategy                ;organizational alignment;organizational_alignment;Kaplan & Norton (1996)
+Strategy                ;customer objectives;customer_objectives;Kaplan & Norton (1996)
+Strategy                ;customer objective;customer_objective;Kaplan & Norton (1996)
+Strategy                ;customer perspective;customer_perspective;Kaplan & Norton (1996)
+Strategy                ;Growth perspective;Growth_perspective;Kaplan & Norton (1996)
+Strategy                ;Internal process perspective;Internal_process_perspective;Kaplan & Norton (1996)

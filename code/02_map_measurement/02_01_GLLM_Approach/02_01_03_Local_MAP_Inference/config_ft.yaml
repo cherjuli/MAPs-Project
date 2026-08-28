@@ -1,0 +1,19 @@
+---
+# Directory settings (make sure to adjust the paths according to your local setup)
+log_dir: "../../../../data/GLLM/Final_Inference_results/logs" # Directory for the logs
+datasets_dir: "../../../../data/GLLM/Intermediate_datasets"  # Directory for the raw data
+output_dir: "../../../../data/GLLM/Final_Inference_results/processed"  # Directory for all processed data
+fine_tuned_model_dir: "../../../../data/GLLM/Fine_tuning_data/optuna_runs/trial_20/" # Directory for the best performing fine-tuned model (replace with the path to your best performing model)
+datasets_name: "Corpus_df_HTML_cleaned_GLLM_final"  # Name of the dataset (test subsample: Corpus_df_HTML_cleaned_GLLM_final_subsample , full dataset: Corpus_df_HTML_cleaned_GLLM_final)
+input_column: "filing_text"  # Name of the column in the dataset that contains the text to analyze
+full_output_column: "llm_full_output"  # Name of the column in which to store the full GLLM output
+results_column: "results"  # Name of the column in which to store the parsed results
+
+
+# GLLM settings
+model_temperature: 0.001  # Temperature of the GLLM
+model_output_max_tokens: 64  # Maximum number of GLLM output tokens 128
+A100_batch_size: 128  # Batch size for the GLLM inference
+H200_batch_size: 256  # Batch size for the GLLM inference on H200 GPUs
+
+user_message: {"role": "user", "content": f"Text:\n{sentence}"}   # User prompt for the GLLM model (will not be imported, just serves as a template)
