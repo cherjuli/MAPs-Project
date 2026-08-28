@@ -1,0 +1,65 @@
+---
+# General settings
+huggingface_token: <huggingface_token>  # Huggingface login token (replace <huggingface_token> with your actual token)
+
+# Directory settings (make sure to adjust the paths according to your local setup)
+log_dir: "../../../../data/GLLM/Final_Inference_results/logs" # Directory for the logs
+datasets_dir: "../../../../data/GLLM/Intermediate_datasets"  # Directory for the raw data
+output_dir: "../../../../data/GLLM/Final_Inference_results/processed"  # Directory for all processed data
+transformers_cache_dir: "../../../../hf_cache/" # Directory for the transformers cache
+datasets_name: "Corpus_df_HTML_cleaned_GLLM_final"  # Name of the dataset (test subsample: Corpus_df_HTML_cleaned_GLLM_final_subsample , full dataset: Corpus_df_HTML_cleaned_GLLM_final)
+input_column: "filing_text"  # Name of the column in the dataset that contains the text to analyze
+full_output_column: "llm_full_output"  # Name of the column in which to store the full GLLM output
+results_column: "results"  # Name of the column in which to store the parsed results
+
+
+# GLLM settings
+inference_model_name: "Qwen/Qwen3-4B-Instruct-2507"  # Name of the Hugging-Face GLLM (make sure the model is downloaded and available in the transformers cache)
+model_temperature: 0.001  # Temperature of the GLLM
+model_output_max_tokens: 64  # Maximum number of GLLM output tokens 128
+A100_batch_size: 128  # Batch size for the GLLM inference
+H200_batch_size: 256  # Batch size for the GLLM inference on H200 GPUs
+system_message: |-  # System prompt for the GLLM model
+  You are an AI assistant acting as a Senior Equity Analyst with expertise in Management Accounting Practices (MAP) that analyzes corporate reports for MAP-related methods, tools, and insights.
+    
+  Please consider the following definition of Management Accounting for your answer:
+  "Management accounting is a profession that involves partnering in management decision-making, devising planning and performance management systems,
+  and providing expertise in financial reporting and control to assist management in the formulation and implementation of an organization’s strategy."
+user_message: |-  # User prompt for the GLLM model
+  You are a Senior Management Accounting Analyst assessing corporate disclosures for Management Accounting Practices (MAP).
+
+  Analyze the <sentence> below following the rules encapsulated in "+++++" and return **only** the specified JSON output.
+
+  +++++ [BEGIN OF RULES]
+  1. "Explicit_MAP_referral": "Yes" if the <sentence> explicitly refers to MAP tools or methods used internally for planning, control, or decision-making.  
+  Examples: budgeting, forecasting, cost allocation, valuation models (e.g. DCF, fair value), internal controls, hedging/re-insurance programs, or market strategy tied to internal use.
+  "No" if focused only on external reporting, GAAP, or disclosure compliance.
+
+  2. "Implicit_MAP_referral": "Yes" if internal MAP use is implied. 
+  Examples: Non-GAAP measures, impairment/sensitivity analysis, performance incentives, management estimates (reserves, allowances, discount rates), explanations of cost/revenue/profit changes, or strategic investment/R&D decisions.
+  "No" if purely regulatory (e.g., tax, IT security) or technical accounting without internal relevance.
+  If "Explicit_MAP_referral" is "Yes", "Implicit_MAP_referral" must also be "Yes".
+
+  3. "Dimension": Choose one or more of the following categories (comma-separated in one string) that suits best to the provided <sentence>:
+    - "Budgeting / Planning"
+    - "Cost"
+    - "Financing / Investment"
+    - "Operations"
+    - "Performance / Internal Reporting"
+    - "Risk / Internal Control"
+    - "Strategy"
+    - "Pricing & Revenue Management"
+    **NOTE**: Use "N/A" if both "Explicit_MAP_referral" and "Implicit_MAP_referral" are "No"
+
+  4. "Confidence_Score": Provide your honest score between 0 and 100 reflecting confidence that the <sentence> refers to MAPs.
+  Use 0 if the <sentence> is completely unrelated to MAPs, and 100 if MAPs are clearly and explicitly mentioned. 
+  Values in between should reflect proportional confidence (e.g., 50 = uncertain or weak implicit relation).
+
+  Return your response **ONLY** in the following JSON format:
+  {
+    "Explicit_MAP_referral": "Yes" or "No",
+    "Implicit_MAP_referral": "Yes" or "No",
+    "Dimension": "One or more values from the list of step 3 or 'N/A'",
+    "Confidence_Score": <an integer between 0 and 100>
+  }
+  +++++ [END OF RULES]
