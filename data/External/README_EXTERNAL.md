@@ -17,7 +17,7 @@ Expected files referenced in notebooks:
 Notes:
 - Retrieval is done through `lseg.data` API calls in the collection/validation workflow.
 - Access requires an active LSEG subscription/session.
-- The financial + ESG variables to be downloaded are listed in `LSEG_variables_list_final.csv`
+- The financial + ESG variables to be downloaded are listed in `LSEG_variables_list_final.csv`.
 
 ### 2) ISS Incentive Lab data
 Used to derive CEO compensation and incentive-related controls.
