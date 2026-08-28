@@ -1,0 +1,14 @@
+# Cumulative dependencies for Python 3.14.3 workflows
+
+joblib==1.5.3
+lseg-data==2.1.1
+matplotlib==3.10.8
+numpy==1.26.4
+pandas==2.2.2
+plotnine==0.15.3
+pyfixest==0.40.1
+scikit-learn==1.8.0
+scipy==1.17.1
+seaborn==0.13.2
+shap==0.52.0
+statsmodels==0.14.6
