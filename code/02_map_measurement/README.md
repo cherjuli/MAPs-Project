@@ -13,7 +13,6 @@ End-to-end generative LLM workflow.
 - `02_01_02_Fine_Tuning/`
   - `Local_Fine_Tuning_final.ipynb`: local LoRA fine-tuning workflow.
   - `OpenAI_Fine_Tuning_final.ipynb`: OpenAI fine-tuning workflow.
-  - `ft_base_config.json`: fine-tuning base configuration.
 - `02_01_03_Local_MAP_Inference/`
   - `main.py`: local base-model inference pipeline with sharding/resume support.
   - `main_ft.py`: local fine-tuned-model inference pipeline with sharding/resume support.
