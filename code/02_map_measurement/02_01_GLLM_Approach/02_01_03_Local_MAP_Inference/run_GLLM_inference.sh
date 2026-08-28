@@ -2,7 +2,7 @@
 
 # Define parameters jupyterlab.slurm or jupyterlab_llamafactory.slurm
 jobscript=~/GLLM_interference.slurm
-hostAddress=helix.bwservices.uni-heidelberg.de
+hostAddress=!!!INSERT HOST ADDRESS HERE!!!
 
 # Run job
 job_id=$(sbatch $jobscript | awk '{print $4}')
