@@ -1,0 +1,112 @@
+# Dependencies for Downloading_and_Parsing_Filings_final.ipynb
+#(Python = 3.9.4)
+
+pandas==2.2.2
+numpy==1.26.4
+lxml==5.1.0
+spacy==3.7.4
+edgartools==4.6.3
+lseg-data==2.1.1
+
+# Dependencies for Preprocessing_Filings_final.ipynb (with GPU inference)
+#(Python = 3.10.14)
+
+pandas==2.3.2
+numpy==1.26.4
+torch==2.5.1+cu121
+spacy==3.8.7
+en-core-web-trf==3.8.0
+gensim==4.4.0
+openpyxl==3.1.5
+nltk==3.8.1
+
+# Dependencies for Preprocessing_Filings_final.ipynb (with CPU inference)
+#(Python = 3.9.4)
+
+pandas==2.2.2
+numpy==1.26.4
+spacy==3.7.4
+en-core-web-lg==3.8.0
+gensim==4.3.3
+openpyxl==3.1.5
+nltk==3.8.1
+
+# Dependencies for Prompt_Engineering_final.ipynb
+#(Python = 3.10.14)
+
+pandas==2.3.2
+numpy==1.26.4
+huggingface_hub==0.34.4
+scikit-learn==1.7.1
+torch==2.5.1+cu121
+pytorch==2.5.1
+transformers==4.57.3
+openpyxl==3.1.5
+
+# Dependencies for Local_Fine_Tuning_final.ipynb
+#(Python = 3.10.14)
+
+pandas==2.3.2
+datasets==4.0.0
+huggingface_hub==0.34.4
+transformers==4.57.3
+torch==2.5.1+cu121
+pytorch==2.5.1
+llamafactory==0.9.4.dev0
+optuna==4.5.0
+scipy==1.15.3
+scikit-learn==1.7.1
+plotnine==0.13.0
+
+
+# Dependencies for OpenAI_Inference_final.ipynb and OpenAI_Fine_Tuning_final.ipynb
+#(Python = 3.9.4)
+
+pandas==2.2.2
+numpy==1.26.4
+tiktoken==0.12.0
+openai==2.6.0
+scikit-learn==1.4.2
+plotnine==0.13.0
+
+# Dependencies for MAP_Survey_Analysis_final.ipynb
+#(Python = 3.9.4)
+
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.12.0
+statsmodels==0.14.1
+plotnine==0.13.0
+spacy==3.7.6
+gensim==4.3.3
+
+# Dependencies for MAP_Scoring_GLLM_Approach_final.ipynb, MAP_Scoring_W2V_Approach.ipynb, MAP_Scoring_BoW_Approach.ipynb
+#(Python = 3.9.4)
+
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.12.0
+scikit-learn==1.4.2
+spacy==3.7.4
+lseg-data==2.1.1
+plotnine==0.13.0
+
+# Dependencies for Validation_Analyses_final.ipynb
+#(Python = 3.14.3)
+
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.5.3
+lseg-data==2.1.1
+plotnine==0.15.3
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.8.0
+scipy==1.17.1
+shap==0.52.0
+statsmodels==0.14.6
+pyfixest==0.40.1
+
+
+
+
