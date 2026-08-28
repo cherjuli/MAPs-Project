@@ -42,10 +42,14 @@ For excluded data, keep placeholder documentation in the corresponding folders w
 
 ## How to Reproduce
 ### 1. Set up environment
-Install Python dependencies:
+Choose a Python version based on the workflow you are running, then install the matching cumulative requirements file:
+
+- **Python 3.9.4** (`requirements_py39.txt`): filing download/parsing, CPU preprocessing, OpenAI inference/fine-tuning, survey analysis, and MAP scoring notebooks
+- **Python 3.10.14** (`requirements_py310.txt`): GPU preprocessing, prompt engineering, and local fine-tuning notebooks
+- **Python 3.14.3** (`requirements_py314.txt`): validation analyses notebook
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements_py39.txt   # or requirements_py310.txt / requirements_py314.txt
 ```
 
 ### 2. Configure credentials

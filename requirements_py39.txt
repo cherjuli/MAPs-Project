@@ -1,0 +1,18 @@
+# Cumulative dependencies for Python 3.9.4 workflows
+
+edgartools==4.6.3
+en-core-web-lg==3.8.0
+gensim==4.3.3
+lseg-data==2.1.1
+lxml==5.1.0
+nltk==3.8.1
+numpy==1.26.4
+openai==2.6.0
+openpyxl==3.1.5
+pandas==2.2.2
+plotnine==0.13.0
+scikit-learn==1.4.2
+scipy==1.12.0
+spacy==3.7.6
+statsmodels==0.14.1
+tiktoken==0.12.0
